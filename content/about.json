@@ -1,0 +1,51 @@
+{
+  "title": { "gu": "અમારા વિશે", "hi": "हमारे बारे में", "en": "About Us" },
+  "subtitle": {
+    "gu": "સત્ કૈવલ પરંપરાનું જ્ઞાનપીઠ",
+    "hi": "सत कैवल परंपरा का ज्ञानपीठ",
+    "en": "The seat of knowledge of the Sat Kaival tradition"
+  },
+  "intro": {
+    "gu": "સત્ કૈવલ જ્ઞાનપીઠ, સરસા, પવિત્ર ગ્રંથો, હસ્તલિખિત હસ્તપ્રતો અને આધ્યાત્મિક સાહિત્યના સંરક્ષણ માટે સમર્પિત છે. અહીં સદીઓની જ્ઞાન પરંપરા ડિજિટલ રૂપે સૌ માટે ઉપલબ્ધ કરવામાં આવે છે.",
+    "hi": "सत कैवल ज्ञानपीठ, सरसा, पवित्र ग्रंथों, हस्तलिखित पाण्डुलिपियों और आध्यात्मिक साहित्य के संरक्षण के लिए समर्पित है। यहाँ सदियों की ज्ञान परंपरा डिजिटल रूप में सभी के लिए उपलब्ध कराई जाती है।",
+    "en": "Sat Kaival Gyanpith, Sarsa, is dedicated to preserving sacred granths, handwritten manuscripts and spiritual literature. Here a centuries-old tradition of knowledge is made available digitally to all."
+  },
+  "missionTitle": { "gu": "અમારું ધ્યેય", "hi": "हमारा उद्देश्य", "en": "Our Mission" },
+  "mission": {
+    "gu": "હસ્તલિખિત ગ્રંથોનું રક્ષણ, પ્રમાણિત પ્રકાશનોનું આયોજન, અને મુમુક્ષુઓ માટે સરળ અધ્યયનની વ્યવસ્થા — આ ત્રણે કાર્યો દ્વારા જ્ઞાનપીઠ સત્ કૈવલ પરંપરાને જીવંત રાખે છે.",
+    "hi": "हस्तलिखित ग्रंथों की रक्षा, प्रमाणित प्रकाशनों का आयोजन, और मुमुक्षुओं के लिए सरल अध्ययन की व्यवस्था — इन तीन कार्यों से ज्ञानपीठ सत कैवल परंपरा को जीवित रखता है।",
+    "en": "By protecting handwritten granths, organizing authentic publications, and making study easy for seekers, the Gyanpith keeps the Sat Kaival tradition alive."
+  },
+  "values": [
+    {
+      "id": "preservation",
+      "icon": "scroll",
+      "title": { "gu": "સંરક્ષણ", "hi": "संरक्षण", "en": "Preservation" },
+      "text": {
+        "gu": "પ્રાચીન હસ્તપ્રતોને ડિજિટલ રૂપે સુરક્ષિત કરી ભવિષ્યની પેઢી સુધી પહોંચાડવી.",
+        "hi": "प्राचीन पाण्डुलिपियों को डिजिटल रूप में सुरक्षित कर आने वाली पीढ़ी तक पहुँचाना।",
+        "en": "Safeguarding ancient manuscripts digitally for generations to come."
+      }
+    },
+    {
+      "id": "study",
+      "icon": "book",
+      "title": { "gu": "અધ્યયન", "hi": "अध्ययन", "en": "Study" },
+      "text": {
+        "gu": "ગ્રંથોને સૌ માટે વાંચવા અને શોધવા યોગ્ય બનાવવા.",
+        "hi": "ग्रंथों को सभी के लिए पढ़ने और खोजने योग्य बनाना।",
+        "en": "Making granths easy to read and search for everyone."
+      }
+    },
+    {
+      "id": "tradition",
+      "icon": "lamp",
+      "title": { "gu": "પરંપરા", "hi": "परंपरा", "en": "Tradition" },
+      "text": {
+        "gu": "સો વર્ષથી વધુની આધ્યાત્મિક પરંપરાને શ્રદ્ધા સાથે આગળ ધપાવવી.",
+        "hi": "सौ वर्षों से अधिक की आध्यात्मिक परंपरा को श्रद्धा के साथ आगे बढ़ाना।",
+        "en": "Carrying forward more than a hundred years of spiritual tradition with reverence."
+      }
+    }
+  ]
+}

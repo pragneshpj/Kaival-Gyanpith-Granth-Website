@@ -1,0 +1,13 @@
+{
+  "title": { "gu": "સંપર્ક", "hi": "संपर्क", "en": "Contact" },
+  "subtitle": {
+    "gu": "જ્ઞાનપીઠ સાથે જોડાઓ",
+    "hi": "ज्ञानपीठ से जुड़ें",
+    "en": "Connect with the Gyanpith"
+  },
+  "intro": {
+    "gu": "ગ્રંથ સંગ્રહ, મુલાકાત અથવા સહયોગ અંગે પૂછપરછ માટે નીચેનું ફોર્મ ભરો અથવા સીધા સંપર્ક કરો.",
+    "hi": "ग्रंथ संग्रह, मुलाकात या सहयोग संबंधी पूछताछ के लिए नीचे दिया गया फ़ॉर्म भरें या सीधे संपर्क करें।",
+    "en": "For queries about the collection, a visit, or collaboration, fill in the form below or contact us directly."
+  }
+}

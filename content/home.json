@@ -1,0 +1,19 @@
+{
+  "eyebrow": { "gu": "સત્ કૈવલ જ્ઞાનપીઠ", "hi": "सत कैवल ज्ञानपीठ", "en": "Sat Kaival Gyanpith" },
+  "title": {
+    "gu": "પવિત્ર જ્ઞાનના ગ્રંથોનું ડિજિટલ પુસ્તકાલય",
+    "hi": "पवित्र ज्ञान के ग्रंथों का डिजिटल पुस्तकालय",
+    "en": "Digital Library of Sacred Knowledge Granths"
+  },
+  "description": {
+    "gu": "સત્ કૈવલ પરંપરાના પવિત્ર ગ્રંથો, હસ્તલિખિત હસ્તપ્રતો અને આધ્યાત્મિક સાહિત્યનું ડિજિટલ સંરક્ષણ. જ્ઞાનની આ અમૂલ્ય ધરોહર હવે સૌ મુમુક્ષુઓ માટે ઉપલબ્ધ છે.",
+    "hi": "सत कैवल परंपरा के पवित्र ग्रंथों, हस्तलिखित पाण्डुलिपियों और आध्यात्मिक साहित्य का डिजिटल संरक्षण। ज्ञान की यह अमूल्य धरोहर अब सभी मुमुक्षुओं के लिए उपलब्ध है।",
+    "en": "Digital preservation of sacred granths, handwritten manuscripts and spiritual literature of the Sat Kaival tradition. This treasure of knowledge is now available to every seeker."
+  },
+  "heroImage": "/images/hero.png",
+  "sections": {
+    "collection": { "gu": "ગ્રંથ સંગ્રહ", "hi": "ग्रंथ संग्रह", "en": "Book Collection" },
+    "featured": { "gu": "પ્રમુખ ગ્રંથો", "hi": "प्रमुख ग्रंथ", "en": "Featured Books" },
+    "literature": { "gu": "અન્ય પવિત્ર સાહિત્ય", "hi": "अन्य पवित्र साहित्य", "en": "Other Sacred Literature" }
+  }
+}

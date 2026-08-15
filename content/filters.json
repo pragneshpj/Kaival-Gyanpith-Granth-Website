@@ -1,0 +1,29 @@
+{
+  "chips": [
+    { "id": "all", "label": { "gu": "બધા", "hi": "सभी", "en": "All" } },
+    { "id": "handwritten", "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" } },
+    { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
+    { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } },
+    { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other Literature" } }
+  ],
+  "dropdowns": {
+    "categories": [
+      { "id": "all", "label": { "gu": "શ્રેણી", "hi": "श्रेणी", "en": "Category" } },
+      { "id": "handwritten", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" } },
+      { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
+      { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } },
+      { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" } }
+    ],
+    "authors": [
+      { "id": "all", "label": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" } },
+      { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
+      { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } }
+    ],
+    "types": [
+      { "id": "all", "label": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" } },
+      { "id": "granth", "label": { "gu": "ગ્રંથ", "hi": "ग्रंथ", "en": "Granth" } },
+      { "id": "niyam", "label": { "gu": "નિયમ", "hi": "नियम", "en": "Niyam" } },
+      { "id": "bhajan", "label": { "gu": "ભજન", "hi": "भजन", "en": "Bhajan" } }
+    ]
+  }
+}

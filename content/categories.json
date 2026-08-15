@@ -1,0 +1,46 @@
+[
+  {
+    "id": "handwritten",
+    "href": "/library",
+    "icon": "scroll",
+    "title": { "gu": "હસ્તલિખિત ગ્રંથ", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" },
+    "description": {
+      "gu": "પ્રાચીન હસ્તપ્રતોનું ડિજિટલ સંરક્ષણ અને અધ્યયન.",
+      "hi": "प्राचीन पाण्डुलिपियों का डिजिटल संरक्षण और अध्ययन।",
+      "en": "Digital preservation and study of ancient manuscripts."
+    }
+  },
+  {
+    "id": "nemi-maharajshri",
+    "href": "/library",
+    "icon": "book",
+    "title": { "gu": "નેમી મહારાજશ્રી દ્વારા પ્રકાશિત", "hi": "नेमी महाराजश्री द्वारा प्रकाशित", "en": "Published by Nemi Maharajshri" },
+    "description": {
+      "gu": "નેમી મહારાજશ્રીના પ્રકાશિત આધ્યાત્મિક ગ્રંથો.",
+      "hi": "नेमी महाराजश्री के प्रकाशित आध्यात्मिक ग्रंथ।",
+      "en": "Spiritual granths published by Nemi Maharajshri."
+    }
+  },
+  {
+    "id": "guruji",
+    "href": "/library",
+    "icon": "lamp",
+    "title": { "gu": "ગુરુજી દ્વારા પ્રકાશિત", "hi": "गुरुजी द्वारा प्रकाशित", "en": "Published by Guruji" },
+    "description": {
+      "gu": "ગુરુજીના પ્રકાશિત સાહિત્ય અને ઉપદેશ ગ્રંથો.",
+      "hi": "गुरुजी का प्रकाशित साहित्य और उपदेश ग्रंथ।",
+      "en": "Literature and teaching granths published by Guruji."
+    }
+  },
+  {
+    "id": "other",
+    "href": "/literature",
+    "icon": "music",
+    "title": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other Literature" },
+    "description": {
+      "gu": "નિયમ, ભજન, સ્તોત્ર, આરતી અને વાણી.",
+      "hi": "नियम, भजन, स्तोत्र, आरती और वाणी।",
+      "en": "Niyam, bhajan, stotra, aarti and vaani."
+    }
+  }
+]

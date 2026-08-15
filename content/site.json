@@ -1,0 +1,128 @@
+{
+  "brand": {
+    "gujarati": "સત્ કૈવલ જ્ઞાનપીઠ",
+    "english": "Sat Kaival Gyanpith",
+    "logo": "/images/logo-flame.png",
+    "footerEmblem": "/images/logo-flame.png"
+  },
+  "languages": [
+    { "code": "gu", "label": "ગુજરાતી" },
+    { "code": "hi", "label": "हिन्दी" },
+    { "code": "en", "label": "English" }
+  ],
+  "nav": [
+    {
+      "id": "home",
+      "href": "/",
+      "label": { "gu": "હોમ", "hi": "होम", "en": "Home" }
+    },
+    {
+      "id": "library",
+      "href": "/library",
+      "label": { "gu": "ગ્રંથ લાઇબ્રેરી", "hi": "ग्रंथ लाइब्रेरी", "en": "Granth Library" }
+    },
+    {
+      "id": "about",
+      "href": "/about",
+      "label": { "gu": "અમારા વિશે", "hi": "हमारे बारे में", "en": "About" }
+    },
+    {
+      "id": "literature",
+      "href": "/literature",
+      "label": { "gu": "સાહિત્ય", "hi": "साहित्य", "en": "Literature" }
+    },
+    {
+      "id": "contact",
+      "href": "/contact",
+      "label": { "gu": "સંપર્ક", "hi": "संपर्क", "en": "Contact" }
+    }
+  ],
+  "ui": {
+    "read": { "gu": "વાંચો", "hi": "पढ़ें", "en": "Read" },
+    "pdf": { "gu": "PDF", "hi": "PDF", "en": "PDF" },
+    "view": { "gu": "જુઓ", "hi": "देखें", "en": "View" },
+    "viewAll": { "gu": "બધા ગ્રંથો જુઓ", "hi": "सभी ग्रंथ देखें", "en": "View All Books" },
+    "search": { "gu": "શોધો", "hi": "खोजें", "en": "Search" },
+    "searchPlaceholder": {
+      "gu": "ગ્રંથ, રચયિતા અથવા વિષય શોધો...",
+      "hi": "ग्रंथ, रचयिता या विषय खोजें...",
+      "en": "Search granth, author or subject..."
+    },
+    "category": { "gu": "શ્રેણી", "hi": "श्रेणी", "en": "Category" },
+    "author": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" },
+    "literatureType": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" },
+    "viewBooks": { "gu": "ગ્રંથો જુઓ", "hi": "ग्रंथ देखें", "en": "View Books" },
+    "handwrittenCta": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" },
+    "booksCount": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "books" },
+    "send": { "gu": "સંદેશ મોકલો", "hi": "संदेश भेजें", "en": "Send Message" },
+    "name": { "gu": "નામ", "hi": "नाम", "en": "Name" },
+    "email": { "gu": "ઈમેઈલ", "hi": "ईमेल", "en": "Email" },
+    "phone": { "gu": "ફોન", "hi": "फ़ोन", "en": "Phone" },
+    "message": { "gu": "સંદેશ", "hi": "संदेश", "en": "Message" },
+    "formSuccess": {
+      "gu": "આભાર. તમારો સંદેશ પ્રાપ્ત થયો છે.",
+      "hi": "धन्यवाद। आपका संदेश प्राप्त हो गया है।",
+      "en": "Thank you. Your message has been received."
+    },
+    "downloadPdf": { "gu": "PDF ડાઉનલોડ", "hi": "PDF डाउनलोड", "en": "Download PDF" },
+    "backToLibrary": { "gu": "લાઇબ્રેરી પર પાછા", "hi": "लाइब्रेरी पर वापस", "en": "Back to Library" },
+    "privacy": { "gu": "ગોપનીયતા નીતિ", "hi": "गोपनीयता नीति", "en": "Privacy Policy" },
+    "terms": { "gu": "નિયમો અને શરતો", "hi": "नियम और शर्तें", "en": "Terms & Conditions" }
+  },
+  "contact": {
+    "address": {
+      "gu": "સત્ કૈવલ જ્ઞાનપીઠ, સરસા, જિ. આણંદ, ગુજરાત, ભારત",
+      "hi": "सत कैवल ज्ञानपीठ, सरसा, जि. आणंद, गुजरात, भारत",
+      "en": "Sat Kaival Gyanpith, Sarsa, Dist. Anand, Gujarat, India"
+    },
+    "phone": "+91 2692 234567",
+    "email": "info@satkaivalgyanpith.org"
+  },
+  "social": [
+    { "id": "facebook", "href": "https://facebook.com", "label": "Facebook" },
+    { "id": "youtube", "href": "https://youtube.com", "label": "YouTube" },
+    { "id": "instagram", "href": "https://instagram.com", "label": "Instagram" }
+  ],
+  "stats": [
+    {
+      "id": "books",
+      "value": "50+",
+      "icon": "book",
+      "label": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "Books" }
+    },
+    {
+      "id": "handwritten",
+      "value": "20+",
+      "icon": "scroll",
+      "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" }
+    },
+    {
+      "id": "categories",
+      "value": "4",
+      "icon": "lamp",
+      "label": { "gu": "મુખ્ય શ્રેણી", "hi": "मुख्य श्रेणियाँ", "en": "Main Categories" }
+    },
+    {
+      "id": "years",
+      "value": "100+",
+      "icon": "temple",
+      "label": { "gu": "વર્ષની પરંપરા", "hi": "वर्षों की परंपरा", "en": "Years of Tradition" }
+    }
+  ],
+  "footer": {
+    "about": {
+      "gu": "સત્ કૈવલ પરંપરાના પવિત્ર ગ્રંથો અને હસ્તલિખિત હસ્તપ્રતોનું ડિજિટલ પુસ્તકાલય.",
+      "hi": "सत कैवल परंपरा के पवित्र ग्रंथों और हस्तलिखित पाण्डुलिपियों का डिजिटल पुस्तकालय।",
+      "en": "A digital library of sacred granths and handwritten manuscripts of the Sat Kaival tradition."
+    },
+    "quickLinksTitle": { "gu": "ઝડપી લિંક્સ", "hi": "त्वरित लिंक", "en": "Quick Links" },
+    "collectionTitle": { "gu": "ગ્રંથ સંગ્રહ", "hi": "ग्रंथ संग्रह", "en": "Collection" },
+    "contactTitle": { "gu": "સંપર્ક", "hi": "संपर्क", "en": "Contact" },
+    "followUs": { "gu": "અમને અનુસરો", "hi": "हमें फॉलो करें", "en": "Follow Us" },
+    "copyright": {
+      "gu": "© 2026 સત્ કૈવલ જ્ઞાનપીઠ. સર્વ અધિકારો સુરક્ષિત.",
+      "hi": "© 2026 सत कैवल ज्ञानपीठ. सर्वाधिकार सुरक्षित।",
+      "en": "© 2026 Sat Kaival Gyanpith. All rights reserved."
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "niyam",
+    "icon": "scroll",
+    "count": "25+",
+    "href": "/literature",
+    "title": { "gu": "નિયમ", "hi": "नियम", "en": "Niyam" },
+    "description": {
+      "gu": "આચાર, નિયમ અને દૈનિક સાધના સંબંધિત ગ્રંથો.",
+      "hi": "आचार, नियम और दैनिक साधना से संबंधित ग्रंथ।",
+      "en": "Granths on conduct, discipline and daily sadhana."
+    }
+  },
+  {
+    "id": "bhajan",
+    "icon": "music",
+    "count": "30+",
+    "href": "/literature",
+    "title": { "gu": "ભજન", "hi": "भजन", "en": "Bhajan" },
+    "description": {
+      "gu": "ભક્તિ ભજનો અને આધ્યાત્મિક ગીતોનો સંગ્રહ.",
+      "hi": "भक्ति भजन और आध्यात्मिक गीतों का संग्रह।",
+      "en": "A collection of devotional bhajans and spiritual songs."
+    }
+  },
+  {
+    "id": "stotra",
+    "icon": "lotus",
+    "count": "20+",
+    "href": "/literature",
+    "title": { "gu": "સ્તોત્ર", "hi": "स्तोत्र", "en": "Stotra" },
+    "description": {
+      "gu": "સ્તુતિ, સ્તોત્ર અને પ્રાર્થના સાહિત્ય.",
+      "hi": "स्तुति, स्तोत्र और प्रार्थना साहित्य।",
+      "en": "Hymns, stotras and prayer literature."
+    }
+  },
+  {
+    "id": "aarti",
+    "icon": "lamp",
+    "count": "15+",
+    "href": "/literature",
+    "title": { "gu": "આરતી", "hi": "आरती", "en": "Aarti" },
+    "description": {
+      "gu": "આરતી, આરાધના અને ઉત્સવ સાહિત્ય.",
+      "hi": "आरती, आराधना और उत्सव साहित्य।",
+      "en": "Aarti, worship and festival literature."
+    }
+  },
+  {
+    "id": "vaani",
+    "icon": "vaani",
+    "count": "10+",
+    "href": "/literature",
+    "title": { "gu": "વાણી", "hi": "वाणी", "en": "Vaani" },
+    "description": {
+      "gu": "સંત વાણી અને ઉપદેશ સંગ્રહ.",
+      "hi": "संत वाणी और उपदेश संग्रह।",
+      "en": "Collected teachings and saintly vaani."
+    }
+  },
+  {
+    "id": "other",
+    "icon": "books",
+    "count": "40+",
+    "href": "/literature",
+    "title": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" },
+    "description": {
+      "gu": "અન્ય પવિત્ર અને પૂરક સાહિત્ય.",
+      "hi": "अन्य पवित्र और पूरक साहित्य।",
+      "en": "Other sacred and supporting literature."
+    }
+  }
+]
