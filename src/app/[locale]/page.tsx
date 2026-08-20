@@ -1,11 +1,9 @@
-import Image from "next/image";
-import { ArrowRight } from "lucide-react";
 import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { BookCarousel } from "@/components/BookCarousel";
 import { CategoryCard } from "@/components/CategoryCard";
+import { Hero } from "@/components/Hero";
 import { LiteratureCard } from "@/components/LiteratureCard";
-import { ScrollIcon } from "@/components/Icons";
 import { SearchBar } from "@/components/SearchBar";
 import { SectionTitle } from "@/components/SectionTitle";
 import { StatsBar } from "@/components/StatsBar";
@@ -38,43 +36,9 @@ export default async function HomePage({
 
   return (
     <>
-      <section className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-12 md:grid-cols-2 md:px-8 md:py-16">
-        <div>
-          <p className="mb-3 font-semibold text-maroon">{t(home.eyebrow, locale)}</p>
-          <h1 className="text-3xl font-bold leading-tight text-maroon md:text-5xl">
-            {t(home.title, locale)}
-          </h1>
-          <p className="mt-5 max-w-xl text-base leading-7 text-muted">{t(home.description, locale)}</p>
-          <div className="mt-8 flex flex-wrap gap-3">
-            <Link
-              href="/library"
-              className="inline-flex items-center gap-2 rounded-lg bg-maroon px-6 py-3 font-semibold text-white hover:bg-maroon-hover"
-            >
-              {t(site.ui.viewBooks, locale)}
-              <ArrowRight className="h-4 w-4" />
-            </Link>
-            <Link
-              href="/library"
-              className="inline-flex items-center gap-2 rounded-lg border-2 border-gold bg-transparent px-6 py-3 font-semibold text-ink hover:bg-gold/10"
-            >
-              <ScrollIcon className="h-5 w-5 text-gold-dark" />
-              {t(site.ui.handwrittenCta, locale)}
-            </Link>
-          </div>
-        </div>
-        <div className="relative">
-          <Image
-            src={home.heroImage}
-            alt={t(home.title, locale)}
-            width={1280}
-            height={720}
-            priority
-            className="h-auto w-full rounded-2xl object-cover"
-          />
-        </div>
-      </section>
+      <Hero locale={locale} home={home} ui={site.ui} />
 
-      <section className="pb-16">
+      <section className="py-12 md:py-16">
         <SearchBar locale={locale} filters={filters} ui={site.ui} />
       </section>
 

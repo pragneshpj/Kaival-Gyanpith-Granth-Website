@@ -14,7 +14,7 @@ type NavItem = {
 };
 
 type Site = {
-  brand: { gujarati: string; english: string };
+  brand: { logo: string; gujarati: string; english: string };
   languages: { code: string; label: string }[];
   nav: NavItem[];
 };
@@ -25,7 +25,7 @@ export function Header({ locale, site }: { locale: Locale; site: Site }) {
   return (
     <header className="site-header sticky top-0 z-40 border-b-2 border-[#D4AF37] bg-[#FEF9E7]">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-5 py-3.5 md:px-8">
-        <Logo gujarati={site.brand.gujarati} english={site.brand.english} />
+        <Logo src={site.brand.logo} alt={site.brand.gujarati} />
 
         <div className="flex items-center gap-7 lg:gap-10">
           <nav className="hidden items-center gap-8 lg:flex xl:gap-10">

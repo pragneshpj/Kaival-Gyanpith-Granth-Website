@@ -6,7 +6,7 @@ import { t } from "@/lib/content";
 import type { Locale, Localized } from "@/lib/types";
 
 type Site = {
-  brand: { footerEmblem: string; gujarati: string; english: string };
+  brand: { logo: string; footerLogo: string; footerEmblem: string; gujarati: string; english: string };
   nav: { id: string; href: string; label: Localized }[];
   ui: { privacy: Localized; terms: Localized };
   contact: { address: Localized; phone: string; email: string };
@@ -70,9 +70,7 @@ export function Footer({
     <footer className="bg-maroon-dark text-white">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 md:grid-cols-2 md:px-8 lg:grid-cols-5">
         <div className="lg:col-span-1">
-          <div className="[&_span]:text-white [&_.text-maroon]:text-gold [&_.text-muted]:text-white/70">
-            <Logo compact gujarati={site.brand.gujarati} english={site.brand.english} />
-          </div>
+          <Logo compact src={site.brand.footerLogo} alt={site.brand.gujarati} />
           <p className="mt-4 text-sm leading-6 text-white/80">{t(site.footer.about, locale)}</p>
           <div className="mt-5 flex gap-3">
             {site.social.map((item) => {

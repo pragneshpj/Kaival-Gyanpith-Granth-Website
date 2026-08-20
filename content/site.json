@@ -2,7 +2,8 @@
   "brand": {
     "gujarati": "સત્ કૈવલ જ્ઞાનપીઠ",
     "english": "Sat Kaival Gyanpith",
-    "logo": "/images/logo-flame.png",
+    "logo": "/images/logo.png",
+    "footerLogo": "/images/logo-footer.png",
     "footerEmblem": "/images/logo-flame.png"
   },
   "languages": [
