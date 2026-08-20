@@ -88,26 +88,26 @@
     {
       "id": "books",
       "value": "50+",
-      "icon": "book",
+      "icon": "/images/stats/book.png",
       "label": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "Books" }
     },
     {
       "id": "handwritten",
       "value": "20+",
-      "icon": "scroll",
+      "icon": "/images/stats/scroll.png",
       "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" }
     },
     {
       "id": "categories",
       "value": "4",
-      "icon": "lamp",
-      "label": { "gu": "મુખ્ય શ્રેણી", "hi": "मुख्य श्रेणियाँ", "en": "Main Categories" }
+      "icon": "/images/stats/lotus.png",
+      "label": { "gu": "મુખ્ય શ્રેણીઓ", "hi": "मुख्य श्रेणियाँ", "en": "Main Categories" }
     },
     {
       "id": "years",
       "value": "100+",
-      "icon": "temple",
-      "label": { "gu": "વર્ષની પરંપરા", "hi": "वर्षों की परंपरा", "en": "Years of Tradition" }
+      "icon": "/images/stats/temple.png",
+      "label": { "gu": "વર્ષોની જ્ઞાન પરંપરા", "hi": "वर्षों की ज्ञान परंपरा", "en": "Years of Knowledge Tradition" }
     }
   ],
   "footer": {

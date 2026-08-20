@@ -66,7 +66,7 @@ export function Hero({
   const titleLines = t(home.title, locale).split("\n");
 
   return (
-    <section className="relative overflow-hidden bg-[#FCF8F1]">
+    <section className="relative overflow-hidden bg-[#fcebce]">
       <Mandala className="pointer-events-none absolute -top-10 -right-24 hidden h-[560px] w-[560px] opacity-[0.12] lg:block" />
 
       <div className="mx-auto grid max-w-7xl items-center px-5 py-10 md:grid-cols-[minmax(0,0.92fr)_minmax(0,1.18fr)] md:px-8 md:py-14 lg:py-16">

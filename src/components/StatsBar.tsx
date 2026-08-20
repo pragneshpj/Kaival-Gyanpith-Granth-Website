@@ -1,4 +1,4 @@
-import { iconMap, type IconName } from "./Icons";
+import Image from "next/image";
 import { t } from "@/lib/content";
 import type { Locale, Localized } from "@/lib/types";
 
@@ -9,24 +9,57 @@ type Stat = {
   label: Localized;
 };
 
-export function StatsBar({ locale, stats }: { locale: Locale; stats: Stat[] }) {
+function Mandala({ className = "" }: { className?: string }) {
   return (
-    <section className="border-y border-gold/40 bg-[linear-gradient(90deg,#f6e7c3,#f3d9a4,#f6e7c3)]">
-      <div className="mx-auto grid max-w-6xl grid-cols-2 gap-6 px-4 py-10 md:grid-cols-4 md:px-8">
-        {stats.map((stat) => {
-          const Icon = iconMap[stat.icon as IconName] ?? iconMap.book;
+    <svg viewBox="0 0 200 200" className={className} aria-hidden="true">
+      <g fill="none" stroke="#d4af37" strokeWidth="0.6">
+        <circle cx="100" cy="100" r="96" />
+        <circle cx="100" cy="100" r="78" />
+        <circle cx="100" cy="100" r="58" />
+        <circle cx="100" cy="100" r="36" />
+        {Array.from({ length: 24 }).map((_, i) => {
+          const a = (i * Math.PI) / 12;
           return (
-            <div key={stat.id} className="flex items-center gap-3">
-              <span className="flex h-12 w-12 items-center justify-center rounded-full bg-white/50 text-gold-dark">
-                <Icon className="h-7 w-7" />
-              </span>
-              <div>
-                <p className="text-2xl font-bold text-maroon">{stat.value}</p>
-                <p className="text-sm text-ink/80">{t(stat.label, locale)}</p>
-              </div>
-            </div>
+            <line
+              key={i}
+              x1="100"
+              y1="100"
+              x2={100 + Math.cos(a) * 96}
+              y2={100 + Math.sin(a) * 96}
+            />
           );
         })}
+      </g>
+    </svg>
+  );
+}
+
+export function StatsBar({ locale, stats }: { locale: Locale; stats: Stat[] }) {
+  return (
+    <section className="relative overflow-hidden border-y border-[#6B1518] bg-[#F8F1E3]">
+      <Mandala className="pointer-events-none absolute top-1/2 -left-24 hidden h-[280px] w-[280px] -translate-y-1/2 opacity-[0.18] md:block" />
+      <Mandala className="pointer-events-none absolute top-1/2 -right-24 hidden h-[280px] w-[280px] -translate-y-1/2 opacity-[0.18] md:block" />
+
+      <div className="relative mx-auto grid max-w-6xl grid-cols-2 gap-x-6 gap-y-8 px-5 py-8 md:grid-cols-4 md:px-8 md:py-10">
+        {stats.map((stat) => (
+          <div key={stat.id} className="flex items-center gap-3">
+            <Image
+              src={stat.icon}
+              alt=""
+              width={88}
+              height={88}
+              className="h-[52px] w-[52px] shrink-0 object-contain sm:h-16 sm:w-16"
+            />
+            <div>
+              <p className="font-[family-name:var(--font-serif-latin)] text-[32px] leading-none font-bold text-[#6B1518] md:text-[36px]">
+                {stat.value}
+              </p>
+              <p className="mt-1 font-sans text-[15px] leading-snug font-medium text-[#6B1518] md:text-[16px]">
+                {t(stat.label, locale)}
+              </p>
+            </div>
+          </div>
+        ))}
       </div>
     </section>
   );
