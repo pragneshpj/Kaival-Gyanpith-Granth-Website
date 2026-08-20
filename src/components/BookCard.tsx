@@ -30,7 +30,13 @@ export function BookCard({
   return (
     <article className="card-lift flex h-full flex-col overflow-hidden rounded-xl border border-gold/25 bg-parchment shadow-sm">
       <div className="relative aspect-[3/4] overflow-hidden bg-cream-dark">
-        <Image src={book.cover} alt={t(book.title, locale)} fill className="object-cover" />
+        <Image
+          src={book.cover}
+          alt={t(book.title, locale)}
+          fill
+          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 210px"
+          className="object-cover"
+        />
       </div>
       <div className="flex flex-1 flex-col p-3">
         <span className="mb-2 inline-flex w-fit rounded bg-maroon px-2 py-0.5 text-[11px] font-medium text-white">

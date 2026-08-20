@@ -14,6 +14,7 @@
   --color-ink: #2f241e;
   --color-muted: #6b5748;
   --font-sans: var(--font-gujarati), var(--font-devanagari), var(--font-latin), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif-gujarati), var(--font-serif-latin), Georgia, "Times New Roman", serif;
 }
 
 html,
@@ -57,4 +58,8 @@ body {
 
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
+}
+
+.site-header {
+  font-family: var(--font-serif);
 }

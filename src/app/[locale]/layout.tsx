@@ -2,7 +2,13 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
-import { Noto_Sans, Noto_Sans_Devanagari, Noto_Sans_Gujarati } from "next/font/google";
+import {
+  Crimson_Text,
+  Noto_Sans,
+  Noto_Sans_Devanagari,
+  Noto_Sans_Gujarati,
+  Noto_Serif_Gujarati,
+} from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { routing } from "@/i18n/routing";
@@ -25,6 +31,18 @@ const latin = Noto_Sans({
   subsets: ["latin"],
   variable: "--font-latin",
   weight: ["400", "500", "600", "700"],
+});
+
+const serifGujarati = Noto_Serif_Gujarati({
+  subsets: ["gujarati"],
+  variable: "--font-serif-gujarati",
+  weight: ["400", "600", "700"],
+});
+
+const serifLatin = Crimson_Text({
+  subsets: ["latin"],
+  variable: "--font-serif-latin",
+  weight: ["400", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -55,7 +73,7 @@ export default async function LocaleLayout({
   return (
     <html
       lang={locale}
-      className={`${gujarati.variable} ${devanagari.variable} ${latin.variable} h-full antialiased`}
+      className={`${gujarati.variable} ${devanagari.variable} ${latin.variable} ${serifGujarati.variable} ${serifLatin.variable} h-full antialiased`}
     >
       <body className="page-texture min-h-full font-sans">
         <NextIntlClientProvider locale={locale} messages={{}}>
