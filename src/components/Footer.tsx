@@ -140,9 +140,9 @@ export function Footer({
           <Image
             src={site.brand.footerEmblem}
             alt=""
-            width={180}
-            height={180}
-            className="mx-auto h-36 w-36 object-contain opacity-90"
+            width={1015}
+            height={436}
+            className="mx-auto h-auto w-full max-w-[280px] object-contain object-bottom"
           />
         </div>
       </div>
