@@ -1,7 +1,7 @@
 {
   "brand": {
-    "gujarati": "સત્ કૈવલ જ્ઞાનપીઠ",
-    "english": "Sat Kaival Gyanpith",
+    "gujarati": "કૈવલ જ્ઞાનપીઠ",
+    "english": "Kaival Gyanpith",
     "logo": "/images/logo.png",
     "footerLogo": "/images/logo-footer.png",
     "footerEmblem": "/images/logo-flame.png"
@@ -72,9 +72,9 @@
   },
   "contact": {
     "address": {
-      "gu": "સત્ કૈવલ જ્ઞાનપીઠ, સરસા, જિ. આણંદ, ગુજરાત, ભારત",
-      "hi": "सत कैवल ज्ञानपीठ, सरसा, जि. आणंद, गुजरात, भारत",
-      "en": "Sat Kaival Gyanpith, Sarsa, Dist. Anand, Gujarat, India"
+      "gu": "કૈવલ જ્ઞાનપીઠ, સરસા, જિ. આણંદ, ગુજરાત, ભારત",
+      "hi": "कैवल ज्ञानपीठ, सरसा, जि. आणंद, गुजरात, भारत",
+      "en": "Kaival Gyanpith, Sarsa, Dist. Anand, Gujarat, India"
     },
     "phone": "+91 2692 234567",
     "email": "info@satkaivalgyanpith.org"
@@ -112,18 +112,18 @@
   ],
   "footer": {
     "about": {
-      "gu": "સત્ કૈવલ પરંપરાના પવિત્ર ગ્રંથો અને હસ્તલિખિત હસ્તપ્રતોનું ડિજિટલ પુસ્તકાલય.",
-      "hi": "सत कैवल परंपरा के पवित्र ग्रंथों और हस्तलिखित पाण्डुलिपियों का डिजिटल पुस्तकालय।",
-      "en": "A digital library of sacred granths and handwritten manuscripts of the Sat Kaival tradition."
+      "gu": "કૈવલ પરંપરાના પવિત્ર ગ્રંથો અને હસ્તલિખિત હસ્તપ્રતોનું ડિજિટલ પુસ્તકાલય.",
+      "hi": "कैवल परंपरा के पवित्र ग्रंथों और हस्तलिखित पाण्डुलिपियों का डिजिटल पुस्तकालय।",
+      "en": "A digital library of sacred granths and handwritten manuscripts of the Kaival tradition."
     },
     "quickLinksTitle": { "gu": "ઝડપી લિંક્સ", "hi": "त्वरित लिंक", "en": "Quick Links" },
     "collectionTitle": { "gu": "ગ્રંથ સંગ્રહ", "hi": "ग्रंथ संग्रह", "en": "Collection" },
     "contactTitle": { "gu": "સંપર્ક", "hi": "संपर्क", "en": "Contact" },
     "followUs": { "gu": "અમને અનુસરો", "hi": "हमें फॉलो करें", "en": "Follow Us" },
     "copyright": {
-      "gu": "© 2026 સત્ કૈવલ જ્ઞાનપીઠ. સર્વ અધિકારો સુરક્ષિત.",
-      "hi": "© 2026 सत कैवल ज्ञानपीठ. सर्वाधिकार सुरक्षित।",
-      "en": "© 2026 Sat Kaival Gyanpith. All rights reserved."
+      "gu": "© 2026 કૈવલ જ્ઞાનપીઠ. સર્વ અધિકારો સુરક્ષિત.",
+      "hi": "© 2026 कैवल ज्ञानपीठ. सर्वाधिकार सुरक्षित।",
+      "en": "© 2026 Kaival Gyanpith. All rights reserved."
     }
   }
 }

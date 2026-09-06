@@ -1,14 +1,14 @@
 {
-  "eyebrow": { "gu": "સત્ કૈવલ જ્ઞાનપીઠ", "hi": "सत कैवल ज्ञानपीठ", "en": "Sat Kaival Gyanpith" },
+  "eyebrow": { "gu": "કૈવલ જ્ઞાનપીઠ", "hi": "कैवल ज्ञानपीठ", "en": "Kaival Gyanpith" },
   "title": {
-    "gu": "પવિત્ર જ્ઞાનના ગ્રંથોનું\nડિજિટલ પુસ્તકાલય",
-    "hi": "पवित्र ज्ञान के ग्रंथों का\nडिजिटल पुस्तकालय",
-    "en": "Digital Library of\nSacred Knowledge Granths"
+    "gu": "જ્ઞાન સંપ્રદાયના ગ્રંથોનું\nડિજિટલ પુસ્તકાલય",
+    "hi": "ज्ञान संप्रदाय के ग्रंथों का\nडिजिटल पुस्तकालय",
+    "en": "Digital Library of\nGyan Sampraday Granths"
   },
   "description": {
-    "gu": "સત્ કૈવલ જ્ઞાનપીઠની આધ્યાત્મિક જ્ઞાન પરંપરા, ગુરુવાણી, હસ્તલિખિત ગ્રંથો અને પવિત્ર સાહિત્યને ડિજિટલ સ્વરૂપે સાચવવાનો એક નમ્ર પ્રયાસ.",
-    "hi": "सत कैवल ज्ञानपीठ की आध्यात्मिक ज्ञान परंपरा, गुरुवाणी, हस्तलिखित ग्रंथों और पवित्र साहित्य को डिजिटल रूप में सहेजने का एक विनम्र प्रयास।",
-    "en": "A humble effort to preserve Sat Kaival Gyanpith’s spiritual knowledge tradition, guru-vani, handwritten granths and sacred literature in digital form."
+    "gu": "કૈવલ જ્ઞાનપીઠની આધ્યાત્મિક જ્ઞાન પરંપરા, ગુરુવાણી, હસ્તલિખિત ગ્રંથો અને પવિત્ર સાહિત્યને ડિજિટલ સ્વરૂપે સાચવવાનો એક નમ્ર પ્રયાસ.",
+    "hi": "कैवल ज्ञानपीठ की आध्यात्मिक ज्ञान परंपरा, गुरुवाणी, हस्तलिखित ग्रंथों और पवित्र साहित्य को डिजिटल रूप में सहेजने का एक विनम्र प्रयास।",
+    "en": "A humble effort to preserve Kaival Gyanpith’s spiritual knowledge tradition, guru-vani, handwritten granths and sacred literature in digital form."
   },
   "heroImage": "/images/hero.png",
   "sections": {

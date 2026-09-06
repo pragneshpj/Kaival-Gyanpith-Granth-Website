@@ -46,8 +46,8 @@ const serifLatin = Crimson_Text({
 });
 
 export const metadata: Metadata = {
-  title: "Sat Kaival Gyanpith",
-  description: "Digital library of sacred granths",
+  title: "Kaival Gyanpith",
+  description: "Digital Library of Gyan Sampraday Granths",
 };
 
 export function generateStaticParams() {

@@ -5,7 +5,7 @@ export default function NotFound() {
         <h1>404</h1>
         <p>Page not found</p>
         <p>
-          <a href="/en">Sat Kaival Gyanpith</a>
+          <a href="/en">Kaival Gyanpith</a>
         </p>
       </body>
     </html>
