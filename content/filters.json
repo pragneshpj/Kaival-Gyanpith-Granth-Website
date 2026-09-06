@@ -1,29 +1,94 @@
 {
   "chips": [
     { "id": "all", "label": { "gu": "બધા", "hi": "सभी", "en": "All" } },
-    { "id": "handwritten", "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" } },
-    { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
-    { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } },
-    { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other Literature" } }
+    { "id": "handwritten", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" } },
+    {
+      "id": "nemi-maharajshri",
+      "label": {
+        "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+        "hi": "नेमी महाराज द्वारा अनुवाद",
+        "en": "Anuvad By Nemi Maharaj"
+      }
+    },
+    {
+      "id": "guruji",
+      "label": {
+        "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+        "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+        "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+      }
+    }
   ],
   "dropdowns": {
     "categories": [
       { "id": "all", "label": { "gu": "શ્રેણી", "hi": "श्रेणी", "en": "Category" } },
       { "id": "handwritten", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" } },
-      { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
-      { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } },
-      { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" } }
+      {
+        "id": "nemi-maharajshri",
+        "label": {
+          "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+          "hi": "नेमी महाराज द्वारा अनुवाद",
+          "en": "Anuvad By Nemi Maharaj"
+        }
+      },
+      {
+        "id": "guruji",
+        "label": {
+          "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+          "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+          "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+        }
+      }
     ],
     "authors": [
       { "id": "all", "label": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" } },
-      { "id": "nemi-maharajshri", "label": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" } },
-      { "id": "guruji", "label": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" } }
+      {
+        "id": "divya-param-guru",
+        "label": {
+          "gu": "દિવ્ય પરમ ગુરુ",
+          "hi": "दिव्य परम गुरु",
+          "en": "Divya Param Guru"
+        }
+      },
+      {
+        "id": "narvedsagar",
+        "label": {
+          "gu": "પ.પુ. નરવેદ સાગર મહારાજ",
+          "hi": "प.पु. नरवेद सागर महाराज",
+          "en": "P.P. Narved Sagar Maharaj"
+        }
+      },
+      {
+        "id": "acharatba",
+        "label": {
+          "gu": "પ.પુ. અચરતબા",
+          "hi": "प.पु. अचरतबा",
+          "en": "P.P. Acharatba"
+        }
+      },
+      {
+        "id": "nemi-maharaj",
+        "label": {
+          "gu": "પ.પુ. નેમી મહારાજ",
+          "hi": "प.पु. नेमी महाराज",
+          "en": "P.P. Nemi Maharaj"
+        }
+      },
+      {
+        "id": "avichal-devacharya",
+        "label": {
+          "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+          "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+          "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+        }
+      },
+      { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" } }
     ],
     "types": [
       { "id": "all", "label": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" } },
       { "id": "granth", "label": { "gu": "ગ્રંથ", "hi": "ग्रंथ", "en": "Granth" } },
-      { "id": "niyam", "label": { "gu": "નિયમ", "hi": "नियम", "en": "Niyam" } },
-      { "id": "bhajan", "label": { "gu": "ભજન", "hi": "भजन", "en": "Bhajan" } }
+      { "id": "bhajan", "label": { "gu": "ભજન", "hi": "भजन", "en": "Bhajan" } },
+      { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Others" } }
     ]
   }
 }

@@ -3,7 +3,11 @@
     "id": "handwritten",
     "href": "/library",
     "icon": "scroll",
-    "title": { "gu": "હસ્તલિખિત ગ્રંથ", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" },
+    "title": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
     "description": {
       "gu": "પ્રાચીન હસ્તપ્રતોનું ડિજિટલ સંરક્ષણ અને અધ્યયન.",
       "hi": "प्राचीन पाण्डुलिपियों का डिजिटल संरक्षण और अध्ययन।",
@@ -14,29 +18,41 @@
     "id": "nemi-maharajshri",
     "href": "/library",
     "icon": "book",
-    "title": { "gu": "નેમી મહારાજશ્રી દ્વારા પ્રકાશિત", "hi": "नेमी महाराजश्री द्वारा प्रकाशित", "en": "Published by Nemi Maharajshri" },
+    "title": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
     "description": {
-      "gu": "નેમી મહારાજશ્રીના પ્રકાશિત આધ્યાત્મિક ગ્રંથો.",
-      "hi": "नेमी महाराजश्री के प्रकाशित आध्यात्मिक ग्रंथ।",
-      "en": "Spiritual granths published by Nemi Maharajshri."
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદિત ગ્રંથો.",
+      "hi": "नेमी महाराज द्वारा अनुवादित ग्रंथ।",
+      "en": "Granths translated by Nemi Maharaj"
     }
   },
   {
     "id": "guruji",
     "href": "/library",
     "icon": "lamp",
-    "title": { "gu": "ગુરુજી દ્વારા પ્રકાશિત", "hi": "गुरुजी द्वारा प्रकाशित", "en": "Published by Guruji" },
+    "title": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+    },
     "description": {
-      "gu": "ગુરુજીના પ્રકાશિત સાહિત્ય અને ઉપદેશ ગ્રંથો.",
-      "hi": "गुरुजी का प्रकाशित साहित्य और उपदेश ग्रंथ।",
-      "en": "Literature and teaching granths published by Guruji."
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદિત ગ્રંથો.",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवादित ग्रंथ।",
+      "en": "Granths translated by Jagadguru Avichal Devacharya Maharaj"
     }
   },
   {
     "id": "other",
     "href": "/literature",
     "icon": "music",
-    "title": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other Literature" },
+    "title": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other Literature"
+    },
     "description": {
       "gu": "નિયમ, ભજન, સ્તોત્ર, આરતી અને વાણી.",
       "hi": "नियम, भजन, स्तोत्र, आरती और वाणी।",
