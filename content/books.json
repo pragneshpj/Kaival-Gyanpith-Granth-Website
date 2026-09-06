@@ -1,146 +1,482 @@
 [
   {
-    "id": "shrimad-rajchandra",
-    "slug": "shrimad-rajchandra",
-    "cover": "/images/books/book-1.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharajshri",
-    "literatureTypeId": "granth",
-    "title": { "gu": "શ્રીમદ્ રાજચંદ્ર", "hi": "श्रीमद् राजचंद्र", "en": "Shrimad Rajchandra" },
-    "author": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "tag": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "excerpt": {
-      "gu": "આત્મજ્ઞાન અને મુમુક્ષુ માર્ગ પરનો પ્રમુખ ગ્રંથ.",
-      "hi": "आत्मज्ञान और मुमुक्षु मार्ग पर प्रमुख ग्रंथ।",
-      "en": "A principal granth on self-knowledge and the seeker's path."
-    }
-  },
-  {
-    "id": "atmasiddhi",
-    "slug": "atmasiddhi",
-    "cover": "/images/books/book-2.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharajshri",
-    "literatureTypeId": "granth",
-    "title": { "gu": "આત્મસિદ્ધિ", "hi": "आत्मसिद्धि", "en": "Atmasiddhi" },
-    "author": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "tag": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "excerpt": {
-      "gu": "આત્માની સિદ્ધિ અને છ પદનું સરળ નિરૂપણ.",
-      "hi": "आत्मा की सिद्धि और छह पदों का सरल निरूपण।",
-      "en": "A clear exposition of self-realization and the six pads."
-    }
-  },
-  {
-    "id": "vachanamrut",
-    "slug": "vachanamrut",
-    "cover": "/images/books/book-3.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharajshri",
-    "literatureTypeId": "vaani",
-    "title": { "gu": "વચનામૃત", "hi": "वचनामृत", "en": "Vachanamrut" },
-    "author": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "tag": { "gu": "નેમી મહારાજશ્રી", "hi": "नेमी महाराजश्री", "en": "Nemi Maharajshri" },
-    "excerpt": {
-      "gu": "સંત વચનોનો અમૃત સમાન સંગ્રહ.",
-      "hi": "संत वचनों का अमृत समान संग्रह।",
-      "en": "Nectar-like collected words of the saint."
-    }
-  },
-  {
-    "id": "tattvartha-sutra",
-    "slug": "tattvartha-sutra",
-    "cover": "/images/books/book-4.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "guruji",
-    "authorId": "guruji",
-    "literatureTypeId": "granth",
-    "title": { "gu": "શ્રી તત્ત્વાર્થ સૂત્ર", "hi": "श्री तत्त्वार्थ सूत्र", "en": "Shri Tattvartha Sutra" },
-    "author": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "tag": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "excerpt": {
-      "gu": "તત્ત્વજ્ઞાનનો પાયાનો ગ્રંથ.",
-      "hi": "तत्त्वज्ञान का मूल ग्रंथ।",
-      "en": "A foundational granth of tattva knowledge."
-    }
-  },
-  {
-    "id": "mokshamala",
-    "slug": "mokshamala",
-    "cover": "/images/books/book-5.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "guruji",
-    "authorId": "guruji",
-    "literatureTypeId": "granth",
-    "title": { "gu": "મોક્ષમાળા", "hi": "मोक्षमाला", "en": "Mokshamala" },
-    "author": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "tag": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "excerpt": {
-      "gu": "મોક્ષમાર્ગની માળા સમાન બોધગ્રંથ.",
-      "hi": "मोक्षमार्ग की माला समान बोधग्रंथ।",
-      "en": "A garland of teachings on the path to liberation."
-    }
-  },
-  {
-    "id": "aptavani",
-    "slug": "aptavani",
-    "cover": "/images/books/book-6.png",
+    "id": "agadh-bodh",
+    "slug": "agadh-bodh",
+    "cover": "/images/books/agadh-bodh.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
     "categoryId": "other",
-    "authorId": "guruji",
-    "literatureTypeId": "vaani",
-    "title": { "gu": "આપ્તવાણી", "hi": "आप्तवाणी", "en": "Aptavani" },
-    "author": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "tag": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other Literature" },
-    "excerpt": {
-      "gu": "આપ્ત પુરુષની વાણીનો સંગ્રહ.",
-      "hi": "आप्त पुरुष की वाणी का संग्रह।",
-      "en": "Collected speech of the realized teacher."
-    }
-  },
-  {
-    "id": "hastprat-1",
-    "slug": "hastprat-1",
-    "cover": "/images/books/book-7.png",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": false,
-    "categoryId": "handwritten",
-    "authorId": "nemi-maharajshri",
+    "authorId": "karunasagar",
     "literatureTypeId": "granth",
-    "title": { "gu": "પ્રાચીન હસ્તપ્રત", "hi": "प्राचीन पाण्डुलिपि", "en": "Ancient Manuscript" },
-    "author": { "gu": "અજ્ઞાત લેખક", "hi": "अज्ञात लेखक", "en": "Unknown scribe" },
-    "tag": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" },
+    "title": {
+      "gu": "અગાધ બોધ",
+      "hi": "अगाध बोध",
+      "en": "Agadh Bodh"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
     "excerpt": {
-      "gu": "સંગ્રહમાં સુરક્ષિત પ્રાચીન હસ્તલિખિત ગ્રંથ.",
-      "hi": "संग्रह में सुरक्षित प्राचीन हस्तलिखित ग्रंथ।",
-      "en": "An ancient handwritten granth preserved in the collection."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
     }
   },
   {
-    "id": "niyam-granth",
-    "slug": "niyam-granth",
-    "cover": "/images/books/book-8.png",
+    "id": "vishva-vidhvansh-nidhi-3-4",
+    "slug": "vishva-vidhvansh-nidhi-3-4",
+    "cover": "/images/books/vishva-vidhvansh-nidhi-3-4.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વ વિધ્વંશ નિધિ ગ્રંથ ભાગ- ૩ અને ૪",
+      "hi": "विश्व विध्वंस निधि ग्रंथ भाग- ३ और ४",
+      "en": "Vishva Vidhvansh Nidhi Granth Part 3 and 4"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "vishva-vidhvansh-nidhi-1-2",
+    "slug": "vishva-vidhvansh-nidhi-1-2",
+    "cover": "/images/books/vishva-vidhvansh-nidhi-1-2.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વ વિધ્વંશ નિધિ ગ્રંથ ભાગ- ૧ અને ૨",
+      "hi": "विश्व विध्वंस निधि ग्रंथ भाग- १ और २",
+      "en": "Vishva Vidhvansh Nidhi Granth Part 1 and 2"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "pranav-siddhant-pranav-kalpataru",
+    "slug": "pranav-siddhant-pranav-kalpataru",
+    "cover": "/images/books/pranav-siddhant-pranav-kalpataru.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પ્રણવ સિધ્ધાંત પ્રણવ કલ્પતરુ",
+      "hi": "प्रणव सिद्धांत प्रणव कल्पतरु",
+      "en": "Pranav Siddhant Pranav Kalpataru"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "hansataleva",
+    "slug": "hansataleva",
+    "cover": "/images/books/hansataleva.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "હંસતાલેવા",
+      "hi": "हंसतालेवा",
+      "en": "Hansataleva"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "kaival-vilas",
+    "slug": "kaival-vilas",
+    "cover": "/images/books/kaival-vilas.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "કૈવલ વિલાસ",
+      "hi": "कैवल विलास",
+      "en": "Kaival Vilas"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "sakat-chintamani",
+    "slug": "sakat-chintamani",
+    "cover": "/images/books/sakat-chintamani.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સકત ચિંતામણી",
+      "hi": "सकत चिंतामणि",
+      "en": "Sakat Chintamani"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "advaita-dvaita-narved-chintamani",
+    "slug": "advaita-dvaita-narved-chintamani",
+    "cover": "/images/books/advaita-dvaita-narved-chintamani.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "અદ્વૈતા-દ્વૈત નરવેદ ચિંતામણી",
+      "hi": "अद्वैता-द्वैत नरवेद चिंतामणि",
+      "en": "Advaita-Dvaita Narved Chintamani"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "vignan-sukrutmani-deep",
+    "slug": "vignan-sukrutmani-deep",
+    "cover": "/images/books/vignan-sukrutmani-deep.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": false,
     "categoryId": "other",
-    "authorId": "guruji",
-    "literatureTypeId": "niyam",
-    "title": { "gu": "નિયમ ગ્રંથ", "hi": "नियम ग्रंथ", "en": "Niyam Granth" },
-    "author": { "gu": "ગુરુજી", "hi": "गुरुजी", "en": "Guruji" },
-    "tag": { "gu": "નિયમ", "hi": "नियम", "en": "Niyam" },
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિજ્ઞાન સકૃતમણી દીપ",
+      "hi": "विज्ञान सकृतमणि दीप",
+      "en": "Vignan Sukrutmani Deep"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
     "excerpt": {
-      "gu": "દૈનિક નિયમ અને આચારનું માર્ગદર્શન.",
-      "hi": "दैनिक नियम और आचार का मार्गदर्शन।",
-      "en": "Guidance on daily niyam and conduct."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "vishwabodh-chosara",
+    "slug": "vishwabodh-chosara",
+    "cover": "/images/books/vishwabodh-chosara.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વબોધ ચોસરા",
+      "hi": "विश्वबोध चोसरा",
+      "en": "Vishwabodh Chosara"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "granth-sagar",
+    "slug": "granth-sagar",
+    "cover": "/images/books/granth-sagar.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "ગ્રંથ સાગર",
+      "hi": "ग्रंथ सागर",
+      "en": "Granth Sagar"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "gyan-bhakti-vairag-nirupan",
+    "slug": "gyan-bhakti-vairag-nirupan",
+    "cover": "/images/books/gyan-bhakti-vairag-nirupan.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "જ્ઞાન ભક્તિ વૈરાગ નિરૂપણ ગ્રંથ",
+      "hi": "ज्ञान भक्ति वैराग निरूपण ग्रंथ",
+      "en": "Gyan Bhakti Vairag Nirupan Granth"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "bhajan-sagar",
+    "slug": "bhajan-sagar",
+    "cover": "/images/books/bhajan-sagar.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ભજન સાગર",
+      "hi": "भजन सागर",
+      "en": "Bhajan Sagar"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "siddhant-bavni-granth",
+    "slug": "siddhant-bavni-granth",
+    "cover": "/images/books/siddhant-bavni-granth.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "narvedsagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સિદ્ધાંત બાવની ગ્રંથ",
+      "hi": "सिद्धांत बावनी ग्रंथ",
+      "en": "Siddhant Bavni Granth"
+    },
+    "author": {
+      "gu": "દ્વિતીય કુબેરાચાર્ય શ્રી નરવેદસાગર",
+      "hi": "द्वितीय कुबेराचार्य श्री नरवेदसागर",
+      "en": "Dwitiya Kuberacharya Shri Narvedsagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "acharatsagar",
+    "slug": "acharatsagar",
+    "cover": "/images/books/acharatsagar.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "acharatba",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "અચરતસાગર",
+      "hi": "अचरतसागर",
+      "en": "Acharatsagar"
+    },
+    "author": {
+      "gu": "અચરતબા",
+      "hi": "अचरतबा",
+      "en": "Acharatba"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "tithi-granth-gyan-shiromani",
+    "slug": "tithi-granth-gyan-shiromani",
+    "cover": "/images/books/tithi-granth-gyan-shiromani.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "તિથિ ગ્રંથ જ્ઞાન શિરોમણિ",
+      "hi": "तिथि ग्रंथ ज्ञान शिरोमणि",
+      "en": "Tithi Granth Gyan Shiromani"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
+      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
     }
   }
 ]

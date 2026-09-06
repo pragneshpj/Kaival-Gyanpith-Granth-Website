@@ -35,7 +35,7 @@ export function BookCard({
           alt={t(book.title, locale)}
           fill
           sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 210px"
-          className="object-cover"
+          className="object-contain"
         />
       </div>
       <div className="flex flex-1 flex-col p-3">
