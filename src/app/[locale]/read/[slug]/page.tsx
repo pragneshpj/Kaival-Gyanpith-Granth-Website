@@ -3,7 +3,7 @@ import Image from "next/image";
 import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import { getBookBySlug, getBooks, getSite, t } from "@/lib/content";
+import { getBookBySlug, getBooks, getPdfEmbedUrl, getSite, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
 
 export function generateStaticParams() {
@@ -47,7 +47,9 @@ export default async function ReadPage({
           <p className="mt-4 leading-7 text-ink/80">{t(book.excerpt, locale)}</p>
           <a
             href={book.pdf}
-            download
+            target={book.pdf.startsWith("http") ? "_blank" : undefined}
+            rel={book.pdf.startsWith("http") ? "noreferrer" : undefined}
+            download={book.pdf.startsWith("http") ? undefined : true}
             className="mt-6 inline-flex rounded-lg border border-maroon px-4 py-2 text-sm font-semibold text-maroon"
           >
             {t(site.ui.downloadPdf, locale)}
@@ -55,7 +57,12 @@ export default async function ReadPage({
         </div>
       </div>
       <div className="mt-10 overflow-hidden rounded-xl border border-gold/30 bg-white">
-        <iframe title={t(book.title, locale)} src={book.pdf} className="h-[80vh] w-full" />
+        <iframe
+          title={t(book.title, locale)}
+          src={getPdfEmbedUrl(book.pdf)}
+          className="h-[80vh] w-full"
+          allow="autoplay"
+        />
       </div>
     </section>
   );

@@ -53,7 +53,9 @@ export function BookCard({
           </Link>
           <a
             href={book.pdf}
-            download
+            target={book.pdf.startsWith("http") ? "_blank" : undefined}
+            rel={book.pdf.startsWith("http") ? "noreferrer" : undefined}
+            download={book.pdf.startsWith("http") ? undefined : true}
             className="inline-flex flex-1 items-center justify-center gap-1 rounded-md border border-maroon/40 py-2 text-xs font-semibold text-maroon hover:bg-cream-dark"
           >
             <Download className="h-3.5 w-3.5" />

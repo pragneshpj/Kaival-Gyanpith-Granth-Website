@@ -44,6 +44,14 @@ export function getBookBySlug(slug: string) {
   return books.find((book) => book.slug === slug);
 }
 
+export function getPdfEmbedUrl(pdf: string) {
+  const match = pdf.match(/drive\.google\.com\/file\/d\/([^/]+)/);
+  if (match) {
+    return `https://drive.google.com/file/d/${match[1]}/preview`;
+  }
+  return pdf;
+}
+
 export function getAbout() {
   return about;
 }

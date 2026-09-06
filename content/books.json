@@ -3,7 +3,7 @@
     "id": "agadh-bodh",
     "slug": "agadh-bodh",
     "cover": "/images/books/agadh-bodh.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1a1TWPL6GTHdxcY_uU-K6KlpEwzYtUcQa/view?usp=share_link",
     "featured": true,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -123,7 +123,7 @@
     "id": "hansataleva",
     "slug": "hansataleva",
     "cover": "/images/books/hansataleva.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -153,7 +153,7 @@
     "id": "kaival-vilas",
     "slug": "kaival-vilas",
     "cover": "/images/books/kaival-vilas.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -183,7 +183,7 @@
     "id": "sakat-chintamani",
     "slug": "sakat-chintamani",
     "cover": "/images/books/sakat-chintamani.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1W5PWFl155ELVn2addZs4uEWrw2TRMEP_/view?usp=share_link",
     "featured": true,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -213,7 +213,7 @@
     "id": "advaita-dvaita-narved-chintamani",
     "slug": "advaita-dvaita-narved-chintamani",
     "cover": "/images/books/advaita-dvaita-narved-chintamani.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1Uh_OXIAJcqehJ8bgqqvreyP_0cJE0F2b/view?usp=share_link",
     "featured": true,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -273,7 +273,7 @@
     "id": "vishwabodh-chosara",
     "slug": "vishwabodh-chosara",
     "cover": "/images/books/vishwabodh-chosara.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1pAZhjwIPmB3rtTkMvUqT-QJA8cHiIbiT/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -333,7 +333,7 @@
     "id": "gyan-bhakti-vairag-nirupan",
     "slug": "gyan-bhakti-vairag-nirupan",
     "cover": "/images/books/gyan-bhakti-vairag-nirupan.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -393,7 +393,7 @@
     "id": "siddhant-bavni-granth",
     "slug": "siddhant-bavni-granth",
     "cover": "/images/books/siddhant-bavni-granth.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1GY_CxzTJbhWhY3i_JJKP5OCKsMd1Vo8F/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
     "authorId": "narvedsagar",
@@ -453,7 +453,7 @@
     "id": "tithi-granth-gyan-shiromani",
     "slug": "tithi-granth-gyan-shiromani",
     "cover": "/images/books/tithi-granth-gyan-shiromani.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
     "authorId": "karunasagar",
@@ -477,6 +477,36 @@
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
       "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
       "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+    }
+  },
+  {
+    "id": "nitya-niyam",
+    "slug": "nitya-niyam",
+    "cover": "/images/books/nitya-niyam.jpg",
+    "pdf": "https://drive.google.com/file/d/1IBpjm7n3dDHe-EPflsz8wPAH0WzoSVcH/view?usp=share_link",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "karunasagar",
+    "literatureTypeId": "other",
+    "title": {
+      "gu": "નિત્ય નિયમ",
+      "hi": "नित्य नियम",
+      "en": "Nitya Niyam"
+    },
+    "author": {
+      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
+      "hi": "परमगुरु श्रीमद् करुणासागर",
+      "en": "Paramguru Shrimad Karunasagar"
+    },
+    "tag": {
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
+    },
+    "excerpt": {
+      "gu": "દૈનિક નિયમ અને આચારનું માર્ગદર્શન ગ્રંથ.",
+      "hi": "दैनिक नियम और आचार का मार्गदर्शन ग्रंथ।",
+      "en": "A granth of daily niyam and conduct."
     }
   }
 ]
