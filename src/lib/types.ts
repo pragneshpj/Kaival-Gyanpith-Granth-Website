@@ -1,4 +1,4 @@
-export type Locale = "gu" | "hi" | "en";
+export type Locale = "en" | "gu" | "hi";
 
 export type Localized = {
   gu: string;

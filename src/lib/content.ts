@@ -9,7 +9,7 @@ import about from "../../content/about.json";
 import contact from "../../content/contact.json";
 
 export function t(value: Localized, locale: Locale): string {
-  return value[locale] || value.gu;
+  return value[locale] || value.en;
 }
 
 export function getSite() {

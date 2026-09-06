@@ -7,9 +7,9 @@
     "footerEmblem": "/images/logo-flame.png"
   },
   "languages": [
+    { "code": "en", "label": "English" },
     { "code": "gu", "label": "ગુજરાતી" },
-    { "code": "hi", "label": "हिन्दी" },
-    { "code": "en", "label": "English" }
+    { "code": "hi", "label": "हिन्दी" }
   ],
   "nav": [
     {

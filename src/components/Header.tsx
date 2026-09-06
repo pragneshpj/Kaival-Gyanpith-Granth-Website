@@ -44,7 +44,7 @@ export function Header({ locale, site }: { locale: Locale; site: Site }) {
                       : "font-serif text-[16px] font-normal text-[#333333] transition-colors hover:text-[#7B181B]"
                   }
                 >
-                  {item.label.en}
+                  {t(item.label, locale)}
                 </Link>
               );
             })}
@@ -77,7 +77,7 @@ export function Header({ locale, site }: { locale: Locale; site: Site }) {
                   : "whitespace-nowrap font-serif text-[14px] font-normal text-[#333333]"
               }
             >
-              {item.label.en}
+              {t(item.label, locale)}
             </Link>
           );
         })}
