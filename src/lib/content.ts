@@ -1,4 +1,4 @@
-import type { Locale, Localized } from "./types";
+import type { Book, Locale, Localized } from "./types";
 import site from "../../content/site.json";
 import home from "../../content/home.json";
 import filters from "../../content/filters.json";
@@ -32,8 +32,8 @@ export function getLiterature() {
   return literature;
 }
 
-export function getBooks() {
-  return books;
+export function getBooks(): Book[] {
+  return books as Book[];
 }
 
 export function getFeaturedBooks() {

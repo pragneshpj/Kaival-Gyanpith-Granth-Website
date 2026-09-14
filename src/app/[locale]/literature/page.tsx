@@ -36,7 +36,7 @@ export default async function LiteraturePage({
                 {item.count} {t(site.ui.booksCount, locale)}
               </p>
               <p className="mt-3 text-sm leading-6 text-muted">{t(item.description, locale)}</p>
-              <Link href="/library" className="mt-4 inline-block text-sm font-semibold text-maroon">
+              <Link href={item.href} className="mt-4 inline-block text-sm font-semibold text-maroon">
                 {t(site.ui.view, locale)} →
               </Link>
             </article>

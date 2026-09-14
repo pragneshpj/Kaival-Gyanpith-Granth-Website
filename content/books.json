@@ -5,8 +5,8 @@
     "cover": "/images/books/agadh-bodh.jpg",
     "pdf": "https://drive.google.com/file/d/1a1TWPL6GTHdxcY_uU-K6KlpEwzYtUcQa/view?usp=share_link",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "અગાધ બોધ",
@@ -14,9 +14,9 @@
       "en": "Agadh Bodh"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -24,9 +24,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -35,8 +35,8 @@
     "cover": "/images/books/vishva-vidhvansh-nidhi-3-4.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિશ્વ વિધ્વંશ નિધિ ગ્રંથ ભાગ- ૩ અને ૪",
@@ -44,9 +44,9 @@
       "en": "Vishva Vidhvansh Nidhi Granth Part 3 and 4"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -54,9 +54,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -65,8 +65,8 @@
     "cover": "/images/books/vishva-vidhvansh-nidhi-1-2.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિશ્વ વિધ્વંશ નિધિ ગ્રંથ ભાગ- ૧ અને ૨",
@@ -74,9 +74,9 @@
       "en": "Vishva Vidhvansh Nidhi Granth Part 1 and 2"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -84,9 +84,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -95,8 +95,8 @@
     "cover": "/images/books/pranav-siddhant-pranav-kalpataru.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પ્રણવ સિધ્ધાંત પ્રણવ કલ્પતરુ",
@@ -104,9 +104,9 @@
       "en": "Pranav Siddhant Pranav Kalpataru"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -114,9 +114,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -125,8 +125,8 @@
     "cover": "/images/books/hansataleva.jpg",
     "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "હંસતાલેવા",
@@ -134,9 +134,9 @@
       "en": "Hansataleva"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -144,9 +144,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -155,8 +155,8 @@
     "cover": "/images/books/kaival-vilas.jpg",
     "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "કૈવલ વિલાસ",
@@ -164,9 +164,9 @@
       "en": "Kaival Vilas"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -174,9 +174,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -185,8 +185,8 @@
     "cover": "/images/books/sakat-chintamani.jpg",
     "pdf": "https://drive.google.com/file/d/1W5PWFl155ELVn2addZs4uEWrw2TRMEP_/view?usp=share_link",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સકત ચિંતામણી",
@@ -194,9 +194,9 @@
       "en": "Sakat Chintamani"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -204,9 +204,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -215,8 +215,8 @@
     "cover": "/images/books/advaita-dvaita-narved-chintamani.jpg",
     "pdf": "https://drive.google.com/file/d/1Uh_OXIAJcqehJ8bgqqvreyP_0cJE0F2b/view?usp=share_link",
     "featured": true,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "અદ્વૈતા-દ્વૈત નરવેદ ચિંતામણી",
@@ -224,9 +224,9 @@
       "en": "Advaita-Dvaita Narved Chintamani"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -234,9 +234,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -245,8 +245,8 @@
     "cover": "/images/books/vignan-sukrutmani-deep.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": false,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિજ્ઞાન સકૃતમણી દીપ",
@@ -254,9 +254,9 @@
       "en": "Vignan Sukrutmani Deep"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -264,9 +264,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -275,8 +275,8 @@
     "cover": "/images/books/vishwabodh-chosara.jpg",
     "pdf": "https://drive.google.com/file/d/1pAZhjwIPmB3rtTkMvUqT-QJA8cHiIbiT/view?usp=share_link",
     "featured": false,
-    "categoryId": "other",
-    "authorId": "karunasagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિશ્વબોધ ચોસરા",
@@ -284,9 +284,9 @@
       "en": "Vishwabodh Chosara"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
       "gu": "જ્ઞાન સંપ્રદાય",
@@ -294,9 +294,9 @@
       "en": "Gyan Sampraday"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -306,7 +306,7 @@
     "pdf": "/pdfs/sample.pdf",
     "featured": false,
     "categoryId": "other",
-    "authorId": "karunasagar",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "ગ્રંથ સાગર",
@@ -336,7 +336,7 @@
     "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
-    "authorId": "karunasagar",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "જ્ઞાન ભક્તિ વૈરાગ નિરૂપણ ગ્રંથ",
@@ -366,7 +366,7 @@
     "pdf": "/pdfs/sample.pdf",
     "featured": false,
     "categoryId": "other",
-    "authorId": "karunasagar",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ભજન સાગર",
@@ -456,7 +456,7 @@
     "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
-    "authorId": "karunasagar",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "તિથિ ગ્રંથ જ્ઞાન શિરોમણિ",
@@ -486,7 +486,7 @@
     "pdf": "https://drive.google.com/file/d/1IBpjm7n3dDHe-EPflsz8wPAH0WzoSVcH/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
-    "authorId": "karunasagar",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "other",
     "title": {
       "gu": "નિત્ય નિયમ",
@@ -507,6 +507,1566 @@
       "gu": "દૈનિક નિયમ અને આચારનું માર્ગદર્શન ગ્રંથ.",
       "hi": "दैनिक नियम और आचार का मार्गदर्शन ग्रंथ।",
       "en": "A granth of daily niyam and conduct."
+    }
+  },
+  {
+    "id": "kaival-vilas-granth",
+    "slug": "kaival-vilas-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1t92SJpBNCJX61C1gP9DcuPTxlzAXjp9G/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "કૈવલ વિલાસ ગ્રંથ",
+      "hi": "कैवल विलास ग्रंथ",
+      "en": "Kaival Vilas Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "swachar-patrika",
+    "slug": "swachar-patrika",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1vEKO8gukj64WoDHk1IWr2Ese7Aui3VHZ/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સ્વાચાર પત્રિકા",
+      "hi": "स्वाचार पत्रिका",
+      "en": "Swachar Patrika"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-chintamani-granth",
+    "slug": "sakrat-chintamani-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1BNCBDXxO8bV8flfWRczSpbDHREGMmLXz/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત ચિંતામણી ગ્રંથ",
+      "hi": "सक्रत चिंतामणि ग्रंथ",
+      "en": "Sakrat Chintamani Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "param-sindhant-pranav-kalptaru",
+    "slug": "param-sindhant-pranav-kalptaru",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1nkuw4Xivn3zeC8w9I-A1XviQI_03zJyW/view?usp=sharing",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પરમ સિદ્ધાંત પ્રણવ કલ્પતરુ",
+      "hi": "परम सिद्धांत प्रणव कल्पतरु",
+      "en": "Param Sindhant Pranav Kalptaru"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "shakhi",
+    "slug": "shakhi",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1a17jRbWmRdgJqTghFirOf7TRWM1jNJOj/view?usp=sharing",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "શાખી",
+      "hi": "शाखी",
+      "en": "Shakhi"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "vignan-sakratmani-granth",
+    "slug": "vignan-sakratmani-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1p8xXkVDjCC0tstZxB5fXxExwUTEQq1qH/view?usp=sharing",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિજ્ઞાન સક્રતમણી ગ્રંથ",
+      "hi": "विज्ञान सक्रतमणि ग्रंथ",
+      "en": "Vignan Sakratmani Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "vishva-bodth-chosra-granth",
+    "slug": "vishva-bodth-chosra-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/14JE2zGB-7eDkM8I1L28C76ec3v5IsObP/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વ બોધ ચોસરા ગ્રંથ",
+      "hi": "विश्व बोध चोसरा ग्रंथ",
+      "en": "Vishva Bodth Chosra Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "adwaita-dwait-narved",
+    "slug": "adwaita-dwait-narved",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1uYxhHSHTFNz39Mb-FTwTkN4YrqQMuUou/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "અદ્વૈત દ્વૈત નરવેદ",
+      "hi": "अद्वैत द्वैत नरवेद",
+      "en": "Adwaita Dwait Narved"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-param-prakashimani",
+    "slug": "sakrat-param-prakashimani",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1vRLXKQ39uV-A2aDXatFMqJs7e7FcdYuJ/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત પરમ પ્રકાશિમણી",
+      "hi": "सक्रत परम प्रकाशिमणि",
+      "en": "Sakrat Param Prakashimani"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "panchikaran",
+    "slug": "panchikaran",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1j2G2v8ydRZoASMVq5g8wVd3VRrTZ4Z3M/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચીકરણ",
+      "hi": "पंचीकरण",
+      "en": "Panchikaran"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "vignan-sakratmani-granth-2",
+    "slug": "vignan-sakratmani-granth-2",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1dbn3Ym5f-LChkomeDqEBsosGGPu_pLYS/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિજ્ઞાન સક્રતમણી ગ્રંથ ૨",
+      "hi": "विज्ञान सक्रतमणि ग्रंथ २",
+      "en": "Vignan Sakratmani Granth 2"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "aghadhbodh-granth",
+    "slug": "aghadhbodh-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1AfM0DUDo2oMUGrRoGFo-fjDMw9eOuaPK/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "અગાધબોધ ગ્રંથ",
+      "hi": "अगाधबोध ग्रंथ",
+      "en": "Aghadhbodh Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "raveni-pad",
+    "slug": "raveni-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/14Sj9OcSspXU_Y4AQKhu7fo25UBYe9dUm/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "રવેણી પદ",
+      "hi": "रवेणी पद",
+      "en": "Raveni Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "khat-darshan-mat-delchavanko-pad",
+    "slug": "khat-darshan-mat-delchavanko-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1TjCkZODVbCVn8ESkBTZiRju_W7fv8Aye/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ખટ દર્શન મત દેલછાવણકો પદ",
+      "hi": "खट दर्शन मत देलछावणको पद",
+      "en": "Khat Darshan Mat Delchavanko Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "avinasi-pad",
+    "slug": "avinasi-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1AO-EdXVyc2v0P0ZOB1BeuEHLxd6RaZ9i/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "અવિનાશી પદ",
+      "hi": "अविनाशी पद",
+      "en": "Avinasi Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "prabhat-pad",
+    "slug": "prabhat-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1eDPL7-Syp38ftz6U-EAI4bOFwd3yaGYN/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "પ્રભાત પદ",
+      "hi": "प्रभात पद",
+      "en": "Prabhat Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "kagal-pad",
+    "slug": "kagal-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/13wMO8jpxv3fv9uFVphnlDUN2_y_mu-oE/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "કાગલ પદ",
+      "hi": "कागल पद",
+      "en": "Kagal Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "dhun",
+    "slug": "dhun",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1gT7ozECotxHF7dkrQgzpaCx_YTMcSkkh/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ધૂન",
+      "hi": "धून",
+      "en": "Dhun"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "tithi-rekta-kera-pad",
+    "slug": "tithi-rekta-kera-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1ftpVLg6dw_omymrZcAxSMNP_Mn_bZ5kM/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "તિથિ રેકતા કેરા પદ",
+      "hi": "तिथि रेकता केरा पद",
+      "en": "Tithi Rekta Kera Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "bhram-maya-nirupan-rekta-pad",
+    "slug": "bhram-maya-nirupan-rekta-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/15j38CdYDpXjBkJEGVAWeSyQDfANVIhXk/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ભ્રમ માયા નિરૂપણ રેકતા પદ",
+      "hi": "भ्रम माया निरूपण रेकता पद",
+      "en": "Bhram Maya Nirupan Rekta Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "kakko-ank-siromani-pad",
+    "slug": "kakko-ank-siromani-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1r_Vu-p9ES03M9rjl9Weo48PdNKJIqoOu/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "કક્કો અંક શિરોમણિ પદ",
+      "hi": "कक्को अंक शिरोमणि पद",
+      "en": "Kakko Ank Siromani Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "gyan-mani-bodh-guru",
+    "slug": "gyan-mani-bodh-guru",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1o1f1EQ7ehluVNan5EJx7IYybuW4qsXAo/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "જ્ઞાન મણિ બોધ ગુરુ",
+      "hi": "ज्ञान मणि बोध गुरु",
+      "en": "Gyan Mani Bodh Guru"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "chintamani-pad",
+    "slug": "chintamani-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1Rezi5UodK7hmoGRJVn6GNw74W7586nZp/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ચિંતામણી પદ",
+      "hi": "चिंतामणि पद",
+      "en": "Chintamani Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "chundli-pad",
+    "slug": "chundli-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1yKns_8duv8ekR_OowznmNFxPfuXCnJRV/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ચૂંદડી પદ",
+      "hi": "चूंदड़ी पद",
+      "en": "Chundli Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "charkhido",
+    "slug": "charkhido",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1lI7d-DFvr2pbpJCPWqsG2MvAJaULCZaP/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ચરખીડો",
+      "hi": "चरखीडो",
+      "en": "Charkhido"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "rekta-pad",
+    "slug": "rekta-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1IXJEfjbS-UBuSZgZv_VDGlyqhtjiUVWy/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "રેકતા પદ",
+      "hi": "रेकता पद",
+      "en": "Rekta Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "mevada-pad",
+    "slug": "mevada-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1eethZJlWgcMaPvbw8cGj6li7aD4gGlgv/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "મેવાડા પદ",
+      "hi": "मेवाड़ा पद",
+      "en": "Mevada Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "ashavari-pad",
+    "slug": "ashavari-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1fbEPY0KNl7ONaSTv3x0dNM34VPonGNhr/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "આશાવરી પદ",
+      "hi": "आशावरी पद",
+      "en": "Ashavari Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "kshalno-pad",
+    "slug": "kshalno-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1eG2t5Rf2_cevmDnRB7FqaMTe_JpG9R_v/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ક્ષાલનો પદ",
+      "hi": "क्षालनो पद",
+      "en": "Kshalno Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "ashwani-pad",
+    "slug": "ashwani-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1PPksNhO2AhdGTW2liHMfiXhKZ9jr5ma_/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "અશ્વની પદ",
+      "hi": "अश्वनी पद",
+      "en": "Ashwani Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "hindora-pad",
+    "slug": "hindora-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1M8yysXjG6XUklCYAEa_U32c48VuA7Ns0/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "હિંડોળા પદ",
+      "hi": "हिंडोला पद",
+      "en": "Hindora Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "mungal-aarti",
+    "slug": "mungal-aarti",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1M2Vi-4YOtHEogFE4CFHAh6DCQzu31mF3/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "મંગળ આરતી",
+      "hi": "मंगल आरती",
+      "en": "Mungal Aarti"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "kaddoni-chal-pad",
+    "slug": "kaddoni-chal-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1d7egBCVU-JmIwaV-e6Zf4EYYnZevUNzW/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "કડ્ડોની ચાલ પદ",
+      "hi": "कड्डोनी चाल पद",
+      "en": "Kaddoni Chal Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "vasunt-rug-pad",
+    "slug": "vasunt-rug-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/10RkXtRlk6smuL4bk-87FMLz9SQi3VLNM/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "વસંત રાગ પદ",
+      "hi": "वसंत राग पद",
+      "en": "Vasunt Rug Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "dhumar-rag-pad",
+    "slug": "dhumar-rag-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1MYrBx13FhS-npG-QXm83bnjflahCdHOs/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ધુમાર રાગ પદ",
+      "hi": "धुमार राग पद",
+      "en": "Dhumar Rag Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "helari-rag-pad",
+    "slug": "helari-rag-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/18PRjOytt95HismstxYEN6n0MdahbZLqo/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "હેલારી રાગ પદ",
+      "hi": "हेलारी राग पद",
+      "en": "Helari Rag Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "garbi-pad",
+    "slug": "garbi-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/10lHZHTn-seI-SAQApH-s4xBAKSLbaovw/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ગરબી પદ",
+      "hi": "गरबी पद",
+      "en": "Garbi Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "mass-pad",
+    "slug": "mass-pad",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/10dy3w1SrMxbvH1Tdmak7vF2ZVXeoelzF/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "માસ પદ",
+      "hi": "मास पद",
+      "en": "Mass Pad"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "bhojan-samani-dhun",
+    "slug": "bhojan-samani-dhun",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1D5TT9wNZ5yYgw5jyGKa72GdDFgmd_2vs/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ભોજન સમાની ધૂન",
+      "hi": "भोजन समानी धून",
+      "en": "Bhojan Samani Dhun"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sundhya-aarli",
+    "slug": "sundhya-aarli",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1GWb8EXno_l_7F1zq403ALe-9HDme9oWg/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "સંધ્યા આરતી",
+      "hi": "संध्या आरती",
+      "en": "Sundhya Aarli"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "stuti",
+    "slug": "stuti",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1sCvaWe9gebDZv8CUKNxGEN5k7u-igamu/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "સ્તુતિ",
+      "hi": "स्तुति",
+      "en": "Stuti"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "gyan-bhakti-vairag-nirupan-ht",
+    "slug": "gyan-bhakti-vairag-nirupan-ht",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1comFXlh7HIMdpHGsOT1BR1zYFWv4lh3l/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "જ્ઞાન ભક્તિ વૈરાગ્ય નિરૂપણ",
+      "hi": "ज्ञान भक्ति वैराग्य निरूपण",
+      "en": "Gyan Bhakti Vairag Nirupan"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "mahamani-granth",
+    "slug": "mahamani-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1Y5Plz9g3PjFCeuoxDqS6lly8a90EKhg0/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "મહામણિ ગ્રંથ",
+      "hi": "महामणि ग्रंथ",
+      "en": "Mahamani Granth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "aarti-hastlekhitgranth",
+    "slug": "aarti-hastlekhitgranth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1ugTJegspiVOQpDmxO2Zp6-Z0MyRAMTaU/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "આરતી હસ્તલિખિત ગ્રંથ",
+      "hi": "आरती हस्तलिखित ग्रंथ",
+      "en": "Aarti Hastlekhitgranth"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "hasta-leva-granth-ht",
+    "slug": "hasta-leva-granth-ht",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1BLljTyQbAacsbDVEJaBMLxPbahWfpZJE/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "હંસતાલેવા ગ્રંથ",
+      "hi": "हंसतालेवा ग्रंथ",
+      "en": "Hasta Leva Granth HT"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "pancham-ved",
+    "slug": "pancham-ved",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1-U0fWWBz-6GcF1WDS4cYCcJ97bvgIRWm/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચમ વેદ",
+      "hi": "पंचम वेद",
+      "en": "Pancham Ved"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "panchikaran-1",
+    "slug": "panchikaran-1",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1vUq5zoMKlzHMl7nFH1a3YqPWMagpFJ0D/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચીકરણ ૧",
+      "hi": "पंचीकरण १",
+      "en": "Panchikaran 1"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "panchikaran-2",
+    "slug": "panchikaran-2",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1n1jeC-DxcQcOWOtqiM_0AzlfwC3PSqfK/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચીકરણ ૨",
+      "hi": "पंचीकरण २",
+      "en": "Panchikaran 2"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-param-prakash-01",
+    "slug": "sakrat-param-prakash-01",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1BdF1qbzYodDUUFhaR5J12xpvlfgbX2L6/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત પરમ પ્રકાશ ૦૧",
+      "hi": "सक्रत परम प्रकाश ०१",
+      "en": "Sakrat Param Prakash 01"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-param-prakash-02",
+    "slug": "sakrat-param-prakash-02",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1tPmEoxEDQvGkbPj4coQglq8VPhz7by53/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત પરમ પ્રકાશ ૦૨",
+      "hi": "सक्रत परम प्रकाश ०२",
+      "en": "Sakrat Param Prakash 02"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-param-prakash-03",
+    "slug": "sakrat-param-prakash-03",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1kNRaapR2lKlZXdztI5t93Zu0t9AejHpQ/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત પરમ પ્રકાશ ૦૩",
+      "hi": "सक्रत परम प्रकाश ०३",
+      "en": "Sakrat Param Prakash 03"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
+    }
+  },
+  {
+    "id": "sakrat-param-prakash-04",
+    "slug": "sakrat-param-prakash-04",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1Dy0geb6j-huM9c-EHlpOWSGLVTIOMqov/view?usp=share_link",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "other",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સક્રત પરમ પ્રકાશ ૦૪",
+      "hi": "सक्रत परम प्रकाश ०४",
+      "en": "Sakrat Param Prakash 04"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
+      "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
+      "en": "A handwritten granth preserved in digital form."
     }
   }
 ]

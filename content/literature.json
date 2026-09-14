@@ -3,7 +3,7 @@
     "id": "niyam",
     "icon": "scroll",
     "count": "25+",
-    "href": "/literature",
+    "href": "/library?q=niyam",
     "title": { "gu": "નિયમ", "hi": "नियम", "en": "Niyam" },
     "description": {
       "gu": "આચાર, નિયમ અને દૈનિક સાધના સંબંધિત ગ્રંથો.",
@@ -15,7 +15,7 @@
     "id": "bhajan",
     "icon": "music",
     "count": "30+",
-    "href": "/literature",
+    "href": "/library?type=bhajan",
     "title": { "gu": "ભજન", "hi": "भजन", "en": "Bhajan" },
     "description": {
       "gu": "ભક્તિ ભજનો અને આધ્યાત્મિક ગીતોનો સંગ્રહ.",
@@ -27,7 +27,7 @@
     "id": "stotra",
     "icon": "lotus",
     "count": "20+",
-    "href": "/literature",
+    "href": "/library?type=bhajan",
     "title": { "gu": "સ્તોત્ર", "hi": "स्तोत्र", "en": "Stotra" },
     "description": {
       "gu": "સ્તુતિ, સ્તોત્ર અને પ્રાર્થના સાહિત્ય.",
@@ -39,7 +39,7 @@
     "id": "aarti",
     "icon": "lamp",
     "count": "15+",
-    "href": "/literature",
+    "href": "/library?q=aarti",
     "title": { "gu": "આરતી", "hi": "आरती", "en": "Aarti" },
     "description": {
       "gu": "આરતી, આરાધના અને ઉત્સવ સાહિત્ય.",
@@ -51,7 +51,7 @@
     "id": "vaani",
     "icon": "vaani",
     "count": "10+",
-    "href": "/literature",
+    "href": "/library",
     "title": { "gu": "વાણી", "hi": "वाणी", "en": "Vaani" },
     "description": {
       "gu": "સંત વાણી અને ઉપદેશ સંગ્રહ.",
@@ -63,7 +63,7 @@
     "id": "other",
     "icon": "books",
     "count": "40+",
-    "href": "/literature",
+    "href": "/library?type=other",
     "title": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" },
     "description": {
       "gu": "અન્ય પવિત્ર અને પૂરક સાહિત્ય.",

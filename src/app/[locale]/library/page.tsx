@@ -1,7 +1,7 @@
+import { Suspense } from "react";
 import { setRequestLocale } from "next-intl/server";
-import { BookCard } from "@/components/BookCard";
+import { LibraryCatalog } from "@/components/LibraryCatalog";
 import { PageHero } from "@/components/PageHero";
-import { SearchBar } from "@/components/SearchBar";
 import { getBooks, getFilters, getSite, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
 
@@ -22,14 +22,14 @@ export default async function LibraryPage({
   return (
     <>
       <PageHero title={libraryNav ? t(libraryNav.label, locale) : ""} />
-      <section className="py-10">
-        <SearchBar locale={locale} filters={filters} ui={site.ui} />
-      </section>
-      <section className="mx-auto grid max-w-7xl grid-cols-2 gap-5 px-4 pb-20 sm:grid-cols-3 md:px-8 lg:grid-cols-4">
-        {books.map((book) => (
-          <BookCard key={book.id} book={book} locale={locale} ui={site.ui} />
-        ))}
-      </section>
+      <Suspense>
+        <LibraryCatalog
+          books={books}
+          locale={locale}
+          filters={filters}
+          ui={site.ui}
+        />
+      </Suspense>
     </>
   );
 }

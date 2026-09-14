@@ -66,6 +66,11 @@
       "en": "Thank you. Your message has been received."
     },
     "downloadPdf": { "gu": "PDF ડાઉનલોડ", "hi": "PDF डाउनलोड", "en": "Download PDF" },
+    "noResults": {
+      "gu": "આ શોધ માટે કોઈ ગ્રંથ મળ્યા નથી.",
+      "hi": "इस खोज के लिए कोई ग्रंथ नहीं मिला।",
+      "en": "No books match this search."
+    },
     "backToLibrary": { "gu": "લાઇબ્રેરી પર પાછા", "hi": "लाइब्रेरी पर वापस", "en": "Back to Library" },
     "privacy": { "gu": "ગોપનીયતા નીતિ", "hi": "गोपनीयता नीति", "en": "Privacy Policy" },
     "terms": { "gu": "નિયમો અને શરતો", "hi": "नियम और शर्तें", "en": "Terms & Conditions" }
@@ -87,13 +92,13 @@
   "stats": [
     {
       "id": "books",
-      "value": "50+",
+      "value": "70+",
       "icon": "/images/stats/book.png",
       "label": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "Books" }
     },
     {
       "id": "handwritten",
-      "value": "20+",
+      "value": "50+",
       "icon": "/images/stats/scroll.png",
       "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" }
     },

@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { BookCarousel } from "@/components/BookCarousel";
@@ -39,7 +40,9 @@ export default async function HomePage({
       <Hero locale={locale} home={home} ui={site.ui} />
 
       <section className="py-12 md:py-16">
-        <SearchBar locale={locale} filters={filters} ui={site.ui} />
+        <Suspense>
+          <SearchBar locale={locale} filters={filters} ui={site.ui} />
+        </Suspense>
       </section>
 
       <section className="mx-auto max-w-7xl px-4 pb-20 md:px-8">

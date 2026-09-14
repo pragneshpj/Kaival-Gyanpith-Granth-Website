@@ -1,7 +1,7 @@
 [
   {
     "id": "handwritten",
-    "href": "/library",
+    "href": "/library?category=handwritten",
     "icon": "scroll",
     "title": {
       "gu": "હસ્તલિખિત",
@@ -16,7 +16,7 @@
   },
   {
     "id": "nemi-maharajshri",
-    "href": "/library",
+    "href": "/library?category=nemi-maharajshri",
     "icon": "book",
     "title": {
       "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
@@ -31,7 +31,7 @@
   },
   {
     "id": "guruji",
-    "href": "/library",
+    "href": "/library?category=guruji",
     "icon": "lamp",
     "title": {
       "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
@@ -46,7 +46,7 @@
   },
   {
     "id": "other",
-    "href": "/literature",
+    "href": "/library?category=other",
     "icon": "music",
     "title": {
       "gu": "અન્ય સાહિત્ય",

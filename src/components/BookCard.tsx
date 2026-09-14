@@ -2,16 +2,9 @@ import Image from "next/image";
 import { Download } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { t } from "@/lib/content";
-import type { Locale, Localized } from "@/lib/types";
+import type { Book, Locale, Localized } from "@/lib/types";
 
-export type Book = {
-  slug: string;
-  cover: string;
-  pdf: string;
-  title: Localized;
-  author: Localized;
-  tag: Localized;
-};
+export type { Book };
 
 type Ui = {
   read: Localized;
