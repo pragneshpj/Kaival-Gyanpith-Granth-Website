@@ -1,5 +1,7 @@
 import type { Book, BookQuery } from "./types";
 
+export type { BookQuery };
+
 function haystack(book: Book): string {
   return [
     book.id,
