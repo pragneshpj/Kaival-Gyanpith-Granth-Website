@@ -27,6 +27,7 @@ function haystack(book: Book): string {
     book.slug,
     book.categoryId,
     book.authorId,
+    ...(book.authorIds ?? []),
     book.literatureTypeId,
     ...Object.values(book.title),
     ...Object.values(book.author),
@@ -35,6 +36,11 @@ function haystack(book: Book): string {
   ]
     .join(" ")
     .toLowerCase();
+}
+
+export function getBookAuthorIds(book: Book): string[] {
+  if (book.authorIds?.length) return book.authorIds;
+  return book.authorId ? [book.authorId] : [];
 }
 
 export function filterBooks(books: Book[], query: BookQuery): Book[] {
@@ -46,7 +52,7 @@ export function filterBooks(books: Book[], query: BookQuery): Book[] {
 
   return books.filter((book) => {
     if (category && book.categoryId !== category) return false;
-    if (authorFilter && book.authorId !== authorFilter) return false;
+    if (authorFilter && !getBookAuthorIds(book).includes(authorFilter)) return false;
     if (type && book.literatureTypeId !== type) return false;
     if (q && !haystack(book).includes(q)) return false;
     return true;

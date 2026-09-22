@@ -15,6 +15,7 @@ export type Book = {
   hidden?: boolean;
   categoryId: string;
   authorId: string;
+  authorIds?: string[];
   literatureTypeId: string;
   title: Localized;
   author: Localized;

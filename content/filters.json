@@ -86,7 +86,13 @@
     ],
     "authorsByCategory": {
       "handwritten": ["divya-param-guru", "narvedsagar", "acharatba", "other"],
-      "nemi-maharajshri": ["nemi-maharaj", "other"],
+      "nemi-maharajshri": [
+        "nemi-maharaj",
+        "divya-param-guru",
+        "narvedsagar",
+        "acharatba",
+        "other"
+      ],
       "guruji": ["avichal-devacharya", "nemi-maharaj", "other"]
     },
     "types": [

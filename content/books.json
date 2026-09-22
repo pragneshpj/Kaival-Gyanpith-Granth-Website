@@ -2,7 +2,7 @@
   {
     "id": "agadh-bodh",
     "slug": "agadh-bodh",
-    "cover": "/images/books/aghadhbodh-granth.jpg",
+    "cover": "/images/books/nemi-maharaj/1.jpg",
     "pdf": "https://drive.google.com/file/d/1a1TWPL6GTHdxcY_uU-K6KlpEwzYtUcQa/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -32,7 +32,7 @@
   {
     "id": "vishva-vidhvansh-nidhi-1-2",
     "slug": "vishva-vidhvansh-nidhi-1-2",
-    "cover": "/images/books/vishva-bhram-vidhvans-nidhi.jpg",
+    "cover": "/images/books/nemi-maharaj/3.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -62,7 +62,7 @@
   {
     "id": "vishva-vidhvansh-nidhi-3-4",
     "slug": "vishva-vidhvansh-nidhi-3-4",
-    "cover": "/images/books/vishva-bhram-vidhvans-nidhi.jpg",
+    "cover": "/images/books/nemi-maharaj/2.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -92,7 +92,7 @@
   {
     "id": "pranav-siddhant-pranav-kalpataru",
     "slug": "pranav-siddhant-pranav-kalpataru",
-    "cover": "/images/books/param-sindhant-pranav-kalptaru.jpg",
+    "cover": "/images/books/nemi-maharaj/4.jpg",
     "pdf": "https://drive.google.com/file/d/1VY6eGY7AKAzZnsYbIe0nd70Fvt_IS2EF/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -122,7 +122,7 @@
   {
     "id": "hansataleva",
     "slug": "hansataleva",
-    "cover": "/images/books/hansataleva.jpg",
+    "cover": "/images/books/nemi-maharaj/5.jpg",
     "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -152,7 +152,7 @@
   {
     "id": "kaival-vilas",
     "slug": "kaival-vilas",
-    "cover": "/images/books/kaival-vilas-granth.jpg",
+    "cover": "/images/books/nemi-maharaj/6.jpg",
     "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -182,7 +182,7 @@
   {
     "id": "sakat-chintamani",
     "slug": "sakat-chintamani",
-    "cover": "/images/books/sakrat-chintamani-granth.jpg",
+    "cover": "/images/books/nemi-maharaj/7.jpg",
     "pdf": "https://drive.google.com/file/d/1W5PWFl155ELVn2addZs4uEWrw2TRMEP_/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -212,7 +212,7 @@
   {
     "id": "advaita-dvaita-narved-chintamani",
     "slug": "advaita-dvaita-narved-chintamani",
-    "cover": "/images/books/advaita-dvaita-narved-chintamani.jpg",
+    "cover": "/images/books/nemi-maharaj/8.jpg",
     "pdf": "https://drive.google.com/file/d/1Uh_OXIAJcqehJ8bgqqvreyP_0cJE0F2b/view?usp=share_link",
     "featured": true,
     "categoryId": "nemi-maharajshri",
@@ -242,7 +242,7 @@
   {
     "id": "vignan-sukrutmani-deep",
     "slug": "vignan-sukrutmani-deep",
-    "cover": "/images/books/vignan-sakratmani-deep.jpg",
+    "cover": "/images/books/nemi-maharaj/9.jpg",
     "pdf": "https://drive.google.com/file/d/1kCE35ZSM3sSke-_7w3AuuByxMYprCc-v/view?usp=share_link",
     "featured": false,
     "categoryId": "nemi-maharajshri",
@@ -272,7 +272,7 @@
   {
     "id": "vishwabodh-chosara",
     "slug": "vishwabodh-chosara",
-    "cover": "/images/books/vishwabodh-chosara.jpg",
+    "cover": "/images/books/nemi-maharaj/10.jpg",
     "pdf": "https://drive.google.com/file/d/1pAZhjwIPmB3rtTkMvUqT-QJA8cHiIbiT/view?usp=share_link",
     "featured": false,
     "categoryId": "nemi-maharajshri",
@@ -302,106 +302,16 @@
   {
     "id": "granth-sagar",
     "slug": "granth-sagar",
-    "cover": "/images/books/granth-sagar.jpg",
+    "cover": "/images/books/nemi-maharaj/11.jpg",
     "pdf": "/pdfs/sample.pdf",
-    "featured": false,
-    "categoryId": "other",
-    "authorId": "divya-param-guru",
-    "literatureTypeId": "granth",
-    "title": {
-      "gu": "ગ્રંથ સાગર",
-      "hi": "ग्रंथ सागर",
-      "en": "Granth Sagar"
-    },
-    "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
-    },
-    "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
-    },
-    "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
-    }
-  },
-  {
-    "id": "gyan-bhakti-vairag-nirupan",
-    "slug": "gyan-bhakti-vairag-nirupan",
-    "cover": "/images/books/gyan-bhakti-vairag-nirupan.jpg",
-    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
-    "featured": false,
-    "categoryId": "other",
-    "authorId": "divya-param-guru",
-    "literatureTypeId": "granth",
-    "title": {
-      "gu": "જ્ઞાન, ભક્તિ, વૈરાગ્ય નિરૂપણ ગ્રંથ",
-      "hi": "ज्ञान, भक्ति, वैराग्य निरूपण ग्रंथ",
-      "en": "Gyan, Bhakti, Vairag Nirupan Granth"
-    },
-    "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
-    },
-    "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
-    },
-    "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
-    }
-  },
-  {
-    "id": "bhajan-sagar",
-    "slug": "bhajan-sagar",
-    "cover": "/images/books/bhajan-sagar.jpg",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": false,
-    "categoryId": "other",
-    "authorId": "divya-param-guru",
-    "literatureTypeId": "bhajan",
-    "title": {
-      "gu": "ભજન સાગર",
-      "hi": "भजन सागर",
-      "en": "Bhajan Sagar"
-    },
-    "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
-    },
-    "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
-    },
-    "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
-    }
-  },
-  {
-    "id": "siddhant-bavni-granth",
-    "slug": "siddhant-bavni-granth",
-    "cover": "/images/books/siddhant-bavni-granth.jpg",
-    "pdf": "https://drive.google.com/file/d/1GY_CxzTJbhWhY3i_JJKP5OCKsMd1Vo8F/view?usp=share_link",
     "featured": false,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "સિદ્ધાંત બાવની ગ્રંથ",
-      "hi": "सिद्धांत बावनी ग्रंथ",
-      "en": "Siddhant Bavni Granth"
+      "gu": "ગ્રંથ સાગર",
+      "hi": "ग्रंथ सागर",
+      "en": "Granth Sagar"
     },
     "author": {
       "gu": "પ.પુ. નેમી મહારાજ",
@@ -420,10 +330,106 @@
     }
   },
   {
+    "id": "gyan-bhakti-vairag-nirupan",
+    "slug": "gyan-bhakti-vairag-nirupan",
+    "cover": "/images/books/nemi-maharaj/12.jpg",
+    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
+    "featured": false,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "જ્ઞાન, ભક્તિ, વૈરાગ્ય નિરૂપણ ગ્રંથ",
+      "hi": "ज्ञान, भक्ति, वैराग्य निरूपण ग्रंथ",
+      "en": "Gyan, Bhakti, Vairag Nirupan Granth"
+    },
+    "author": {
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
+    }
+  },
+  {
+    "id": "bhajan-sagar",
+    "slug": "bhajan-sagar",
+    "cover": "/images/books/nemi-maharaj/13.jpg",
+    "pdf": "https://drive.google.com/file/d/18lMsvhPk4grlVoeDxl3ntiMG3rz5VY4O/view?usp=sharing",
+    "featured": false,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "divya-param-guru",
+    "authorIds": [
+      "divya-param-guru",
+      "narvedsagar",
+      "acharatba",
+      "other"
+    ],
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "ભજન સાગર",
+      "hi": "भजन सागर",
+      "en": "Bhajan Sagar"
+    },
+    "author": {
+      "gu": "દિવ્ય પરમ ગુરુ, પ.પુ. નરવેદ સાગર મહારાજ, પ.પુ. અચરતબા, અન્ય",
+      "hi": "दिव्य परम गुरु, प.पु. नरवेद सागर महाराज, प.पु. अचरतबा, अन्य",
+      "en": "Divya Param Guru, P.P. Narved Sagar Maharaj, P.P. Acharatba, Other"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ભજન સંગ્રહ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र भजन संग्रह।",
+      "en": "A sacred Gyan Sampraday bhajan collection."
+    }
+  },
+  {
+    "id": "siddhant-bavni-granth",
+    "slug": "siddhant-bavni-granth",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1XFNb-EninOKtLwxjYdt232v7urNBFOBE/view?usp=sharing",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "narvedsagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સિદ્ધાંત બાવની ગ્રંથ",
+      "hi": "सिद्धांत बावनी ग्रंथ",
+      "en": "Siddhant Bavni Granth"
+    },
+    "author": {
+      "gu": "પ.પુ. નરવેદ સાગર મહારાજ",
+      "hi": "प.पु. नरवेद सागर महाराज",
+      "en": "P.P. Narved Sagar Maharaj"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. નરવેદ સાગર મહારાજ રચિત.",
+      "hi": "हस्तलिखित ग्रंथ, प.पु. नरवेद सागर महाराज रचित।",
+      "en": "A handwritten granth composed by P.P. Narved Sagar Maharaj."
+    }
+  },
+  {
     "id": "acharatsagar",
     "slug": "acharatsagar",
-    "cover": "/images/books/acharatsagar.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1N9nJME-OhfG4SN5GdVxzpeEgPysVQiSU/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
     "authorId": "acharatba",
@@ -444,19 +450,19 @@
       "en": "Handwritten"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. અચરતબા રચિત.",
+      "hi": "हस्तलिखित ग्रंथ, प.पु. अचरतबा रचित।",
+      "en": "A handwritten granth composed by P.P. Acharatba."
     }
   },
   {
     "id": "tithi-granth-gyan-shiromani",
     "slug": "tithi-granth-gyan-shiromani",
-    "cover": "/images/books/tithi-granth-gyan-shiromani.jpg",
+    "cover": "/images/books/nemi-maharaj/16.jpg",
     "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
     "featured": false,
-    "categoryId": "other",
-    "authorId": "divya-param-guru",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "તિથિ ગ્રંથ જ્ઞાન શિરોમણિ ગ્રંથ",
@@ -464,19 +470,19 @@
       "en": "Tithi Granth Gyan Shiromani Granth"
     },
     "author": {
-      "gu": "પરમગુરુ શ્રીમદ્ કરુણાસાગર",
-      "hi": "परमगुरु श्रीमद् करुणासागर",
-      "en": "Paramguru Shrimad Karunasagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
