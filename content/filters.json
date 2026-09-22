@@ -84,6 +84,11 @@
       },
       { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" } }
     ],
+    "authorsByCategory": {
+      "handwritten": ["divya-param-guru", "narvedsagar", "acharatba", "other"],
+      "nemi-maharajshri": ["nemi-maharaj", "other"],
+      "guruji": ["avichal-devacharya", "nemi-maharaj", "other"]
+    },
     "types": [
       { "id": "all", "label": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" } },
       { "id": "granth", "label": { "gu": "ગ્રંથ", "hi": "ग्रंथ", "en": "Granth" } },

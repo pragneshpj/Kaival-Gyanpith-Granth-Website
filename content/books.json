@@ -19,39 +19,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
-    },
-    "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
-      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
-    }
-  },
-  {
-    "id": "vishva-vidhvansh-nidhi-3-4",
-    "slug": "vishva-vidhvansh-nidhi-3-4",
-    "cover": "/images/books/vishva-bhram-vidhvans-nidhi.jpg",
-    "pdf": "/pdfs/sample.pdf",
-    "featured": true,
-    "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharaj",
-    "literatureTypeId": "granth",
-    "title": {
-      "gu": "વિશ્વભ્રમ વિધ્વંસ નિધિ ગ્રંથ ભાગ- ૩ અને ૪",
-      "hi": "विश्वभ्रम विध्वंस निधि ग्रंथ भाग- ३ और ४",
-      "en": "Vishva Bhram Vidhvans Nidhi Granth Part 3 and 4"
-    },
-    "author": {
-      "gu": "પ.પુ. નેમી મહારાજ",
-      "hi": "प.पु. नेमी महाराज",
-      "en": "P.P. Nemi Maharaj"
-    },
-    "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -79,9 +49,39 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
+    }
+  },
+  {
+    "id": "vishva-vidhvansh-nidhi-3-4",
+    "slug": "vishva-vidhvansh-nidhi-3-4",
+    "cover": "/images/books/vishva-bhram-vidhvans-nidhi.jpg",
+    "pdf": "/pdfs/sample.pdf",
+    "featured": true,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વભ્રમ વિધ્વંસ નિધિ ગ્રંથ ભાગ- ૩ અને ૪",
+      "hi": "विश्वभ्रम विध्वंस निधि ग्रंथ भाग- ३ और ४",
+      "en": "Vishva Bhram Vidhvans Nidhi Granth Part 3 and 4"
+    },
+    "author": {
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -109,9 +109,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -139,9 +139,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -169,9 +169,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -199,9 +199,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -229,9 +229,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -259,9 +259,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -289,9 +289,9 @@
       "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
@@ -395,8 +395,8 @@
     "cover": "/images/books/siddhant-bavni-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1GY_CxzTJbhWhY3i_JJKP5OCKsMd1Vo8F/view?usp=share_link",
     "featured": false,
-    "categoryId": "other",
-    "authorId": "narvedsagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સિદ્ધાંત બાવની ગ્રંથ",
@@ -404,19 +404,19 @@
       "en": "Siddhant Bavni Granth"
     },
     "author": {
-      "gu": "દ્વિતીય કુબેરાચાર્ય શ્રી નરવેદસાગર",
-      "hi": "द्वितीय कुबेराचार्य श्री नरवेदसागर",
-      "en": "Dwitiya Kuberacharya Shri Narvedsagar"
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
-      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
-      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, परमगुरु श्रीमद् करुणासागर रचित।",
-      "en": "A sacred Gyan Sampraday granth composed by Paramguru Shrimad Karunasagar."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   },
   {
@@ -425,7 +425,7 @@
     "cover": "/images/books/acharatsagar.jpg",
     "pdf": "/pdfs/sample.pdf",
     "featured": false,
-    "categoryId": "other",
+    "categoryId": "handwritten",
     "authorId": "acharatba",
     "literatureTypeId": "granth",
     "title": {
@@ -434,14 +434,14 @@
       "en": "Acharatsagar"
     },
     "author": {
-      "gu": "અચરતબા",
-      "hi": "अचरतबा",
-      "en": "Acharatba"
+      "gu": "પ.પુ. અચરતબા",
+      "hi": "प.पु. अचरतबा",
+      "en": "P.P. Acharatba"
     },
     "tag": {
-      "gu": "જ્ઞાન સંપ્રદાય",
-      "hi": "ज्ञान सम्प्रदाय",
-      "en": "Gyan Sampraday"
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પરમગુરુ શ્રીમદ્ કરુણાસાગર રચિત.",
@@ -516,7 +516,7 @@
     "pdf": "https://drive.google.com/file/d/1t92SJpBNCJX61C1gP9DcuPTxlzAXjp9G/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "કૈવલ વિલાસ ગ્રંથ",
@@ -524,9 +524,9 @@
       "en": "Kaival Vilas Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -546,7 +546,7 @@
     "pdf": "https://drive.google.com/file/d/1vEKO8gukj64WoDHk1IWr2Ese7Aui3VHZ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સ્વાચાર પત્રિકા",
@@ -554,9 +554,9 @@
       "en": "Swachar Patrika"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -567,7 +567,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sakrat-chintamani-granth",
@@ -576,7 +577,7 @@
     "pdf": "https://drive.google.com/file/d/1BNCBDXxO8bV8flfWRczSpbDHREGMmLXz/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત ચિંતામણી ગ્રંથ",
@@ -584,9 +585,9 @@
       "en": "Sakrat Chintamani Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -606,7 +607,7 @@
     "pdf": "https://drive.google.com/file/d/1nkuw4Xivn3zeC8w9I-A1XviQI_03zJyW/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પરમ સિદ્ધાંત પ્રણવ કલ્પતરુ ગ્રંથ",
@@ -614,9 +615,9 @@
       "en": "Param Siddhant Pranav Kalpataru Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -636,7 +637,7 @@
     "pdf": "https://drive.google.com/file/d/1a17jRbWmRdgJqTghFirOf7TRWM1jNJOj/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "શાખી",
@@ -644,9 +645,9 @@
       "en": "Shakhi"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -657,7 +658,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "vignan-sakratmani-granth",
@@ -666,7 +668,7 @@
     "pdf": "https://drive.google.com/file/d/1p8xXkVDjCC0tstZxB5fXxExwUTEQq1qH/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિજ્ઞાન સક્રતમણી ગ્રંથ",
@@ -674,9 +676,9 @@
       "en": "Vignan Sakratmani Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -696,7 +698,7 @@
     "pdf": "https://drive.google.com/file/d/14JE2zGB-7eDkM8I1L28C76ec3v5IsObP/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિશ્વબોધ ચૌસરા ગ્રંથ",
@@ -704,9 +706,9 @@
       "en": "Vishwabodh Chosara Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -726,7 +728,7 @@
     "pdf": "https://drive.google.com/file/d/1uYxhHSHTFNz39Mb-FTwTkN4YrqQMuUou/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "અદ્વૈત દ્વૈત નર્વેદ",
@@ -734,9 +736,9 @@
       "en": "Adwaita Dwait Narved"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -756,7 +758,7 @@
     "pdf": "https://drive.google.com/file/d/1vRLXKQ39uV-A2aDXatFMqJs7e7FcdYuJ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત પરમ પ્રકાશમણિ ભાષ્ય",
@@ -764,9 +766,9 @@
       "en": "Sakrat Param Prakashmani Bhashya"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -786,7 +788,7 @@
     "pdf": "https://drive.google.com/file/d/1j2G2v8ydRZoASMVq5g8wVd3VRrTZ4Z3M/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પંચીકરણ",
@@ -794,9 +796,9 @@
       "en": "Panchikaran"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -816,7 +818,7 @@
     "pdf": "https://drive.google.com/file/d/1dbn3Ym5f-LChkomeDqEBsosGGPu_pLYS/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "વિજ્ઞાન સક્રતમણી ગ્રંથ ૨",
@@ -824,9 +826,9 @@
       "en": "Vignan Sakratmani Granth 2"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -837,7 +839,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "aghadhbodh-granth",
@@ -846,7 +849,7 @@
     "pdf": "https://drive.google.com/file/d/1AfM0DUDo2oMUGrRoGFo-fjDMw9eOuaPK/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "અગાધબોધ ગ્રંથ",
@@ -854,9 +857,9 @@
       "en": "Agadhbodh Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -876,7 +879,7 @@
     "pdf": "https://drive.google.com/file/d/14Sj9OcSspXU_Y4AQKhu7fo25UBYe9dUm/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "રવેણી પદ",
@@ -884,9 +887,9 @@
       "en": "Raveni Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -897,7 +900,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "khat-darshan-mat-delchavanko-pad",
@@ -906,7 +910,7 @@
     "pdf": "https://drive.google.com/file/d/1TjCkZODVbCVn8ESkBTZiRju_W7fv8Aye/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ખટ દર્શન મત દેલછાવણકો પદ",
@@ -914,9 +918,9 @@
       "en": "Khat Darshan Mat Delchavanko Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -927,7 +931,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "avinasi-pad",
@@ -936,7 +941,7 @@
     "pdf": "https://drive.google.com/file/d/1AO-EdXVyc2v0P0ZOB1BeuEHLxd6RaZ9i/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "અવિનાશી પદ",
@@ -944,9 +949,9 @@
       "en": "Avinasi Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -957,7 +962,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "prabhat-pad",
@@ -966,7 +972,7 @@
     "pdf": "https://drive.google.com/file/d/1eDPL7-Syp38ftz6U-EAI4bOFwd3yaGYN/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "પ્રભાત પદ",
@@ -974,9 +980,9 @@
       "en": "Prabhat Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -987,7 +993,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "kagal-pad",
@@ -996,7 +1003,7 @@
     "pdf": "https://drive.google.com/file/d/13wMO8jpxv3fv9uFVphnlDUN2_y_mu-oE/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "કાગલ પદ",
@@ -1004,9 +1011,9 @@
       "en": "Kagal Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1017,7 +1024,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "dhun",
@@ -1026,7 +1034,7 @@
     "pdf": "https://drive.google.com/file/d/1gT7ozECotxHF7dkrQgzpaCx_YTMcSkkh/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ધૂન",
@@ -1034,9 +1042,9 @@
       "en": "Dhun"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1047,7 +1055,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "tithi-rekta-kera-pad",
@@ -1056,7 +1065,7 @@
     "pdf": "https://drive.google.com/file/d/1ftpVLg6dw_omymrZcAxSMNP_Mn_bZ5kM/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "તિથિ રેકતા કેરા પદ",
@@ -1064,9 +1073,9 @@
       "en": "Tithi Rekta Kera Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1077,7 +1086,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "bhram-maya-nirupan-rekta-pad",
@@ -1086,7 +1096,7 @@
     "pdf": "https://drive.google.com/file/d/15j38CdYDpXjBkJEGVAWeSyQDfANVIhXk/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ભ્રમ માયા નિરૂપણ રેકતા પદ",
@@ -1094,9 +1104,9 @@
       "en": "Bhram Maya Nirupan Rekta Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1107,7 +1117,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "kakko-ank-siromani-pad",
@@ -1116,7 +1127,7 @@
     "pdf": "https://drive.google.com/file/d/1r_Vu-p9ES03M9rjl9Weo48PdNKJIqoOu/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "કક્કો અંક શિરોમણિ પદ",
@@ -1124,9 +1135,9 @@
       "en": "Kakko Ank Siromani Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1137,7 +1148,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "gyan-mani-bodh-guru",
@@ -1146,7 +1158,7 @@
     "pdf": "https://drive.google.com/file/d/1o1f1EQ7ehluVNan5EJx7IYybuW4qsXAo/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "જ્ઞાન મણિ બોધ ગુરુ",
@@ -1154,9 +1166,9 @@
       "en": "Gyan Mani Bodh Guru"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1167,7 +1179,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "chintamani-pad",
@@ -1176,7 +1189,7 @@
     "pdf": "https://drive.google.com/file/d/1Rezi5UodK7hmoGRJVn6GNw74W7586nZp/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ચિંતામણી પદ",
@@ -1184,9 +1197,9 @@
       "en": "Chintamani Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1197,7 +1210,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "chundli-pad",
@@ -1206,7 +1220,7 @@
     "pdf": "https://drive.google.com/file/d/1yKns_8duv8ekR_OowznmNFxPfuXCnJRV/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ચૂંદડી પદ",
@@ -1214,9 +1228,9 @@
       "en": "Chundli Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1227,7 +1241,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "charkhido",
@@ -1236,7 +1251,7 @@
     "pdf": "https://drive.google.com/file/d/1lI7d-DFvr2pbpJCPWqsG2MvAJaULCZaP/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ચરખીડો",
@@ -1244,9 +1259,9 @@
       "en": "Charkhido"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1257,7 +1272,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "rekta-pad",
@@ -1266,7 +1282,7 @@
     "pdf": "https://drive.google.com/file/d/1IXJEfjbS-UBuSZgZv_VDGlyqhtjiUVWy/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "રેકતા પદ",
@@ -1274,9 +1290,9 @@
       "en": "Rekta Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1287,7 +1303,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "mevada-pad",
@@ -1296,7 +1313,7 @@
     "pdf": "https://drive.google.com/file/d/1eethZJlWgcMaPvbw8cGj6li7aD4gGlgv/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "મેવાડા પદ",
@@ -1304,9 +1321,9 @@
       "en": "Mevada Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1317,7 +1334,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "ashavari-pad",
@@ -1326,7 +1344,7 @@
     "pdf": "https://drive.google.com/file/d/1fbEPY0KNl7ONaSTv3x0dNM34VPonGNhr/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "આશાવરી પદ",
@@ -1334,9 +1352,9 @@
       "en": "Ashavari Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1347,7 +1365,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "kshalno-pad",
@@ -1356,7 +1375,7 @@
     "pdf": "https://drive.google.com/file/d/1eG2t5Rf2_cevmDnRB7FqaMTe_JpG9R_v/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ક્ષાલનો પદ",
@@ -1364,9 +1383,9 @@
       "en": "Kshalno Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1377,7 +1396,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "ashwani-pad",
@@ -1386,7 +1406,7 @@
     "pdf": "https://drive.google.com/file/d/1PPksNhO2AhdGTW2liHMfiXhKZ9jr5ma_/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "અશ્વની પદ",
@@ -1394,9 +1414,9 @@
       "en": "Ashwani Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1407,7 +1427,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "hindora-pad",
@@ -1416,7 +1437,7 @@
     "pdf": "https://drive.google.com/file/d/1M8yysXjG6XUklCYAEa_U32c48VuA7Ns0/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "હિંડોળા પદ",
@@ -1424,9 +1445,9 @@
       "en": "Hindora Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1437,7 +1458,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "mungal-aarti",
@@ -1446,7 +1468,7 @@
     "pdf": "https://drive.google.com/file/d/1M2Vi-4YOtHEogFE4CFHAh6DCQzu31mF3/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "મંગળ આરતી",
@@ -1454,9 +1476,9 @@
       "en": "Mungal Aarti"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1467,7 +1489,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "kaddoni-chal-pad",
@@ -1476,7 +1499,7 @@
     "pdf": "https://drive.google.com/file/d/1d7egBCVU-JmIwaV-e6Zf4EYYnZevUNzW/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "કડ્ડોની ચાલ પદ",
@@ -1484,9 +1507,9 @@
       "en": "Kaddoni Chal Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1497,7 +1520,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "vasunt-rug-pad",
@@ -1506,7 +1530,7 @@
     "pdf": "https://drive.google.com/file/d/10RkXtRlk6smuL4bk-87FMLz9SQi3VLNM/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "વસંત રાગ પદ",
@@ -1514,9 +1538,9 @@
       "en": "Vasunt Rug Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1527,7 +1551,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "dhumar-rag-pad",
@@ -1536,7 +1561,7 @@
     "pdf": "https://drive.google.com/file/d/1MYrBx13FhS-npG-QXm83bnjflahCdHOs/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ધુમાર રાગ પદ",
@@ -1544,9 +1569,9 @@
       "en": "Dhumar Rag Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1557,7 +1582,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "helari-rag-pad",
@@ -1566,7 +1592,7 @@
     "pdf": "https://drive.google.com/file/d/18PRjOytt95HismstxYEN6n0MdahbZLqo/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "હેલારી રાગ પદ",
@@ -1574,9 +1600,9 @@
       "en": "Helari Rag Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1587,7 +1613,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "garbi-pad",
@@ -1596,7 +1623,7 @@
     "pdf": "https://drive.google.com/file/d/10lHZHTn-seI-SAQApH-s4xBAKSLbaovw/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ગરબી પદ",
@@ -1604,9 +1631,9 @@
       "en": "Garbi Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1617,7 +1644,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "mass-pad",
@@ -1626,7 +1654,7 @@
     "pdf": "https://drive.google.com/file/d/10dy3w1SrMxbvH1Tdmak7vF2ZVXeoelzF/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "માસ પદ",
@@ -1634,9 +1662,9 @@
       "en": "Mass Pad"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1647,7 +1675,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "bhojan-samani-dhun",
@@ -1656,7 +1685,7 @@
     "pdf": "https://drive.google.com/file/d/1D5TT9wNZ5yYgw5jyGKa72GdDFgmd_2vs/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "ભોજન સમાની ધૂન",
@@ -1664,9 +1693,9 @@
       "en": "Bhojan Samani Dhun"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1677,7 +1706,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sundhya-aarli",
@@ -1686,7 +1716,7 @@
     "pdf": "https://drive.google.com/file/d/1GWb8EXno_l_7F1zq403ALe-9HDme9oWg/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "સંધ્યા આરતી",
@@ -1694,9 +1724,9 @@
       "en": "Sundhya Aarli"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1707,7 +1737,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "stuti",
@@ -1716,7 +1747,7 @@
     "pdf": "https://drive.google.com/file/d/1sCvaWe9gebDZv8CUKNxGEN5k7u-igamu/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "સ્તુતિ",
@@ -1724,9 +1755,9 @@
       "en": "Stuti"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1737,7 +1768,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "gyan-bhakti-vairag-nirupan-ht",
@@ -1746,7 +1778,7 @@
     "pdf": "https://drive.google.com/file/d/1comFXlh7HIMdpHGsOT1BR1zYFWv4lh3l/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "જ્ઞાન, ભક્તિ, વૈરાગ્ય નિરૂપણ ગ્રંથ",
@@ -1754,9 +1786,9 @@
       "en": "Gyan, Bhakti, Vairag Nirupan Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1776,7 +1808,7 @@
     "pdf": "https://drive.google.com/file/d/1Y5Plz9g3PjFCeuoxDqS6lly8a90EKhg0/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "મહામણિ ગ્રંથ",
@@ -1784,9 +1816,9 @@
       "en": "Mahamani Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1797,7 +1829,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "aarti-hastlekhitgranth",
@@ -1806,7 +1839,7 @@
     "pdf": "https://drive.google.com/file/d/1ugTJegspiVOQpDmxO2Zp6-Z0MyRAMTaU/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
       "gu": "આરતી હસ્તલિખિત ગ્રંથ",
@@ -1814,9 +1847,9 @@
       "en": "Aarti Hastlekhitgranth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1827,7 +1860,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "hasta-leva-granth-ht",
@@ -1836,7 +1870,7 @@
     "pdf": "https://drive.google.com/file/d/1BLljTyQbAacsbDVEJaBMLxPbahWfpZJE/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "હંસતાલેવા ગ્રંથ",
@@ -1844,9 +1878,9 @@
       "en": "Hansataleva Granth"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1866,7 +1900,7 @@
     "pdf": "https://drive.google.com/file/d/1-U0fWWBz-6GcF1WDS4cYCcJ97bvgIRWm/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પંચમ સૂક્ષ્મવેદ",
@@ -1874,9 +1908,9 @@
       "en": "Pancham Sukshm Ved"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1896,7 +1930,7 @@
     "pdf": "https://drive.google.com/file/d/1vUq5zoMKlzHMl7nFH1a3YqPWMagpFJ0D/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પંચીકરણ ૧",
@@ -1904,9 +1938,9 @@
       "en": "Panchikaran 1"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1926,7 +1960,7 @@
     "pdf": "https://drive.google.com/file/d/1n1jeC-DxcQcOWOtqiM_0AzlfwC3PSqfK/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "પંચીકરણ ૨",
@@ -1934,9 +1968,9 @@
       "en": "Panchikaran 2"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1956,7 +1990,7 @@
     "pdf": "https://drive.google.com/file/d/1BdF1qbzYodDUUFhaR5J12xpvlfgbX2L6/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત પરમ પ્રકાશ ૦૧",
@@ -1964,9 +1998,9 @@
       "en": "Sakrat Param Prakash 01"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -1977,7 +2011,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sakrat-param-prakash-02",
@@ -1986,7 +2021,7 @@
     "pdf": "https://drive.google.com/file/d/1tPmEoxEDQvGkbPj4coQglq8VPhz7by53/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત પરમ પ્રકાશ ૦૨",
@@ -1994,9 +2029,9 @@
       "en": "Sakrat Param Prakash 02"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -2007,7 +2042,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sakrat-param-prakash-03",
@@ -2016,7 +2052,7 @@
     "pdf": "https://drive.google.com/file/d/1kNRaapR2lKlZXdztI5t93Zu0t9AejHpQ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત પરમ પ્રકાશ ૦૩",
@@ -2024,9 +2060,9 @@
       "en": "Sakrat Param Prakash 03"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -2037,7 +2073,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sakrat-param-prakash-04",
@@ -2046,7 +2083,7 @@
     "pdf": "https://drive.google.com/file/d/1Dy0geb6j-huM9c-EHlpOWSGLVTIOMqov/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
-    "authorId": "other",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "સક્રત પરમ પ્રકાશ ૦૪",
@@ -2054,9 +2091,9 @@
       "en": "Sakrat Param Prakash 04"
     },
     "author": {
-      "gu": "અન્ય",
-      "hi": "अन्य",
-      "en": "Other"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "હસ્તલિખિત",
@@ -2067,6 +2104,97 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
+    },
+    "hidden": true
+  },
+  {
+    "id": "hansataleva-granth-avichal",
+    "slug": "hansataleva-granth-avichal",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1ClzSEsraJBpfztqxfS-sLw0ZuQq6MOS1/view?usp=sharing",
+    "featured": false,
+    "categoryId": "guruji",
+    "authorId": "avichal-devacharya",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "હંસતાલેવા ગ્રંથ",
+      "hi": "हंसतालेवा ग्रंथ",
+      "en": "Hansataleva Granth"
+    },
+    "author": {
+      "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+      "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+      "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+    },
+    "tag": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
+    }
+  },
+  {
+    "id": "pancham-swasam-ved",
+    "slug": "pancham-swasam-ved",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1wXtwUD28tePJ_QcECc25W43NAWLY-Nee/view?usp=sharing",
+    "featured": false,
+    "categoryId": "guruji",
+    "authorId": "avichal-devacharya",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચમ સ્વસમ વેદ",
+      "hi": "पंचम स्वसम वेद",
+      "en": "Pancham Swasam Ved"
+    },
+    "author": {
+      "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+      "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+      "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+    },
+    "tag": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
+    }
+  },
+  {
+    "id": "vishvabodh-chosara-avichal",
+    "slug": "vishvabodh-chosara-avichal",
+    "cover": "/images/books/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/150U148FV_HaaJqlNpMZK8OUGwaLFJj6A/view?usp=sharing",
+    "featured": false,
+    "categoryId": "guruji",
+    "authorId": "avichal-devacharya",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "વિશ્વબોધ ચોસરા",
+      "hi": "विश्वबोध चोसरा",
+      "en": "Vishvabodh Chosara"
+    },
+    "author": {
+      "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+      "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+      "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+    },
+    "tag": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
     }
   }
 ]

@@ -1,11 +1,16 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { ChevronDown, Search } from "lucide-react";
 import { usePathname, useRouter } from "@/i18n/navigation";
 import { t } from "@/lib/content";
-import { toLibraryHref, type BookQuery } from "@/lib/filter-books";
+import {
+  getAuthorIdsForCategory,
+  resolveAuthorForCategory,
+  toLibraryHref,
+  type BookQuery,
+} from "@/lib/filter-books";
 import type { Locale, Localized } from "@/lib/types";
 
 type Option = { id: string; label: Localized };
@@ -14,6 +19,7 @@ type Filters = {
   dropdowns: {
     categories: Option[];
     authors: Option[];
+    authorsByCategory?: Record<string, string[]>;
     types: Option[];
   };
 };
@@ -21,6 +27,13 @@ type Ui = {
   search: Localized;
   searchPlaceholder: Localized;
 };
+
+function authorsForCategory(authors: Option[], category: string): Option[] {
+  const allowed = getAuthorIdsForCategory(category);
+  if (!allowed) return authors;
+  const allowedSet = new Set(["all", ...allowed]);
+  return authors.filter((option) => allowedSet.has(option.id));
+}
 
 export function SearchBar({
   locale,
@@ -37,8 +50,13 @@ export function SearchBar({
   const [queryText, setQueryText] = useState(searchParams.get("q") ?? "");
 
   const category = searchParams.get("category") ?? "all";
-  const author = searchParams.get("author") ?? "all";
+  const author = resolveAuthorForCategory(category, searchParams.get("author") ?? "all");
   const type = searchParams.get("type") ?? "all";
+
+  const authorOptions = useMemo(
+    () => authorsForCategory(filters.dropdowns.authors, category),
+    [filters.dropdowns.authors, category],
+  );
 
   useEffect(() => {
     setQueryText(searchParams.get("q") ?? "");
@@ -63,6 +81,15 @@ export function SearchBar({
     };
   }
 
+  function setCategory(nextCategory: string) {
+    apply(
+      current({
+        category: nextCategory,
+        author: resolveAuthorForCategory(nextCategory, author),
+      }),
+    );
+  }
+
   return (
     <div className="mx-auto max-w-7xl px-4 md:px-8">
       <form
@@ -85,10 +112,10 @@ export function SearchBar({
           options={filters.dropdowns.categories}
           locale={locale}
           value={category}
-          onChange={(value) => apply(current({ category: value }))}
+          onChange={setCategory}
         />
         <Select
-          options={filters.dropdowns.authors}
+          options={authorOptions}
           locale={locale}
           value={author}
           onChange={(value) => apply(current({ author: value }))}
@@ -116,7 +143,7 @@ export function SearchBar({
             <button
               key={chip.id}
               type="button"
-              onClick={() => apply(current({ category: chip.id }))}
+              onClick={() => setCategory(chip.id)}
               className={
                 active
                   ? "rounded-full bg-maroon px-4 py-1.5 text-sm text-white"

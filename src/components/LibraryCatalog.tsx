@@ -13,6 +13,7 @@ type Filters = {
   dropdowns: {
     categories: Option[];
     authors: Option[];
+    authorsByCategory?: Record<string, string[]>;
     types: Option[];
   };
 };

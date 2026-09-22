@@ -33,15 +33,15 @@ export function getLiterature() {
 }
 
 export function getBooks(): Book[] {
-  return books as Book[];
+  return (books as Book[]).filter((book) => !book.hidden);
 }
 
 export function getFeaturedBooks() {
-  return books.filter((book) => book.featured);
+  return getBooks().filter((book) => book.featured);
 }
 
 export function getBookBySlug(slug: string) {
-  return books.find((book) => book.slug === slug);
+  return getBooks().find((book) => book.slug === slug);
 }
 
 export function getPdfEmbedUrl(pdf: string) {

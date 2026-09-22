@@ -12,6 +12,7 @@ export type Book = {
   cover: string;
   pdf: string;
   featured: boolean;
+  hidden?: boolean;
   categoryId: string;
   authorId: string;
   literatureTypeId: string;
