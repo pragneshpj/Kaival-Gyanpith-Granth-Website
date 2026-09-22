@@ -398,7 +398,7 @@
   {
     "id": "siddhant-bavni-granth",
     "slug": "siddhant-bavni-granth",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1XFNb-EninOKtLwxjYdt232v7urNBFOBE/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -428,7 +428,7 @@
   {
     "id": "acharatsagar",
     "slug": "acharatsagar",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1N9nJME-OhfG4SN5GdVxzpeEgPysVQiSU/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -488,7 +488,7 @@
   {
     "id": "nitya-niyam",
     "slug": "nitya-niyam",
-    "cover": "/images/books/nitya-niyam.jpg",
+    "cover": "/images/books/handwritten/nitya-niyam.jpg",
     "pdf": "https://drive.google.com/file/d/1IBpjm7n3dDHe-EPflsz8wPAH0WzoSVcH/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
@@ -518,7 +518,7 @@
   {
     "id": "kaival-vilas-granth",
     "slug": "kaival-vilas-granth",
-    "cover": "/images/books/kaival-vilas-granth.jpg",
+    "cover": "/images/books/handwritten/kaival-vilas-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1t92SJpBNCJX61C1gP9DcuPTxlzAXjp9G/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -548,7 +548,7 @@
   {
     "id": "swachar-patrika",
     "slug": "swachar-patrika",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1vEKO8gukj64WoDHk1IWr2Ese7Aui3VHZ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -579,7 +579,7 @@
   {
     "id": "sakrat-chintamani-granth",
     "slug": "sakrat-chintamani-granth",
-    "cover": "/images/books/sakrat-chintamani-granth.jpg",
+    "cover": "/images/books/handwritten/sakrat-chintamani-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1BNCBDXxO8bV8flfWRczSpbDHREGMmLXz/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -609,7 +609,7 @@
   {
     "id": "param-sindhant-pranav-kalptaru",
     "slug": "param-sindhant-pranav-kalptaru",
-    "cover": "/images/books/param-sindhant-pranav-kalptaru.jpg",
+    "cover": "/images/books/handwritten/param-sindhant-pranav-kalptaru.jpg",
     "pdf": "https://drive.google.com/file/d/1nkuw4Xivn3zeC8w9I-A1XviQI_03zJyW/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -639,7 +639,7 @@
   {
     "id": "shakhi",
     "slug": "shakhi",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1a17jRbWmRdgJqTghFirOf7TRWM1jNJOj/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -670,7 +670,7 @@
   {
     "id": "vignan-sakratmani-granth",
     "slug": "vignan-sakratmani-granth",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1p8xXkVDjCC0tstZxB5fXxExwUTEQq1qH/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -700,7 +700,7 @@
   {
     "id": "vishva-bodth-chosra-granth",
     "slug": "vishva-bodth-chosra-granth",
-    "cover": "/images/books/vishwabodh-chosara.jpg",
+    "cover": "/images/books/handwritten/vishwabodh-chosara.jpg",
     "pdf": "https://drive.google.com/file/d/14JE2zGB-7eDkM8I1L28C76ec3v5IsObP/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -730,7 +730,7 @@
   {
     "id": "adwaita-dwait-narved",
     "slug": "adwaita-dwait-narved",
-    "cover": "/images/books/advaita-dvaita-narved-chintamani.jpg",
+    "cover": "/images/books/handwritten/advaita-dvaita-narved-chintamani.jpg",
     "pdf": "https://drive.google.com/file/d/1uYxhHSHTFNz39Mb-FTwTkN4YrqQMuUou/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -760,7 +760,7 @@
   {
     "id": "sakrat-param-prakashimani",
     "slug": "sakrat-param-prakashimani",
-    "cover": "/images/books/sakrat-param-prakashimani.jpg",
+    "cover": "/images/books/handwritten/sakrat-param-prakashimani.jpg",
     "pdf": "https://drive.google.com/file/d/1vRLXKQ39uV-A2aDXatFMqJs7e7FcdYuJ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -790,7 +790,7 @@
   {
     "id": "panchikaran",
     "slug": "panchikaran",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1j2G2v8ydRZoASMVq5g8wVd3VRrTZ4Z3M/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -820,7 +820,7 @@
   {
     "id": "vignan-sakratmani-granth-2",
     "slug": "vignan-sakratmani-granth-2",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1dbn3Ym5f-LChkomeDqEBsosGGPu_pLYS/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -851,7 +851,7 @@
   {
     "id": "aghadhbodh-granth",
     "slug": "aghadhbodh-granth",
-    "cover": "/images/books/aghadhbodh-granth.jpg",
+    "cover": "/images/books/handwritten/aghadhbodh-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1AfM0DUDo2oMUGrRoGFo-fjDMw9eOuaPK/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -881,7 +881,7 @@
   {
     "id": "raveni-pad",
     "slug": "raveni-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/14Sj9OcSspXU_Y4AQKhu7fo25UBYe9dUm/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -912,7 +912,7 @@
   {
     "id": "khat-darshan-mat-delchavanko-pad",
     "slug": "khat-darshan-mat-delchavanko-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1TjCkZODVbCVn8ESkBTZiRju_W7fv8Aye/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -943,7 +943,7 @@
   {
     "id": "avinasi-pad",
     "slug": "avinasi-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1AO-EdXVyc2v0P0ZOB1BeuEHLxd6RaZ9i/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -974,7 +974,7 @@
   {
     "id": "prabhat-pad",
     "slug": "prabhat-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eDPL7-Syp38ftz6U-EAI4bOFwd3yaGYN/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1005,7 +1005,7 @@
   {
     "id": "kagal-pad",
     "slug": "kagal-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/13wMO8jpxv3fv9uFVphnlDUN2_y_mu-oE/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1036,7 +1036,7 @@
   {
     "id": "dhun",
     "slug": "dhun",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1gT7ozECotxHF7dkrQgzpaCx_YTMcSkkh/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1067,7 +1067,7 @@
   {
     "id": "tithi-rekta-kera-pad",
     "slug": "tithi-rekta-kera-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1ftpVLg6dw_omymrZcAxSMNP_Mn_bZ5kM/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1098,7 +1098,7 @@
   {
     "id": "bhram-maya-nirupan-rekta-pad",
     "slug": "bhram-maya-nirupan-rekta-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/15j38CdYDpXjBkJEGVAWeSyQDfANVIhXk/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1129,7 +1129,7 @@
   {
     "id": "kakko-ank-siromani-pad",
     "slug": "kakko-ank-siromani-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1r_Vu-p9ES03M9rjl9Weo48PdNKJIqoOu/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1160,7 +1160,7 @@
   {
     "id": "gyan-mani-bodh-guru",
     "slug": "gyan-mani-bodh-guru",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1o1f1EQ7ehluVNan5EJx7IYybuW4qsXAo/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1191,7 +1191,7 @@
   {
     "id": "chintamani-pad",
     "slug": "chintamani-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Rezi5UodK7hmoGRJVn6GNw74W7586nZp/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1222,7 +1222,7 @@
   {
     "id": "chundli-pad",
     "slug": "chundli-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1yKns_8duv8ekR_OowznmNFxPfuXCnJRV/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1253,7 +1253,7 @@
   {
     "id": "charkhido",
     "slug": "charkhido",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1lI7d-DFvr2pbpJCPWqsG2MvAJaULCZaP/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1284,7 +1284,7 @@
   {
     "id": "rekta-pad",
     "slug": "rekta-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1IXJEfjbS-UBuSZgZv_VDGlyqhtjiUVWy/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1315,7 +1315,7 @@
   {
     "id": "mevada-pad",
     "slug": "mevada-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eethZJlWgcMaPvbw8cGj6li7aD4gGlgv/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1346,7 +1346,7 @@
   {
     "id": "ashavari-pad",
     "slug": "ashavari-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1fbEPY0KNl7ONaSTv3x0dNM34VPonGNhr/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1377,7 +1377,7 @@
   {
     "id": "kshalno-pad",
     "slug": "kshalno-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eG2t5Rf2_cevmDnRB7FqaMTe_JpG9R_v/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1408,7 +1408,7 @@
   {
     "id": "ashwani-pad",
     "slug": "ashwani-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1PPksNhO2AhdGTW2liHMfiXhKZ9jr5ma_/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1439,7 +1439,7 @@
   {
     "id": "hindora-pad",
     "slug": "hindora-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1M8yysXjG6XUklCYAEa_U32c48VuA7Ns0/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1470,7 +1470,7 @@
   {
     "id": "mungal-aarti",
     "slug": "mungal-aarti",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1M2Vi-4YOtHEogFE4CFHAh6DCQzu31mF3/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1501,7 +1501,7 @@
   {
     "id": "kaddoni-chal-pad",
     "slug": "kaddoni-chal-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1d7egBCVU-JmIwaV-e6Zf4EYYnZevUNzW/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1532,7 +1532,7 @@
   {
     "id": "vasunt-rug-pad",
     "slug": "vasunt-rug-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10RkXtRlk6smuL4bk-87FMLz9SQi3VLNM/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1563,7 +1563,7 @@
   {
     "id": "dhumar-rag-pad",
     "slug": "dhumar-rag-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1MYrBx13FhS-npG-QXm83bnjflahCdHOs/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1594,7 +1594,7 @@
   {
     "id": "helari-rag-pad",
     "slug": "helari-rag-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/18PRjOytt95HismstxYEN6n0MdahbZLqo/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1625,7 +1625,7 @@
   {
     "id": "garbi-pad",
     "slug": "garbi-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10lHZHTn-seI-SAQApH-s4xBAKSLbaovw/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1656,7 +1656,7 @@
   {
     "id": "mass-pad",
     "slug": "mass-pad",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10dy3w1SrMxbvH1Tdmak7vF2ZVXeoelzF/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1687,7 +1687,7 @@
   {
     "id": "bhojan-samani-dhun",
     "slug": "bhojan-samani-dhun",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1D5TT9wNZ5yYgw5jyGKa72GdDFgmd_2vs/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1718,7 +1718,7 @@
   {
     "id": "sundhya-aarli",
     "slug": "sundhya-aarli",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1GWb8EXno_l_7F1zq403ALe-9HDme9oWg/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1749,7 +1749,7 @@
   {
     "id": "stuti",
     "slug": "stuti",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1sCvaWe9gebDZv8CUKNxGEN5k7u-igamu/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1780,7 +1780,7 @@
   {
     "id": "gyan-bhakti-vairag-nirupan-ht",
     "slug": "gyan-bhakti-vairag-nirupan-ht",
-    "cover": "/images/books/gyan-bhakti-vairag-nirupan.jpg",
+    "cover": "/images/books/handwritten/gyan-bhakti-vairag-nirupan.jpg",
     "pdf": "https://drive.google.com/file/d/1comFXlh7HIMdpHGsOT1BR1zYFWv4lh3l/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1810,7 +1810,7 @@
   {
     "id": "mahamani-granth",
     "slug": "mahamani-granth",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Y5Plz9g3PjFCeuoxDqS6lly8a90EKhg0/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1841,7 +1841,7 @@
   {
     "id": "aarti-hastlekhitgranth",
     "slug": "aarti-hastlekhitgranth",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1ugTJegspiVOQpDmxO2Zp6-Z0MyRAMTaU/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1872,7 +1872,7 @@
   {
     "id": "hasta-leva-granth-ht",
     "slug": "hasta-leva-granth-ht",
-    "cover": "/images/books/hansataleva.jpg",
+    "cover": "/images/books/handwritten/hansataleva.jpg",
     "pdf": "https://drive.google.com/file/d/1BLljTyQbAacsbDVEJaBMLxPbahWfpZJE/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1902,7 +1902,7 @@
   {
     "id": "pancham-ved",
     "slug": "pancham-ved",
-    "cover": "/images/books/pancham-sukshm-ved.jpg",
+    "cover": "/images/books/handwritten/pancham-sukshm-ved.jpg",
     "pdf": "https://drive.google.com/file/d/1-U0fWWBz-6GcF1WDS4cYCcJ97bvgIRWm/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1932,7 +1932,7 @@
   {
     "id": "panchikaran-1",
     "slug": "panchikaran-1",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1vUq5zoMKlzHMl7nFH1a3YqPWMagpFJ0D/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1962,7 +1962,7 @@
   {
     "id": "panchikaran-2",
     "slug": "panchikaran-2",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1n1jeC-DxcQcOWOtqiM_0AzlfwC3PSqfK/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -1992,7 +1992,7 @@
   {
     "id": "sakrat-param-prakash-01",
     "slug": "sakrat-param-prakash-01",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1BdF1qbzYodDUUFhaR5J12xpvlfgbX2L6/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -2023,7 +2023,7 @@
   {
     "id": "sakrat-param-prakash-02",
     "slug": "sakrat-param-prakash-02",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1tPmEoxEDQvGkbPj4coQglq8VPhz7by53/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -2054,7 +2054,7 @@
   {
     "id": "sakrat-param-prakash-03",
     "slug": "sakrat-param-prakash-03",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1kNRaapR2lKlZXdztI5t93Zu0t9AejHpQ/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -2085,7 +2085,7 @@
   {
     "id": "sakrat-param-prakash-04",
     "slug": "sakrat-param-prakash-04",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Dy0geb6j-huM9c-EHlpOWSGLVTIOMqov/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
@@ -2116,7 +2116,7 @@
   {
     "id": "hansataleva-granth-avichal",
     "slug": "hansataleva-granth-avichal",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1ClzSEsraJBpfztqxfS-sLw0ZuQq6MOS1/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
@@ -2146,7 +2146,7 @@
   {
     "id": "pancham-swasam-ved",
     "slug": "pancham-swasam-ved",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1wXtwUD28tePJ_QcECc25W43NAWLY-Nee/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
@@ -2176,7 +2176,7 @@
   {
     "id": "vishvabodh-chosara-avichal",
     "slug": "vishvabodh-chosara-avichal",
-    "cover": "/images/books/sample.jpg",
+    "cover": "/images/books/handwritten/sample.jpg",
     "pdf": "https://drive.google.com/file/d/150U148FV_HaaJqlNpMZK8OUGwaLFJj6A/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
