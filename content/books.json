@@ -2116,7 +2116,7 @@
   {
     "id": "hansataleva-granth-avichal",
     "slug": "hansataleva-granth-avichal",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/jagatguru-avichal-devacharya/hansataleva-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1ClzSEsraJBpfztqxfS-sLw0ZuQq6MOS1/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
@@ -2146,16 +2146,16 @@
   {
     "id": "pancham-swasam-ved",
     "slug": "pancham-swasam-ved",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/jagatguru-avichal-devacharya/pancham-swasam-ved.jpg",
     "pdf": "https://drive.google.com/file/d/1wXtwUD28tePJ_QcECc25W43NAWLY-Nee/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
     "authorId": "avichal-devacharya",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "પંચમ સ્વસમ વેદ",
-      "hi": "पंचम स्वसम वेद",
-      "en": "Pancham Swasam Ved"
+      "gu": "પંચમ સ્વસમ્વેદ",
+      "hi": "पंचम स्वसम्वेद",
+      "en": "Pancham Swasamved"
     },
     "author": {
       "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
@@ -2176,7 +2176,7 @@
   {
     "id": "vishvabodh-chosara-avichal",
     "slug": "vishvabodh-chosara-avichal",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/jagatguru-avichal-devacharya/vishwabodh-chosara.jpg",
     "pdf": "https://drive.google.com/file/d/150U148FV_HaaJqlNpMZK8OUGwaLFJj6A/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
@@ -2185,7 +2185,7 @@
     "title": {
       "gu": "વિશ્વબોધ ચોસરા",
       "hi": "विश्वबोध चोसरा",
-      "en": "Vishvabodh Chosara"
+      "en": "Vishwabodh Chosara"
     },
     "author": {
       "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
