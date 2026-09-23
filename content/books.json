@@ -153,7 +153,7 @@
     "id": "kaival-vilas",
     "slug": "kaival-vilas",
     "cover": "/images/books/nemi-maharaj/6.jpg",
-    "pdf": "https://drive.google.com/file/d/1EEZJ7xYaRzImWy2Um3tVuBb7UH_qgoLK/view?usp=share_link",
+    "pdf": "https://drive.google.com/file/d/1VHWMq9eechmShw-CPyOqWHA6WZYyBt-u/view?usp=sharing",
     "featured": true,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
@@ -398,11 +398,12 @@
   {
     "id": "siddhant-bavni-granth",
     "slug": "siddhant-bavni-granth",
-    "cover": "/images/books/handwritten/sample.jpg",
-    "pdf": "https://drive.google.com/file/d/1XFNb-EninOKtLwxjYdt232v7urNBFOBE/view?usp=sharing",
+    "cover": "/images/books/nemi-maharaj/14.jpg",
+    "pdf": "https://drive.google.com/file/d/1GY_CxzTJbhWhY3i_JJKP5OCKsMd1Vo8F/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
-    "authorId": "narvedsagar",
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
+    "authorIds": ["nemi-maharaj", "narvedsagar"],
     "literatureTypeId": "granth",
     "title": {
       "gu": "સિદ્ધાંત બાવની ગ્રંથ",
@@ -410,19 +411,19 @@
       "en": "Siddhant Bavni Granth"
     },
     "author": {
-      "gu": "પ.પુ. નરવેદ સાગર મહારાજ",
-      "hi": "प.पु. नरवेद सागर महाराज",
-      "en": "P.P. Narved Sagar Maharaj"
+      "gu": "પ.પુ. નેમી મહારાજ, પ.પુ. નરવેદ સાગર મહારાજ",
+      "hi": "प.पु. नेमी महाराज, प.पु. नरवेद सागर महाराज",
+      "en": "P.P. Nemi Maharaj, P.P. Narved Sagar Maharaj"
     },
     "tag": {
-      "gu": "હસ્તલિખિત",
-      "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
     },
     "excerpt": {
-      "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. નરવેદ સાગર મહારાજ રચિત.",
-      "hi": "हस्तलिखित ग्रंथ, प.पु. नरवेद सागर महाराज रचित।",
-      "en": "A handwritten granth composed by P.P. Narved Sagar Maharaj."
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ અને પ.પુ. નરવેદ સાગર મહારાજ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज और प.पु. नरवेद सागर महाराज।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj and P.P. Narved Sagar Maharaj."
     }
   },
   {
