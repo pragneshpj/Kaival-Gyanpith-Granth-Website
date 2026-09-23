@@ -403,7 +403,10 @@
     "featured": false,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
-    "authorIds": ["nemi-maharaj", "narvedsagar"],
+    "authorIds": [
+      "nemi-maharaj",
+      "narvedsagar"
+    ],
     "literatureTypeId": "granth",
     "title": {
       "gu": "સિદ્ધાંત બાવની ગ્રંથ",
@@ -429,7 +432,7 @@
   {
     "id": "acharatsagar",
     "slug": "acharatsagar",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/handwritten/acharatsagar.jpg",
     "pdf": "https://drive.google.com/file/d/1N9nJME-OhfG4SN5GdVxzpeEgPysVQiSU/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
@@ -671,16 +674,16 @@
   {
     "id": "vignan-sakratmani-granth",
     "slug": "vignan-sakratmani-granth",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/handwritten/vignan-sakratmani-deep.jpg",
     "pdf": "https://drive.google.com/file/d/1p8xXkVDjCC0tstZxB5fXxExwUTEQq1qH/view?usp=sharing",
     "featured": false,
     "categoryId": "handwritten",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "વિજ્ઞાન સક્રતમણી ગ્રંથ",
-      "hi": "विज्ञान सक्रतमणि ग्रंथ",
-      "en": "Vignan Sakratmani Granth"
+      "gu": "વિજ્ઞાન સક્રતમણી દીપ ગ્રંથ",
+      "hi": "विज्ञान सक्रतमणि दीप ग्रंथ",
+      "en": "Vignan Sakratmani Deep Granth"
     },
     "author": {
       "gu": "દિવ્ય પરમ ગુરુ",
@@ -2202,6 +2205,36 @@
       "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ.",
       "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
       "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
+    }
+  },
+  {
+    "id": "siddhant-bavni-granth-ht",
+    "slug": "siddhant-bavni-granth-ht",
+    "cover": "/images/books/handwritten/siddhant-bavni-granth.jpg",
+    "pdf": "https://drive.google.com/file/d/1XFNb-EninOKtLwxjYdt232v7urNBFOBE/view?usp=sharing",
+    "featured": false,
+    "categoryId": "handwritten",
+    "authorId": "narvedsagar",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "સિદ્ધાંત બાવની ગ્રંથ",
+      "hi": "सिद्धांत बावनी ग्रंथ",
+      "en": "Siddhant Bavni Granth"
+    },
+    "author": {
+      "gu": "પ.પુ. નરવેદ સાગર મહારાજ",
+      "hi": "प.पु. नरवेद सागर महाराज",
+      "en": "P.P. Narved Sagar Maharaj"
+    },
+    "tag": {
+      "gu": "હસ્તલિખિત",
+      "hi": "हस्तलिखित",
+      "en": "Handwritten"
+    },
+    "excerpt": {
+      "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. નરવેદ સાગર મહારાજ રચિત.",
+      "hi": "हस्तलिखित ग्रंथ, प.पु. नरवेद सागर महाराज रचित।",
+      "en": "A handwritten granth composed by P.P. Narved Sagar Maharaj."
     }
   }
 ]
