@@ -4,7 +4,6 @@ import { Link } from "@/i18n/navigation";
 import { BookCarousel } from "@/components/BookCarousel";
 import { CategoryCard } from "@/components/CategoryCard";
 import { Hero } from "@/components/Hero";
-import { LiteratureCard } from "@/components/LiteratureCard";
 import { SearchBar } from "@/components/SearchBar";
 import { SectionTitle } from "@/components/SectionTitle";
 import { StatsBar } from "@/components/StatsBar";
@@ -13,7 +12,6 @@ import {
   getFeaturedBooks,
   getFilters,
   getHome,
-  getLiterature,
   getSite,
   t,
 } from "@/lib/content";
@@ -32,7 +30,6 @@ export default async function HomePage({
   const home = getHome();
   const filters = getFilters();
   const categories = getCategories();
-  const literature = getLiterature();
   const featured = getFeaturedBooks();
 
   return (
@@ -72,24 +69,6 @@ export default async function HomePage({
           }
         />
         <BookCarousel books={featured} locale={locale} ui={site.ui} />
-      </section>
-
-      <section className="mx-auto max-w-7xl px-4 pb-20 md:px-8">
-        <SectionTitle title={t(home.sections.literature, locale)} />
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-6">
-          {literature.map((item) => (
-            <LiteratureCard
-              key={item.id}
-              locale={locale}
-              icon={item.icon}
-              title={item.title}
-              count={item.count}
-              booksLabel={site.ui.booksCount}
-              viewLabel={site.ui.view}
-              href={item.href}
-            />
-          ))}
-        </div>
       </section>
 
       <StatsBar locale={locale} stats={site.stats} />
