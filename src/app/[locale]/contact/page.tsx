@@ -25,7 +25,14 @@ export default async function ContactPage({
           <ul className="space-y-5 text-ink">
             <li className="flex gap-3">
               <MapPin className="mt-1 h-5 w-5 text-maroon" />
-              {t(site.contact.address, locale)}
+              <a
+                href={site.contact.mapUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="hover:text-maroon"
+              >
+                {t(site.contact.address, locale)}
+              </a>
             </li>
             <li className="flex gap-3">
               <Phone className="mt-1 h-5 w-5 text-maroon" />

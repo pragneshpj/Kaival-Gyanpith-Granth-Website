@@ -9,7 +9,7 @@ type Site = {
   brand: { logo: string; footerLogo: string; footerEmblem: string; gujarati: string; english: string };
   nav: { id: string; href: string; label: Localized }[];
   ui: { privacy: Localized; terms: Localized };
-  contact: { address: Localized; phone: string; email: string };
+  contact: { address: Localized; phone: string; email: string; mapUrl?: string };
   social: { id: string; href: string; label: string }[];
   footer: {
     about: Localized;
@@ -122,7 +122,14 @@ export function Footer({
           <ul className="space-y-3 text-sm text-white/85">
             <li className="flex gap-2">
               <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-gold" />
-              {t(site.contact.address, locale)}
+              <a
+                href={site.contact.mapUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="hover:text-gold"
+              >
+                {t(site.contact.address, locale)}
+              </a>
             </li>
             <li className="flex gap-2">
               <Phone className="mt-0.5 h-4 w-4 shrink-0 text-gold" />
