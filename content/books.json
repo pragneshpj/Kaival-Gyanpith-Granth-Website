@@ -33,7 +33,7 @@
     "id": "vishva-vidhvansh-nidhi-1-2",
     "slug": "vishva-vidhvansh-nidhi-1-2",
     "cover": "/images/books/nemi-maharaj/3.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1sbP9RPaDCJtpm4fKESX-sLccdpzQIv3V/view?usp=sharing",
     "featured": true,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
@@ -303,7 +303,7 @@
     "id": "granth-sagar",
     "slug": "granth-sagar",
     "cover": "/images/books/nemi-maharaj/11.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/1pNGtkbA4hVy5AWhTzfzv4GvnuSBATnh7/view?usp=sharing",
     "featured": false,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
@@ -2235,6 +2235,36 @@
       "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. નરવેદ સાગર મહારાજ રચિત.",
       "hi": "हस्तलिखित ग्रंथ, प.पु. नरवेद सागर महाराज रचित।",
       "en": "A handwritten granth composed by P.P. Narved Sagar Maharaj."
+    }
+  },
+  {
+    "id": "pancham-sukshm-ved",
+    "slug": "pancham-sukshm-ved",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1uxGwGntGDngH454aqnJ3XeMcmiQiZmGp/view?usp=sharing",
+    "featured": false,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પંચમ સૂક્ષ્મવેદ",
+      "hi": "पंचम सूक्ष्मवेद",
+      "en": "Pancham Sukshm Ved"
+    },
+    "author": {
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
   }
 ]
