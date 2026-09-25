@@ -2266,5 +2266,35 @@
       "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
       "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
     }
+  },
+  {
+    "id": "paramguru-pomi-pragatya",
+    "slug": "paramguru-pomi-pragatya",
+    "cover": "/images/books/jagatguru-avichal-devacharya/paramguru-pomi-pragatya.jpg",
+    "pdf": "https://drive.google.com/file/d/1ukUbNmKEUDbqqqdXkiJy3O8WU_eoID8f/view?usp=sharing",
+    "featured": false,
+    "categoryId": "guruji",
+    "authorId": "avichal-devacharya",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પરમગુરુ પોમી પ્રાગટ્ય",
+      "hi": "परमगुरु पोमी प्रागट्य",
+      "en": "Paramguru Pomi Pragatya"
+    },
+    "author": {
+      "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+      "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+      "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+    },
+    "tag": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
+    }
   }
 ]
