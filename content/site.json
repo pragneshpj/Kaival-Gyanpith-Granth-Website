@@ -72,6 +72,8 @@
       "en": "No books match this search."
     },
     "backToLibrary": { "gu": "લાઇબ્રેરી પર પાછા", "hi": "लाइब्रेरी पर वापस", "en": "Back to Library" },
+    "openBook": { "gu": "ગ્રંથ ખોલો", "hi": "ग्रंथ खोलें", "en": "Open Book" },
+    "closeBook": { "gu": "ગ્રંથ બંધ કરો", "hi": "ग्रंथ बंद करें", "en": "Close Book" },
     "privacy": { "gu": "ગોપનીયતા નીતિ", "hi": "गोपनीयता नीति", "en": "Privacy Policy" },
     "terms": { "gu": "નિયમો અને શરતો", "hi": "नियम और शर्तें", "en": "Terms & Conditions" }
   },

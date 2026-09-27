@@ -2296,5 +2296,35 @@
       "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद।",
       "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Jagadguru Avichal Devacharya Maharaj."
     }
+  },
+  {
+    "id": "paramguru-panchvarshik-pustak",
+    "slug": "paramguru-panchvarshik-pustak",
+    "cover": "/images/books/nemi-maharaj/paramguru-panchvarshik-pustak.jpg",
+    "pdf": "https://drive.google.com/file/d/183LeWghrlAe-9ESbLJDBnd9jnorw-cF5/view?usp=sharing",
+    "featured": false,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "nemi-maharaj",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પ્રથમ પંચ વાર્ષિક પરમગુરૂ પુસ્તક",
+      "hi": "प्रथम पंच वार्षिक परमगुरु पुस्तक",
+      "en": "Pratham Panch Varshik Paramguru Pustak"
+    },
+    "author": {
+      "gu": "પ.પુ. નેમી મહારાજ",
+      "hi": "प.पु. नेमी महाराज",
+      "en": "P.P. Nemi Maharaj"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ (ભાગ ૧ અને ૨), પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ (भाग १ और २), प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth (Parts 1 and 2). Anuvad by P.P. Nemi Maharaj."
+    }
   }
 ]

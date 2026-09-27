@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import { BookFlipViewer } from "@/components/BookFlipViewer";
 import { routing } from "@/i18n/routing";
 import { getBookBySlug, getBooks, getPdfEmbedUrl, getSite, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
@@ -56,14 +57,13 @@ export default async function ReadPage({
           </a>
         </div>
       </div>
-      <div className="mt-10 overflow-hidden rounded-xl border border-gold/30 bg-white">
-        <iframe
-          title={t(book.title, locale)}
-          src={getPdfEmbedUrl(book.pdf)}
-          className="h-[80vh] w-full"
-          allow="autoplay"
-        />
-      </div>
+      <BookFlipViewer
+        title={t(book.title, locale)}
+        cover={book.cover}
+        src={getPdfEmbedUrl(book.pdf)}
+        openLabel={t(site.ui.openBook, locale)}
+        closeLabel={t(site.ui.closeBook, locale)}
+      />
     </section>
   );
 }
