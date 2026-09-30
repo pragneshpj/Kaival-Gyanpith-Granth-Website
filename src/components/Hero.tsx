@@ -95,7 +95,7 @@ export function Hero({
               <ArrowRight className="h-4 w-4" strokeWidth={2} />
             </Link>
             <Link
-              href="/library"
+              href="/library?category=handwritten"
               className="inline-flex h-11 items-center gap-2 rounded-[5px] border border-[#D1A675] bg-transparent px-5 text-[14px] font-medium text-[#4D0F0C] hover:bg-[#D1A675]/10"
             >
               {t(ui.handwrittenCta, locale)}

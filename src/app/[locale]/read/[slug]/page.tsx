@@ -46,15 +46,6 @@ export default async function ReadPage({
           <h1 className="mt-3 text-3xl font-bold text-ink">{t(book.title, locale)}</h1>
           <p className="mt-2 text-muted">{t(book.author, locale)}</p>
           <p className="mt-4 leading-7 text-ink/80">{t(book.excerpt, locale)}</p>
-          <a
-            href={book.pdf}
-            target={book.pdf.startsWith("http") ? "_blank" : undefined}
-            rel={book.pdf.startsWith("http") ? "noreferrer" : undefined}
-            download={book.pdf.startsWith("http") ? undefined : true}
-            className="mt-6 inline-flex rounded-lg border border-maroon px-4 py-2 text-sm font-semibold text-maroon"
-          >
-            {t(site.ui.downloadPdf, locale)}
-          </a>
         </div>
       </div>
       <BookFlipViewer
