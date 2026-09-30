@@ -333,10 +333,10 @@
     "id": "gyan-bhakti-vairag-nirupan",
     "slug": "gyan-bhakti-vairag-nirupan",
     "cover": "/images/books/nemi-maharaj/12.jpg",
-    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
+    "pdf": "https://drive.google.com/file/d/10W5YrzNWI2BFUg7eBoCtHsYFGUHxGFlD/view?usp=sharing",
     "featured": false,
     "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharaj",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "જ્ઞાન, ભક્તિ, વૈરાગ્ય નિરૂપણ ગ્રંથ",
@@ -344,9 +344,9 @@
       "en": "Gyan, Bhakti, Vairag Nirupan Granth"
     },
     "author": {
-      "gu": "પ.પુ. નેમી મહારાજ",
-      "hi": "प.पु. नेमी महाराज",
-      "en": "P.P. Nemi Maharaj"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
     },
     "tag": {
       "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
@@ -463,10 +463,10 @@
     "id": "tithi-granth-gyan-shiromani",
     "slug": "tithi-granth-gyan-shiromani",
     "cover": "/images/books/nemi-maharaj/16.jpg",
-    "pdf": "https://drive.google.com/file/d/1Ah2qDW7rKjiIye9hfT8PBqqMsuZTnMg0/view?usp=share_link",
+    "pdf": "https://drive.google.com/file/d/1hBfVr8sRZUlcWPE-6D7uNxilvi9ZESRL/view?usp=sharing",
     "featured": false,
     "categoryId": "nemi-maharajshri",
-    "authorId": "nemi-maharaj",
+    "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
       "gu": "તિથિ ગ્રંથ જ્ઞાન શિરોમણિ ગ્રંથ",
@@ -474,9 +474,39 @@
       "en": "Tithi Granth Gyan Shiromani Granth"
     },
     "author": {
-      "gu": "પ.પુ. નેમી મહારાજ",
-      "hi": "प.पु. नेमी महाराज",
-      "en": "P.P. Nemi Maharaj"
+      "gu": "દિવ્ય પરમ ગુરુ",
+      "hi": "दिव्य परम गुरु",
+      "en": "Divya Param Guru"
+    },
+    "tag": {
+      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
+      "hi": "नेमी महाराज द्वारा अनुवाद",
+      "en": "Anuvad By Nemi Maharaj"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો પવિત્ર ગ્રંથ, પ.પુ. નેમી મહારાજ દ્વારા અનુવાદ.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ, प.पु. नेमी महाराज द्वारा अनुवाद।",
+      "en": "A sacred Gyan Sampraday granth. Anuvad by P.P. Nemi Maharaj."
+    }
+  },
+  {
+    "id": "acharat-sagar",
+    "slug": "acharat-sagar",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1eU-ItmGZnzjQMQci4yEtb4GQLO3uP90-/view?usp=sharing",
+    "featured": false,
+    "categoryId": "nemi-maharajshri",
+    "authorId": "acharatba",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "અચરત સાગર",
+      "hi": "अचरत सागर",
+      "en": "Acharat Sagar"
+    },
+    "author": {
+      "gu": "પ.પુ. અચરતબા",
+      "hi": "प.पु. अचरतबा",
+      "en": "P.P. Acharatba"
     },
     "tag": {
       "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
