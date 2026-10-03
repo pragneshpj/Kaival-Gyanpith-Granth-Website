@@ -2356,5 +2356,125 @@
       "hi": "ज्ञान सम्प्रदाय का पवित्र ग्रंथ (भाग १ और २), प.पु. नेमी महाराज द्वारा अनुवाद।",
       "en": "A sacred Gyan Sampraday granth (Parts 1 and 2). Anuvad by P.P. Nemi Maharaj."
     }
+  },
+  {
+    "id": "avichal-amrutdhara-1-73",
+    "slug": "avichal-amrutdhara-1-73",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1rP1YeFgL2xCXYr4PrsAB6L2oZzBkiDNx/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "other",
+    "title": {
+      "gu": "અવિચલ અમૃતધારા (૧–૭૩)",
+      "hi": "अविचल अमृतधारा (१–७३)",
+      "en": "Avichal Amrutdhara (1–73)"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનું પવિત્ર સાહિત્ય.",
+      "hi": "ज्ञान सम्प्रदाय का पवित्र साहित्य।",
+      "en": "Sacred literature of the Gyan Sampraday."
+    }
+  },
+  {
+    "id": "ranmukt-bhajnavali-1-2",
+    "slug": "ranmukt-bhajnavali-1-2",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/14kyt3YBdWrfsJjVGT-SRimS8Gc93TgGH/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "રણમુક્ત ભજનાવલી ભાગ ૧–૨",
+      "hi": "रणमुक्त भजनावली भाग १–२",
+      "en": "Ranmukt Bhajnavali Part 1–2"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયના પવિત્ર ભજનોનો સંગ્રહ.",
+      "hi": "ज्ञान सम्प्रदाय के पवित्र भजनों का संग्रह।",
+      "en": "A collection of sacred bhajans of the Gyan Sampraday."
+    }
+  },
+  {
+    "id": "ranmukt-bhajnavali-3-4",
+    "slug": "ranmukt-bhajnavali-3-4",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/1w9gb68lyQH0ZY5NlTYFsEo0uh4gn3i-J/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "રણમુક્ત ભજનાવલી ભાગ ૩–૪",
+      "hi": "रणमुक्त भजनावली भाग ३–४",
+      "en": "Ranmukt Bhajnavali Part 3–4"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયના પવિત્ર ભજનોનો સંગ્રહ.",
+      "hi": "ज्ञान सम्प्रदाय के पवित्र भजनों का संग्रह।",
+      "en": "A collection of sacred bhajans of the Gyan Sampraday."
+    }
+  },
+  {
+    "id": "ranmukt-bhajnavali-5-6-7",
+    "slug": "ranmukt-bhajnavali-5-6-7",
+    "cover": "/images/books/handwritten/sample.jpg",
+    "pdf": "https://drive.google.com/file/d/13VogrBdYiPZp6KhUhpKrDhT7micjgX14/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "રણમુક્ત ભજનાવલી ભાગ ૫–૬–૭",
+      "hi": "रणमुक्त भजनावली भाग ५–६–७",
+      "en": "Ranmukt Bhajnavali Part 5–6–7"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયના પવિત્ર ભજનોનો સંગ્રહ.",
+      "hi": "ज्ञान सम्प्रदाय के पवित्र भजनों का संग्रह।",
+      "en": "A collection of sacred bhajans of the Gyan Sampraday."
+    }
   }
 ]

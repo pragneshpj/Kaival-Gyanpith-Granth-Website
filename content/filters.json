@@ -17,7 +17,8 @@
         "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
         "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
       }
-    }
+    },
+    { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other" } }
   ],
   "dropdowns": {
     "categories": [
@@ -38,7 +39,8 @@
           "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
           "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
         }
-      }
+      },
+      { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other" } }
     ],
     "authors": [
       { "id": "all", "label": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" } },
@@ -93,7 +95,8 @@
         "acharatba",
         "other"
       ],
-      "guruji": ["avichal-devacharya", "nemi-maharaj", "other"]
+      "guruji": ["avichal-devacharya", "nemi-maharaj", "other"],
+      "other": ["divya-param-guru", "other"]
     },
     "types": [
       { "id": "all", "label": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" } },
