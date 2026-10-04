@@ -36,13 +36,7 @@ export default async function HomePage({
     <>
       <Hero locale={locale} home={home} ui={site.ui} />
 
-      <section className="py-12 md:py-16">
-        <Suspense>
-          <SearchBar locale={locale} filters={filters} ui={site.ui} />
-        </Suspense>
-      </section>
-
-      <section className="mx-auto max-w-7xl px-4 pb-20 md:px-8">
+      <section className="mx-auto max-w-7xl px-4 pt-14 pb-12 md:px-8 md:pt-20 md:pb-14">
         <SectionTitle title={t(home.sections.collection, locale)} />
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((category) => (
@@ -59,7 +53,13 @@ export default async function HomePage({
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-4 pb-20 md:px-8">
+      <section className="pb-14 md:pb-20">
+        <Suspense>
+          <SearchBar locale={locale} filters={filters} ui={site.ui} />
+        </Suspense>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-4 pb-16 md:px-8 md:pb-24">
         <SectionTitle
           title={t(home.sections.featured, locale)}
           action={

@@ -5,17 +5,17 @@
     {
       "id": "nemi-maharajshri",
       "label": {
-        "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
-        "hi": "नेमी महाराज द्वारा अनुवाद",
-        "en": "Anuvad By Nemi Maharaj"
+        "gu": "નેમી મહારાજ દ્વારા પ્રકાશિત",
+        "hi": "नेमी महाराज द्वारा प्रकाशित",
+        "en": "Published By Nemi Maharaj"
       }
     },
     {
       "id": "guruji",
       "label": {
-        "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
-        "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
-        "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+        "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા પ્રકાશિત",
+        "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा प्रकाशित",
+        "en": "Published By Jagadguru Avichal Devacharya Maharaj"
       }
     },
     { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other" } }
@@ -27,17 +27,17 @@
       {
         "id": "nemi-maharajshri",
         "label": {
-          "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
-          "hi": "नेमी महाराज द्वारा अनुवाद",
-          "en": "Anuvad By Nemi Maharaj"
+          "gu": "નેમી મહારાજ દ્વારા પ્રકાશિત",
+          "hi": "नेमी महाराज द्वारा प्रकाशित",
+          "en": "Published By Nemi Maharaj"
         }
       },
       {
         "id": "guruji",
         "label": {
-          "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
-          "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
-          "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+          "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા પ્રકાશિત",
+          "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा प्रकाशित",
+          "en": "Published By Jagadguru Avichal Devacharya Maharaj"
         }
       },
       { "id": "other", "label": { "gu": "અન્ય સાહિત્ય", "hi": "अन्य साहित्य", "en": "Other" } }

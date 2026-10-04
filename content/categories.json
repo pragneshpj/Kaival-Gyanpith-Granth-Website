@@ -19,14 +19,14 @@
     "href": "/library?category=nemi-maharajshri",
     "icon": "book",
     "title": {
-      "gu": "નેમી મહારાજ દ્વારા અનુવાદ",
-      "hi": "नेमी महाराज द्वारा अनुवाद",
-      "en": "Anuvad By Nemi Maharaj"
+      "gu": "નેમી મહારાજ દ્વારા પ્રકાશિત",
+      "hi": "नेमी महाराज द्वारा प्रकाशित",
+      "en": "Published By Nemi Maharaj"
     },
     "description": {
-      "gu": "નેમી મહારાજ દ્વારા અનુવાદિત ગ્રંથો.",
-      "hi": "नेमी महाराज द्वारा अनुवादित ग्रंथ।",
-      "en": "Granths translated by Nemi Maharaj"
+      "gu": "નેમી મહારાજ દ્વારા પ્રકાશિત ગ્રંથો.",
+      "hi": "नेमी महाराज द्वारा प्रकाशित ग्रंथ।",
+      "en": "Granths published by Nemi Maharaj"
     }
   },
   {
@@ -34,14 +34,14 @@
     "href": "/library?category=guruji",
     "icon": "lamp",
     "title": {
-      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદ",
-      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवाद",
-      "en": "Anuvad By Jagadguru Avichal Devacharya Maharaj"
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા પ્રકાશિત",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा प्रकाशित",
+      "en": "Published By Jagadguru Avichal Devacharya Maharaj"
     },
     "description": {
-      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા અનુવાદિત ગ્રંથો.",
-      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा अनुवादित ग्रंथ।",
-      "en": "Granths translated by Jagadguru Avichal Devacharya Maharaj"
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા પ્રકાશિત ગ્રંથો.",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा प्रकाशित ग्रंथ।",
+      "en": "Granths published by Jagadguru Avichal Devacharya Maharaj"
     }
   },
   {

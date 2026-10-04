@@ -28,11 +28,6 @@
       "label": { "gu": "અમારા વિશે", "hi": "हमारे बारे में", "en": "About" }
     },
     {
-      "id": "literature",
-      "href": "/literature",
-      "label": { "gu": "સાહિત્ય", "hi": "साहित्य", "en": "Literature" }
-    },
-    {
       "id": "contact",
       "href": "/contact",
       "label": { "gu": "સંપર્ક", "hi": "संपर्क", "en": "Contact" }
@@ -47,7 +42,7 @@
     "searchPlaceholder": {
       "gu": "ગ્રંથ, રચયિતા અથવા વિષય શોધો...",
       "hi": "ग्रंथ, रचयिता या विषय खोजें...",
-      "en": "Search granth, author or subject..."
+      "en": "Search granth..."
     },
     "category": { "gu": "શ્રેણી", "hi": "श्रेणी", "en": "Category" },
     "author": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" },

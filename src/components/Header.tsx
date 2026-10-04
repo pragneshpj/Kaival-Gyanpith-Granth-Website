@@ -1,6 +1,5 @@
 "use client";
 
-import { Search } from "lucide-react";
 import { Link, usePathname } from "@/i18n/navigation";
 import { Logo } from "./Logo";
 import { LanguageSwitcher } from "./LanguageSwitcher";
@@ -50,16 +49,7 @@ export function Header({ locale, site }: { locale: Locale; site: Site }) {
             })}
           </nav>
 
-          <div className="flex items-center gap-3">
-            <Link
-              href="/library"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-[#D4AF37] text-[#4A4A4A]"
-              aria-label={t(site.nav[1].label, locale)}
-            >
-              <Search className="h-4 w-4" strokeWidth={1.75} />
-            </Link>
-            <LanguageSwitcher languages={site.languages} />
-          </div>
+          <LanguageSwitcher languages={site.languages} />
         </div>
       </div>
 
