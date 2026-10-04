@@ -1,17 +1,13 @@
-import { Suspense } from "react";
 import { setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { BookCarousel } from "@/components/BookCarousel";
 import { CategoryCard } from "@/components/CategoryCard";
 import { Hero } from "@/components/Hero";
-import { SearchBar } from "@/components/SearchBar";
 import { SectionTitle } from "@/components/SectionTitle";
 import { StatsBar } from "@/components/StatsBar";
 import {
-  getBooks,
   getCategories,
   getFeaturedBooks,
-  getFilters,
   getHome,
   getSite,
   t,
@@ -29,16 +25,14 @@ export default async function HomePage({
 
   const site = getSite();
   const home = getHome();
-  const filters = getFilters();
   const categories = getCategories();
   const featured = getFeaturedBooks();
-  const books = getBooks();
 
   return (
     <>
       <Hero locale={locale} home={home} ui={site.ui} />
 
-      <section className="mx-auto max-w-7xl px-4 pt-14 pb-12 md:px-8 md:pt-20 md:pb-14">
+      <section className="mx-auto max-w-7xl px-4 pt-14 pb-14 md:px-8 md:pt-20 md:pb-20">
         <SectionTitle title={t(home.sections.collection, locale)} />
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((category) => (
@@ -53,12 +47,6 @@ export default async function HomePage({
             />
           ))}
         </div>
-      </section>
-
-      <section className="pb-14 md:pb-20">
-        <Suspense>
-          <SearchBar locale={locale} filters={filters} ui={site.ui} books={books} />
-        </Suspense>
       </section>
 
       <section className="mx-auto max-w-7xl px-4 pb-16 md:px-8 md:pb-24">
