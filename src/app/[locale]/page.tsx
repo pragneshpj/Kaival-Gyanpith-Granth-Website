@@ -8,6 +8,7 @@ import { SearchBar } from "@/components/SearchBar";
 import { SectionTitle } from "@/components/SectionTitle";
 import { StatsBar } from "@/components/StatsBar";
 import {
+  getBooks,
   getCategories,
   getFeaturedBooks,
   getFilters,
@@ -31,6 +32,7 @@ export default async function HomePage({
   const filters = getFilters();
   const categories = getCategories();
   const featured = getFeaturedBooks();
+  const books = getBooks();
 
   return (
     <>
@@ -55,7 +57,7 @@ export default async function HomePage({
 
       <section className="pb-14 md:pb-20">
         <Suspense>
-          <SearchBar locale={locale} filters={filters} ui={site.ui} />
+          <SearchBar locale={locale} filters={filters} ui={site.ui} books={books} />
         </Suspense>
       </section>
 

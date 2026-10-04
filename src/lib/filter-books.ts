@@ -59,6 +59,24 @@ export function filterBooks(books: Book[], query: BookQuery): Book[] {
   });
 }
 
+export function suggestBooks(books: Book[], query: BookQuery): Book[] {
+  const q = query.q?.trim().toLowerCase() ?? "";
+  const candidates = filterBooks(books, { ...query, q: "" });
+  if (!q) return candidates;
+
+  const ranked: { book: Book; rank: number }[] = [];
+  for (const book of candidates) {
+    const titles = Object.values(book.title).map((value) => value.toLowerCase());
+    const authors = Object.values(book.author).map((value) => value.toLowerCase());
+    let rank = -1;
+    if (titles.some((value) => value.startsWith(q))) rank = 0;
+    else if (titles.some((value) => value.includes(q))) rank = 1;
+    else if (authors.some((value) => value.includes(q)) || book.slug.includes(q)) rank = 2;
+    if (rank >= 0) ranked.push({ book, rank });
+  }
+  return ranked.sort((a, b) => a.rank - b.rank).map((entry) => entry.book);
+}
+
 export function toLibraryHref(query: BookQuery): string {
   const params = new URLSearchParams();
   if (query.q?.trim()) params.set("q", query.q.trim());

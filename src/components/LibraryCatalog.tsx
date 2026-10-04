@@ -46,7 +46,7 @@ export function LibraryCatalog({
   return (
     <>
       <section className="py-10">
-        <SearchBar locale={locale} filters={filters} ui={ui} />
+        <SearchBar locale={locale} filters={filters} ui={ui} books={books} />
       </section>
       <section className="mx-auto max-w-7xl px-4 pb-20 md:px-8">
         {filtered.length === 0 ? (
