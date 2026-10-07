@@ -2328,6 +2328,36 @@
     }
   },
   {
+    "id": "preranapunj",
+    "slug": "preranapunj",
+    "cover": "/images/books/jagatguru-avichal-devacharya/preranapunj.jpg",
+    "pdf": "https://drive.google.com/file/d/1-sUlsdT1Zq6m2sT-sCGLAPUCERA8JyaV/view?usp=sharing",
+    "featured": false,
+    "categoryId": "guruji",
+    "authorId": "avichal-devacharya",
+    "literatureTypeId": "granth",
+    "title": {
+      "gu": "પ્રેરણાપુંજ",
+      "hi": "प्रेरणापुंज",
+      "en": "Preranapunj"
+    },
+    "author": {
+      "gu": "પ.પુ. જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ",
+      "hi": "प.पु. जगद्गुरु अविचल देवाचार्य महाराज",
+      "en": "P.P. Jagadguru Avichal Devacharya Maharaj"
+    },
+    "tag": {
+      "gu": "જગદ્ગુરુ અવિચલ દેવાચાર્ય મહારાજ દ્વારા પ્રકાશિત",
+      "hi": "जगद्गुरु अविचल देवाचार्य महाराज द्वारा प्रकाशित",
+      "en": "Published By Jagadguru Avichal Devacharya Maharaj"
+    },
+    "excerpt": {
+      "gu": "સદ્ગુરુ શ્રી અવિચલદાસજી મહારાજના પ્રેરણાદાયી વિચારોનો સંગ્રહ.",
+      "hi": "सद्गुरु श्री अविचलदासजी महाराज के प्रेरणादायी विचारों का संग्रह।",
+      "en": "A collection of inspiring thoughts of Sadguru Shri Avichaldasji Maharaj."
+    }
+  },
+  {
     "id": "paramguru-panchvarshik-pustak",
     "slug": "paramguru-panchvarshik-pustak",
     "cover": "/images/books/nemi-maharaj/paramguru-panchvarshik-pustak.jpg",
