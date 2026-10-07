@@ -492,7 +492,7 @@
   {
     "id": "acharat-sagar",
     "slug": "acharat-sagar",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/nemi-maharaj/acharat-sagar.jpg",
     "pdf": "https://drive.google.com/file/d/1eU-ItmGZnzjQMQci4yEtb4GQLO3uP90-/view?usp=sharing",
     "featured": false,
     "categoryId": "nemi-maharajshri",
@@ -522,7 +522,7 @@
   {
     "id": "nitya-niyam",
     "slug": "nitya-niyam",
-    "cover": "/images/books/handwritten/nitya-niyam.jpg",
+    "cover": "/images/books/other/nitya-niyam.jpg",
     "pdf": "https://drive.google.com/file/d/1IBpjm7n3dDHe-EPflsz8wPAH0WzoSVcH/view?usp=share_link",
     "featured": false,
     "categoryId": "other",
@@ -2360,7 +2360,7 @@
   {
     "id": "avichal-amrutdhara-1-73",
     "slug": "avichal-amrutdhara-1-73",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/other/avichal-amrutdhara-1-73.jpg",
     "pdf": "https://drive.google.com/file/d/1rP1YeFgL2xCXYr4PrsAB6L2oZzBkiDNx/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
@@ -2390,7 +2390,7 @@
   {
     "id": "ranmukt-bhajnavali-1-2",
     "slug": "ranmukt-bhajnavali-1-2",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/other/ranmukt-bhajnavali-1-2.jpg",
     "pdf": "https://drive.google.com/file/d/14kyt3YBdWrfsJjVGT-SRimS8Gc93TgGH/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
@@ -2420,7 +2420,7 @@
   {
     "id": "ranmukt-bhajnavali-3-4",
     "slug": "ranmukt-bhajnavali-3-4",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/other/ranmukt-bhajnavali-3-4.jpg",
     "pdf": "https://drive.google.com/file/d/1w9gb68lyQH0ZY5NlTYFsEo0uh4gn3i-J/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
@@ -2450,7 +2450,7 @@
   {
     "id": "ranmukt-bhajnavali-5-6-7",
     "slug": "ranmukt-bhajnavali-5-6-7",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/other/ranmukt-bhajnavali-5-6-7.jpg",
     "pdf": "https://drive.google.com/file/d/13VogrBdYiPZp6KhUhpKrDhT7micjgX14/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
@@ -2475,6 +2475,36 @@
       "gu": "જ્ઞાન સંપ્રદાયના પવિત્ર ભજનોનો સંગ્રહ.",
       "hi": "ज्ञान सम्प्रदाय के पवित्र भजनों का संग्रह।",
       "en": "A collection of sacred bhajans of the Gyan Sampraday."
+    }
+  },
+  {
+    "id": "laghu-nitya-niyam",
+    "slug": "laghu-nitya-niyam",
+    "cover": "/images/books/other/laghu-nitya-niyam.jpg",
+    "pdf": "https://drive.google.com/file/d/1a_LTiibFnVhns-vRv_Cbx4HpEOrVDRde/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "other",
+    "title": {
+      "gu": "લઘુ નિત્ય નિયમ",
+      "hi": "लघु नित्य नियम",
+      "en": "Laghu Nitya Niyam"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયના દૈનિક નિયમનું સંક્ષિપ્ત માર્ગદર્શન.",
+      "hi": "ज्ञान सम्प्रदाय के दैनिक नियम का संक्षिप्त मार्गदर्शन।",
+      "en": "A concise guide to the daily niyam of the Gyan Sampraday."
     }
   }
 ]
