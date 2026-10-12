@@ -2388,8 +2388,8 @@
     }
   },
   {
-    "id": "avichal-amrutdhara-1-73",
-    "slug": "avichal-amrutdhara-1-73",
+    "id": "avichal-amrutdhara",
+    "slug": "avichal-amrutdhara",
     "cover": "/images/books/other/avichal-amrutdhara-1-73.jpg",
     "pdf": "https://drive.google.com/file/d/1rP1YeFgL2xCXYr4PrsAB6L2oZzBkiDNx/view?usp=sharing",
     "featured": false,
@@ -2397,9 +2397,9 @@
     "authorId": "other",
     "literatureTypeId": "other",
     "title": {
-      "gu": "અવિચલ અમૃતધારા (૧–૭૩)",
-      "hi": "अविचल अमृतधारा (१–७३)",
-      "en": "Avichal Amrutdhara (1–73)"
+      "gu": "અવિચલ અમૃતધારા",
+      "hi": "अविचल अमृतधारा",
+      "en": "Avichal Amrutdhara"
     },
     "author": {
       "gu": "અન્ય",
