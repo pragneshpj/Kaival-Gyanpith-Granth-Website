@@ -1,9 +1,23 @@
+import type { Metadata } from "next";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { setRequestLocale } from "next-intl/server";
 import { ContactForm } from "@/components/ContactForm";
 import { PageHero } from "@/components/PageHero";
 import { getContactPage, getSite, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const page = getContactPage();
+  return {
+    title: t(page.title, locale as Locale),
+    description: t(page.subtitle, locale as Locale),
+  };
+}
 
 export default async function ContactPage({
   params,

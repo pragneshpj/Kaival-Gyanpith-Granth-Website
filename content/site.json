@@ -2,6 +2,7 @@
   "brand": {
     "gujarati": "કૈવલ જ્ઞાનપીઠ",
     "english": "Kaival Gyanpith",
+    "name": { "gu": "કૈવલ જ્ઞાનપીઠ", "hi": "कैवल ज्ञानपीठ", "en": "Kaival Gyanpith" },
     "logo": "/images/logo.png",
     "footerLogo": "/images/logo-footer.png",
     "footerEmblem": "/images/logo-flame.png"

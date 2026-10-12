@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import { setRequestLocale } from "next-intl/server";
@@ -11,6 +12,22 @@ export function generateStaticParams() {
   return routing.locales.flatMap((locale) =>
     getBooks().map((book) => ({ locale, slug: book.slug })),
   );
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; slug: string }>;
+}): Promise<Metadata> {
+  const { locale: localeParam, slug } = await params;
+  const locale = localeParam as Locale;
+  const book = getBookBySlug(slug);
+  if (!book) return {};
+  return {
+    title: t(book.title, locale),
+    description: t(book.excerpt, locale),
+    openGraph: { images: [book.cover] },
+  };
 }
 
 export default async function ReadPage({

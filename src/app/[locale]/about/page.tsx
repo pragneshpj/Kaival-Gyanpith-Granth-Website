@@ -1,8 +1,22 @@
+import type { Metadata } from "next";
 import { setRequestLocale } from "next-intl/server";
 import { iconMap, type IconName } from "@/components/Icons";
 import { PageHero } from "@/components/PageHero";
 import { getAbout, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const about = getAbout();
+  return {
+    title: t(about.title, locale as Locale),
+    description: t(about.subtitle, locale as Locale),
+  };
+}
 
 export default async function AboutPage({
   params,

@@ -13,7 +13,7 @@ import {
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { routing } from "@/i18n/routing";
-import { getCategories, getSite } from "@/lib/content";
+import { getCategories, getSite, t } from "@/lib/content";
 import type { Locale } from "@/lib/types";
 
 const gujarati = Noto_Sans_Gujarati({
@@ -46,10 +46,19 @@ const serifLatin = Crimson_Text({
   weight: ["400", "600", "700"],
 });
 
-export const metadata: Metadata = {
-  title: "Kaival Gyanpith",
-  description: "Digital Library of Gyan Sampraday Granths",
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const site = getSite();
+  const name = t(site.brand.name, locale as Locale);
+  return {
+    title: { default: name, template: `%s | ${name}` },
+    description: t(site.footer.about, locale as Locale),
+  };
+}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
