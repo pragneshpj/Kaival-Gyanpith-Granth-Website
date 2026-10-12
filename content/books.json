@@ -849,7 +849,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "vignan-sakratmani-granth-2",
@@ -1991,7 +1992,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "panchikaran-2",
@@ -2021,7 +2023,8 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    }
+    },
+    "hidden": true
   },
   {
     "id": "sakrat-param-prakash-01",
@@ -2335,7 +2338,7 @@
     "featured": false,
     "categoryId": "guruji",
     "authorId": "avichal-devacharya",
-    "literatureTypeId": "granth",
+    "literatureTypeId": "other",
     "title": {
       "gu": "પ્રેરણાપુંજ",
       "hi": "प्रेरणापुंज",
@@ -2395,7 +2398,7 @@
     "featured": false,
     "categoryId": "other",
     "authorId": "other",
-    "literatureTypeId": "other",
+    "literatureTypeId": "bhajan",
     "title": {
       "gu": "અવિચલ અમૃતધારા",
       "hi": "अविचल अमृतधारा",

@@ -115,9 +115,9 @@
   ],
   "footer": {
     "about": {
-      "gu": "કૈવલ પરંપરાના પવિત્ર ગ્રંથો અને હસ્તલિખિત હસ્તપ્રતોનું ડિજિટલ પુસ્તકાલય.",
-      "hi": "कैवल परंपरा के पवित्र ग्रंथों और हस्तलिखित पाण्डुलिपियों का डिजिटल पुस्तकालय।",
-      "en": "A digital library of sacred granths and handwritten manuscripts of the Kaival tradition."
+      "gu": "કૈવલ પરંપરાના પવિત્ર ગ્રંથો અને હસ્તલિખિતનું ડિજિટલ પુસ્તકાલય.",
+      "hi": "कैवल परंपरा के पवित्र ग्रंथों और हस्तलिखित का डिजिटल पुस्तकालय।",
+      "en": "A digital library of sacred granths and manuscripts of the Kaival tradition."
     },
     "quickLinksTitle": { "gu": "ઝડપી લિંક્સ", "hi": "त्वरित लिंक", "en": "Quick Links" },
     "collectionTitle": { "gu": "ગ્રંથ સંગ્રહ", "hi": "ग्रंथ संग्रह", "en": "Collection" },

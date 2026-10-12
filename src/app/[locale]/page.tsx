@@ -34,7 +34,7 @@ export default async function HomePage({
 
       <section className="mx-auto max-w-7xl px-4 pt-14 pb-14 md:px-8 md:pt-20 md:pb-20">
         <SectionTitle title={t(home.sections.collection, locale)} />
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {categories.map((category) => (
             <CategoryCard
               key={category.id}
