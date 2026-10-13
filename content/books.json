@@ -63,7 +63,7 @@
     "id": "vishva-vidhvansh-nidhi-3-4",
     "slug": "vishva-vidhvansh-nidhi-3-4",
     "cover": "/images/books/nemi-maharaj/2.jpg",
-    "pdf": "/pdfs/sample.pdf",
+    "pdf": "https://drive.google.com/file/d/12frZYdhCc8yg7PnogxzJM6t_ydc5Timo/view?usp=sharing",
     "featured": true,
     "categoryId": "nemi-maharajshri",
     "authorId": "nemi-maharaj",
@@ -2576,7 +2576,7 @@
     "cover": "/images/books/handwritten/nityaniyam-upasna-book.jpg",
     "pdf": "https://drive.google.com/file/d/15l2nyqptoe9Qm7BRoHOiN31Vq2dKhXKh/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "other",
     "authorId": "other",
     "literatureTypeId": "other",
     "title": {
@@ -2590,9 +2590,9 @@
       "en": "Other"
     },
     "tag": {
-      "gu": "હસ્તલિખિત",
-      "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "gu": "જ્ઞાન સંપ્રદાય",
+      "hi": "ज्ञान सम्प्रदाय",
+      "en": "Gyan Sampraday"
     },
     "excerpt": {
       "gu": "જ્ઞાન સંપ્રદાય ગુરુગાદી સારસાપુરીની નિત્ય નિયમ ઉપાસના.",

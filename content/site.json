@@ -91,19 +91,19 @@
   "stats": [
     {
       "id": "books",
-      "value": "70+",
+      "value": "40+",
       "icon": "/images/stats/book.png",
       "label": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "Books" }
     },
     {
       "id": "handwritten",
-      "value": "50+",
+      "value": "10+",
       "icon": "/images/stats/scroll.png",
       "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" }
     },
     {
       "id": "categories",
-      "value": "4",
+      "value": "3",
       "icon": "/images/stats/lotus.png",
       "label": { "gu": "મુખ્ય શ્રેણીઓ", "hi": "मुख्य श्रेणियाँ", "en": "Main Categories" }
     },
