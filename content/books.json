@@ -2154,7 +2154,7 @@
     "id": "hansataleva-granth-avichal",
     "slug": "hansataleva-granth-avichal",
     "cover": "/images/books/jagatguru-avichal-devacharya/hansataleva-granth.jpg",
-    "pdf": "https://drive.google.com/file/d/1dfi1V5i6vNrA_JTDw5HjkdNhUq_1WrGU/view?usp=sharing",
+    "pdf": "https://drive.google.com/file/d/1AwRuDUyhmaGHq0p55rMngfE4UAIKE1n3/view?usp=sharing",
     "featured": false,
     "categoryId": "guruji",
     "authorId": "avichal-devacharya",
@@ -2424,7 +2424,7 @@
     "id": "avichal-amrutdhara",
     "slug": "avichal-amrutdhara",
     "cover": "/images/books/other/avichal-amrutdhara-1-73.jpg",
-    "pdf": "https://drive.google.com/file/d/1zxwYkbGxmN564tGlYnHvvPXc5oxPrYek/view?usp=sharing",
+    "pdf": "https://drive.google.com/file/d/1--4CAO2j0TuUbZQCpsTHBTu8EMN-6-vQ/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
     "authorId": "other",
@@ -2598,6 +2598,36 @@
       "gu": "જ્ઞાન સંપ્રદાય ગુરુગાદી સારસાપુરીની નિત્ય નિયમ ઉપાસના.",
       "hi": "ज्ञान सम्प्रदाय गुरुगादी सारसापुरी की नित्य नियम उपासना।",
       "en": "Daily niyam and upasana of the Gyan Sampraday Gurugadi, Sarsapuri."
+    }
+  },
+  {
+    "id": "gyansampraday-parichay",
+    "slug": "gyansampraday-parichay",
+    "cover": "/images/books/other/gyansampraday-parichay.jpg",
+    "pdf": "https://drive.google.com/file/d/10mVR8KK1nJy50k4lRDb6m1NMYseRCJE4/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "other",
+    "title": {
+      "gu": "જ્ઞાન સમ્પ્રદાય એક પરિચય",
+      "hi": "ज्ञान सम्प्रदाय एक परिचय",
+      "en": "Gyan Sampraday Ek Parichay"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "જ્ઞાન સંપ્રદાયનો સંક્ષિપ્ત પરિચય.",
+      "hi": "ज्ञान सम्प्रदाय का संक्षिप्त परिचय।",
+      "en": "A brief introduction to the Gyan Sampraday."
     }
   }
 ]
