@@ -2424,7 +2424,7 @@
     "id": "avichal-amrutdhara",
     "slug": "avichal-amrutdhara",
     "cover": "/images/books/other/avichal-amrutdhara-1-73.jpg",
-    "pdf": "https://drive.google.com/file/d/1--4CAO2j0TuUbZQCpsTHBTu8EMN-6-vQ/view?usp=sharing",
+    "pdf": "https://drive.google.com/file/d/1zxwYkbGxmN564tGlYnHvvPXc5oxPrYek/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
     "authorId": "other",
@@ -2628,6 +2628,36 @@
       "gu": "જ્ઞાન સંપ્રદાયનો સંક્ષિપ્ત પરિચય.",
       "hi": "ज्ञान सम्प्रदाय का संक्षिप्त परिचय।",
       "en": "A brief introduction to the Gyan Sampraday."
+    }
+  },
+  {
+    "id": "amrutdhara",
+    "slug": "amrutdhara",
+    "cover": "/images/books/other/amrutdhara.jpg",
+    "pdf": "https://drive.google.com/file/d/1--4CAO2j0TuUbZQCpsTHBTu8EMN-6-vQ/view?usp=sharing",
+    "featured": false,
+    "categoryId": "other",
+    "authorId": "other",
+    "literatureTypeId": "bhajan",
+    "title": {
+      "gu": "સ્તુતિ પ્રાર્થના",
+      "hi": "स्तुति प्रार्थना",
+      "en": "Stuti Prarthana"
+    },
+    "author": {
+      "gu": "અન્ય",
+      "hi": "अन्य",
+      "en": "Other"
+    },
+    "tag": {
+      "gu": "અન્ય સાહિત્ય",
+      "hi": "अन्य साहित्य",
+      "en": "Other"
+    },
+    "excerpt": {
+      "gu": "સપ્તમ્ કુબેરાચાર્ય પ.પૂ. જગદ્ગુરુ રચિત સ્તુતિ અને પ્રાર્થનાઓ.",
+      "hi": "सप्तम् कुबेराचार्य प.पू. जगद्गुरु रचित स्तुति और प्रार्थनाएँ।",
+      "en": "Stutis and prayers composed by Saptam Kuberacharya P.P. Jagadguru."
     }
   }
 ]
