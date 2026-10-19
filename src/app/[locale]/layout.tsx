@@ -3,48 +3,18 @@ import { notFound } from "next/navigation";
 import { Analytics } from "@vercel/analytics/next";
 import { NextIntlClientProvider } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
-import {
-  Crimson_Text,
-  Noto_Sans,
-  Noto_Sans_Devanagari,
-  Noto_Sans_Gujarati,
-  Noto_Serif_Gujarati,
-} from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { routing } from "@/i18n/routing";
 import { getCategories, getSite, t } from "@/lib/content";
+import {
+  gujarati,
+  devanagari,
+  latin,
+  serifGujarati,
+  serifLatin,
+} from "@/lib/fonts";
 import type { Locale } from "@/lib/types";
-
-const gujarati = Noto_Sans_Gujarati({
-  subsets: ["gujarati"],
-  variable: "--font-gujarati",
-  weight: ["400", "500", "600", "700"],
-});
-
-const devanagari = Noto_Sans_Devanagari({
-  subsets: ["devanagari"],
-  variable: "--font-devanagari",
-  weight: ["400", "500", "600", "700"],
-});
-
-const latin = Noto_Sans({
-  subsets: ["latin"],
-  variable: "--font-latin",
-  weight: ["400", "500", "600", "700"],
-});
-
-const serifGujarati = Noto_Serif_Gujarati({
-  subsets: ["gujarati"],
-  variable: "--font-serif-gujarati",
-  weight: ["400", "600", "700"],
-});
-
-const serifLatin = Crimson_Text({
-  subsets: ["latin"],
-  variable: "--font-serif-latin",
-  weight: ["400", "600", "700"],
-});
 
 export async function generateMetadata({
   params,

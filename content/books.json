@@ -1965,18 +1965,18 @@
     }
   },
   {
-    "id": "panchikaran-1",
-    "slug": "panchikaran-1",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "id": "laghu-panchikaran",
+    "slug": "laghu-panchikaran",
+    "cover": "/images/books/handwritten/laghu-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1vUq5zoMKlzHMl7nFH1a3YqPWMagpFJ0D/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "પંચીકરણ ૧",
-      "hi": "पंचीकरण १",
-      "en": "Panchikaran 1"
+      "gu": "લઘુ પંચીકરણ",
+      "hi": "लघु पंचीकरण",
+      "en": "Laghu Panchikaran"
     },
     "author": {
       "gu": "દિવ્ય પરમ ગુરુ",
@@ -1992,8 +1992,7 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    },
-    "hidden": true
+    }
   },
   {
     "id": "panchikaran-2",
@@ -2023,8 +2022,7 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    },
-    "hidden": true
+    }
   },
   {
     "id": "sakrat-param-prakash-01",
