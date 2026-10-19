@@ -1995,18 +1995,18 @@
     }
   },
   {
-    "id": "panchikaran-2",
-    "slug": "panchikaran-2",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "id": "sakarta-advait-lakshbodh-panchikaran",
+    "slug": "sakarta-advait-lakshbodh-panchikaran",
+    "cover": "/images/books/handwritten/sakarta-advait-lakshbodh-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1n1jeC-DxcQcOWOtqiM_0AzlfwC3PSqfK/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "પંચીકરણ ૨",
-      "hi": "पंचीकरण २",
-      "en": "Panchikaran 2"
+      "gu": "સકર્તા અદ્રૈત લક્ષબોધ પંચીકરણ",
+      "hi": "सकर्ता अद्वैत लक्षबोध पंचीकरण",
+      "en": "Sakarta Advait Lakshbodh Panchikaran"
     },
     "author": {
       "gu": "દિવ્ય પરમ ગુરુ",
