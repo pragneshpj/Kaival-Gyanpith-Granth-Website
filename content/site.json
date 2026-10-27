@@ -56,11 +56,18 @@
     "email": { "gu": "ઈમેઈલ", "hi": "ईमेल", "en": "Email" },
     "phone": { "gu": "ફોન", "hi": "फ़ोन", "en": "Phone" },
     "message": { "gu": "સંદેશ", "hi": "संदेश", "en": "Message" },
+    "formSuccessTitle": { "gu": "સફળતા", "hi": "सफल", "en": "Success" },
     "formSuccess": {
       "gu": "આભાર. તમારો સંદેશ પ્રાપ્ત થયો છે.",
       "hi": "धन्यवाद। आपका संदेश प्राप्त हो गया है।",
       "en": "Thank you. Your message has been received."
     },
+    "formError": {
+      "gu": "સંદેશ મોકલી શકાયો નહીં. કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "hi": "संदेश नहीं भेजा जा सका। कृपया फिर से प्रयास करें।",
+      "en": "The message could not be sent. Please try again."
+    },
+    "formOk": { "gu": "બરાબર", "hi": "ठीक है", "en": "OK" },
     "downloadPdf": { "gu": "PDF ડાઉનલોડ", "hi": "PDF डाउनलोड", "en": "Download PDF" },
     "noResults": {
       "gu": "આ શોધ માટે કોઈ ગ્રંથ મળ્યા નથી.",
