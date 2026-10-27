@@ -822,18 +822,18 @@
     }
   },
   {
-    "id": "panchikaran",
-    "slug": "panchikaran",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "id": "chaturdeh-panchatattva-vibhag-panchikaran",
+    "slug": "chaturdeh-panchatattva-vibhag-panchikaran",
+    "cover": "/images/books/handwritten/chaturdeh-panchatattva-vibhag-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1j2G2v8ydRZoASMVq5g8wVd3VRrTZ4Z3M/view?usp=share_link",
     "featured": false,
     "categoryId": "handwritten",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
-      "gu": "પંચીકરણ",
-      "hi": "पंचीकरण",
-      "en": "Panchikaran"
+      "gu": "ચતુર્દેહ પંચતત્વ વિભાગ પંચીકરણ",
+      "hi": "चतुर्देह पंचतत्व विभाग पंचीकरण",
+      "en": "Chaturdeh Panchatattva Vibhag Panchikaran"
     },
     "author": {
       "gu": "દિવ્ય પરમ ગુરુ",
@@ -849,8 +849,7 @@
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
       "en": "A handwritten granth preserved in digital form."
-    },
-    "hidden": true
+    }
   },
   {
     "id": "vignan-sakratmani-granth-2",
