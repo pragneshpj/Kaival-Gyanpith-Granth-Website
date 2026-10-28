@@ -1,12 +1,12 @@
 [
   {
-    "id": "handwritten",
-    "href": "/library?category=handwritten",
+    "id": "hast-likhit",
+    "href": "/library?category=hast-likhit",
     "icon": "scroll",
     "title": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "description": {
       "gu": "પ્રાચીન હસ્તપ્રતોનું ડિજિટલ સંરક્ષણ અને અધ્યયન.",

@@ -1,7 +1,7 @@
 {
   "chips": [
     { "id": "all", "label": { "gu": "બધા", "hi": "सभी", "en": "All" } },
-    { "id": "handwritten", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" } },
+    { "id": "hast-likhit", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Hast Likhit" } },
     {
       "id": "nemi-maharajshri",
       "label": {
@@ -22,7 +22,7 @@
   "dropdowns": {
     "categories": [
       { "id": "all", "label": { "gu": "શ્રેણી", "hi": "श्रेणी", "en": "Category" } },
-      { "id": "handwritten", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Handwritten" } },
+      { "id": "hast-likhit", "label": { "gu": "હસ્તલિખિત", "hi": "हस्तलिखित", "en": "Hast Likhit" } },
       {
         "id": "nemi-maharajshri",
         "label": {
@@ -85,7 +85,7 @@
       { "id": "other", "label": { "gu": "અન્ય", "hi": "अन्य", "en": "Other" } }
     ],
     "authorsByCategory": {
-      "handwritten": ["divya-param-guru", "narvedsagar", "acharatba", "other"],
+      "hast-likhit": ["divya-param-guru", "narvedsagar", "acharatba", "other"],
       "nemi-maharajshri": [
         "nemi-maharaj",
         "divya-param-guru",

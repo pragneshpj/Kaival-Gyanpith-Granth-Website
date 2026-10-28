@@ -49,7 +49,7 @@
     "author": { "gu": "રચયિતા", "hi": "रचयिता", "en": "Author" },
     "literatureType": { "gu": "સાહિત્ય પ્રકાર", "hi": "साहित्य प्रकार", "en": "Literature Type" },
     "viewBooks": { "gu": "ગ્રંથો જુઓ", "hi": "ग्रंथ देखें", "en": "View Books" },
-    "handwrittenCta": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" },
+    "hastLikhitCta": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Hast Likhit Books" },
     "booksCount": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "books" },
     "send": { "gu": "સંદેશ મોકલો", "hi": "संदेश भेजें", "en": "Send Message" },
     "name": { "gu": "નામ", "hi": "नाम", "en": "Name" },
@@ -103,10 +103,10 @@
       "label": { "gu": "ગ્રંથો", "hi": "ग्रंथ", "en": "Books" }
     },
     {
-      "id": "handwritten",
+      "id": "hast-likhit",
       "value": "10+",
       "icon": "/images/stats/scroll.png",
-      "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Handwritten Books" }
+      "label": { "gu": "હસ્તલિખિત ગ્રંથો", "hi": "हस्तलिखित ग्रंथ", "en": "Hast Likhit Books" }
     },
     {
       "id": "categories",

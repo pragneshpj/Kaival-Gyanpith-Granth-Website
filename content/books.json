@@ -432,10 +432,10 @@
   {
     "id": "acharatsagar",
     "slug": "acharatsagar",
-    "cover": "/images/books/handwritten/acharatsagar.jpg",
+    "cover": "/images/books/hast-likhit/acharatsagar.jpg",
     "pdf": "https://drive.google.com/file/d/1N9nJME-OhfG4SN5GdVxzpeEgPysVQiSU/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "acharatba",
     "literatureTypeId": "granth",
     "title": {
@@ -451,12 +451,12 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. અચરતબા રચિત.",
       "hi": "हस्तलिखित ग्रंथ, प.पु. अचरतबा रचित।",
-      "en": "A handwritten granth composed by P.P. Acharatba."
+      "en": "A hast likhit granth composed by P.P. Acharatba."
     }
   },
   {
@@ -552,10 +552,10 @@
   {
     "id": "kaival-vilas-granth",
     "slug": "kaival-vilas-granth",
-    "cover": "/images/books/handwritten/kaival-vilas-granth.jpg",
+    "cover": "/images/books/hast-likhit/kaival-vilas-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1t92SJpBNCJX61C1gP9DcuPTxlzAXjp9G/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -571,21 +571,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "swachar-patrika",
     "slug": "swachar-patrika",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1vEKO8gukj64WoDHk1IWr2Ese7Aui3VHZ/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -601,22 +601,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "sakrat-chintamani-granth",
     "slug": "sakrat-chintamani-granth",
-    "cover": "/images/books/handwritten/sakrat-chintamani-granth.jpg",
+    "cover": "/images/books/hast-likhit/sakrat-chintamani-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1BNCBDXxO8bV8flfWRczSpbDHREGMmLXz/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -632,21 +632,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "param-sindhant-pranav-kalptaru",
     "slug": "param-sindhant-pranav-kalptaru",
-    "cover": "/images/books/handwritten/param-sindhant-pranav-kalptaru.jpg",
+    "cover": "/images/books/hast-likhit/param-sindhant-pranav-kalptaru.jpg",
     "pdf": "https://drive.google.com/file/d/1nkuw4Xivn3zeC8w9I-A1XviQI_03zJyW/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -662,21 +662,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "shakhi",
     "slug": "shakhi",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1a17jRbWmRdgJqTghFirOf7TRWM1jNJOj/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -692,22 +692,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "vignan-sakratmani-granth",
     "slug": "vignan-sakratmani-granth",
-    "cover": "/images/books/handwritten/vignan-sakratmani-deep.jpg",
+    "cover": "/images/books/hast-likhit/vignan-sakratmani-deep.jpg",
     "pdf": "https://drive.google.com/file/d/1p8xXkVDjCC0tstZxB5fXxExwUTEQq1qH/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -723,21 +723,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "vishva-bodth-chosra-granth",
     "slug": "vishva-bodth-chosra-granth",
-    "cover": "/images/books/handwritten/vishwabodh-chosara.jpg",
+    "cover": "/images/books/hast-likhit/vishwabodh-chosara.jpg",
     "pdf": "https://drive.google.com/file/d/14JE2zGB-7eDkM8I1L28C76ec3v5IsObP/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -753,21 +753,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "adwaita-dwait-narved",
     "slug": "adwaita-dwait-narved",
-    "cover": "/images/books/handwritten/advaita-dvaita-narved-chintamani.jpg",
+    "cover": "/images/books/hast-likhit/advaita-dvaita-narved-chintamani.jpg",
     "pdf": "https://drive.google.com/file/d/1uYxhHSHTFNz39Mb-FTwTkN4YrqQMuUou/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -783,21 +783,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "sakrat-param-prakashimani",
     "slug": "sakrat-param-prakashimani",
-    "cover": "/images/books/handwritten/sakrat-param-prakashimani.jpg",
+    "cover": "/images/books/hast-likhit/sakrat-param-prakashimani.jpg",
     "pdf": "https://drive.google.com/file/d/1vRLXKQ39uV-A2aDXatFMqJs7e7FcdYuJ/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -813,21 +813,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "chaturdeh-panchatattva-vibhag-panchikaran",
     "slug": "chaturdeh-panchatattva-vibhag-panchikaran",
-    "cover": "/images/books/handwritten/chaturdeh-panchatattva-vibhag-panchikaran.jpg",
+    "cover": "/images/books/hast-likhit/chaturdeh-panchatattva-vibhag-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1j2G2v8ydRZoASMVq5g8wVd3VRrTZ4Z3M/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -843,21 +843,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "vignan-sakratmani-granth-2",
     "slug": "vignan-sakratmani-granth-2",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1dbn3Ym5f-LChkomeDqEBsosGGPu_pLYS/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -873,22 +873,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "aghadhbodh-granth",
     "slug": "aghadhbodh-granth",
-    "cover": "/images/books/handwritten/aghadhbodh-granth.jpg",
+    "cover": "/images/books/hast-likhit/aghadhbodh-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1AfM0DUDo2oMUGrRoGFo-fjDMw9eOuaPK/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -904,21 +904,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "raveni-pad",
     "slug": "raveni-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/14Sj9OcSspXU_Y4AQKhu7fo25UBYe9dUm/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -934,22 +934,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "khat-darshan-mat-delchavanko-pad",
     "slug": "khat-darshan-mat-delchavanko-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1TjCkZODVbCVn8ESkBTZiRju_W7fv8Aye/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -965,22 +965,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "avinasi-pad",
     "slug": "avinasi-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1AO-EdXVyc2v0P0ZOB1BeuEHLxd6RaZ9i/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -996,22 +996,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "prabhat-pad",
     "slug": "prabhat-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eDPL7-Syp38ftz6U-EAI4bOFwd3yaGYN/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1027,22 +1027,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "kagal-pad",
     "slug": "kagal-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/13wMO8jpxv3fv9uFVphnlDUN2_y_mu-oE/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1058,22 +1058,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "dhun",
     "slug": "dhun",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1gT7ozECotxHF7dkrQgzpaCx_YTMcSkkh/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1089,22 +1089,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "tithi-rekta-kera-pad",
     "slug": "tithi-rekta-kera-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1ftpVLg6dw_omymrZcAxSMNP_Mn_bZ5kM/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1120,22 +1120,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "bhram-maya-nirupan-rekta-pad",
     "slug": "bhram-maya-nirupan-rekta-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/15j38CdYDpXjBkJEGVAWeSyQDfANVIhXk/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1151,22 +1151,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "kakko-ank-siromani-pad",
     "slug": "kakko-ank-siromani-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1r_Vu-p9ES03M9rjl9Weo48PdNKJIqoOu/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1182,22 +1182,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "gyan-mani-bodh-guru",
     "slug": "gyan-mani-bodh-guru",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1o1f1EQ7ehluVNan5EJx7IYybuW4qsXAo/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1213,22 +1213,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "chintamani-pad",
     "slug": "chintamani-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Rezi5UodK7hmoGRJVn6GNw74W7586nZp/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1244,22 +1244,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "chundli-pad",
     "slug": "chundli-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1yKns_8duv8ekR_OowznmNFxPfuXCnJRV/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1275,22 +1275,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "charkhido",
     "slug": "charkhido",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1lI7d-DFvr2pbpJCPWqsG2MvAJaULCZaP/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1306,22 +1306,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "rekta-pad",
     "slug": "rekta-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1IXJEfjbS-UBuSZgZv_VDGlyqhtjiUVWy/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1337,22 +1337,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "mevada-pad",
     "slug": "mevada-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eethZJlWgcMaPvbw8cGj6li7aD4gGlgv/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1368,22 +1368,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "ashavari-pad",
     "slug": "ashavari-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1fbEPY0KNl7ONaSTv3x0dNM34VPonGNhr/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1399,22 +1399,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "kshalno-pad",
     "slug": "kshalno-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1eG2t5Rf2_cevmDnRB7FqaMTe_JpG9R_v/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1430,22 +1430,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "ashwani-pad",
     "slug": "ashwani-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1PPksNhO2AhdGTW2liHMfiXhKZ9jr5ma_/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1461,22 +1461,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "hindora-pad",
     "slug": "hindora-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1M8yysXjG6XUklCYAEa_U32c48VuA7Ns0/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1492,22 +1492,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "mungal-aarti",
     "slug": "mungal-aarti",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1M2Vi-4YOtHEogFE4CFHAh6DCQzu31mF3/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1523,22 +1523,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "kaddoni-chal-pad",
     "slug": "kaddoni-chal-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1d7egBCVU-JmIwaV-e6Zf4EYYnZevUNzW/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1554,22 +1554,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "vasunt-rug-pad",
     "slug": "vasunt-rug-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10RkXtRlk6smuL4bk-87FMLz9SQi3VLNM/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1585,22 +1585,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "dhumar-rag-pad",
     "slug": "dhumar-rag-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1MYrBx13FhS-npG-QXm83bnjflahCdHOs/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1616,22 +1616,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "helari-rag-pad",
     "slug": "helari-rag-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/18PRjOytt95HismstxYEN6n0MdahbZLqo/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1647,22 +1647,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "garbi-pad",
     "slug": "garbi-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10lHZHTn-seI-SAQApH-s4xBAKSLbaovw/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1678,22 +1678,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "mass-pad",
     "slug": "mass-pad",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/10dy3w1SrMxbvH1Tdmak7vF2ZVXeoelzF/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1709,22 +1709,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "bhojan-samani-dhun",
     "slug": "bhojan-samani-dhun",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1D5TT9wNZ5yYgw5jyGKa72GdDFgmd_2vs/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1740,22 +1740,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "sundhya-aarli",
     "slug": "sundhya-aarli",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1GWb8EXno_l_7F1zq403ALe-9HDme9oWg/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1771,22 +1771,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "stuti",
     "slug": "stuti",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1sCvaWe9gebDZv8CUKNxGEN5k7u-igamu/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1802,22 +1802,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "gyan-bhakti-vairag-nirupan-ht",
     "slug": "gyan-bhakti-vairag-nirupan-ht",
-    "cover": "/images/books/handwritten/gyan-bhakti-vairag-nirupan.jpg",
+    "cover": "/images/books/hast-likhit/gyan-bhakti-vairag-nirupan.jpg",
     "pdf": "https://drive.google.com/file/d/1comFXlh7HIMdpHGsOT1BR1zYFWv4lh3l/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1833,21 +1833,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "mahamani-granth",
     "slug": "mahamani-granth",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Y5Plz9g3PjFCeuoxDqS6lly8a90EKhg0/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1863,22 +1863,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "aarti-hastlekhitgranth",
     "slug": "aarti-hastlekhitgranth",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1ugTJegspiVOQpDmxO2Zp6-Z0MyRAMTaU/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "bhajan",
     "title": {
@@ -1894,22 +1894,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "hasta-leva-granth-ht",
     "slug": "hasta-leva-granth-ht",
-    "cover": "/images/books/handwritten/hansataleva.jpg",
+    "cover": "/images/books/hast-likhit/hansataleva.jpg",
     "pdf": "https://drive.google.com/file/d/1BLljTyQbAacsbDVEJaBMLxPbahWfpZJE/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1925,21 +1925,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "pancham-ved",
     "slug": "pancham-ved",
-    "cover": "/images/books/handwritten/pancham-sukshm-ved.jpg",
+    "cover": "/images/books/hast-likhit/pancham-sukshm-ved.jpg",
     "pdf": "https://drive.google.com/file/d/1-U0fWWBz-6GcF1WDS4cYCcJ97bvgIRWm/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1955,21 +1955,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "laghu-panchikaran",
     "slug": "laghu-panchikaran",
-    "cover": "/images/books/handwritten/laghu-panchikaran.jpg",
+    "cover": "/images/books/hast-likhit/laghu-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1vUq5zoMKlzHMl7nFH1a3YqPWMagpFJ0D/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -1985,21 +1985,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "sakarta-advait-lakshbodh-panchikaran",
     "slug": "sakarta-advait-lakshbodh-panchikaran",
-    "cover": "/images/books/handwritten/sakarta-advait-lakshbodh-panchikaran.jpg",
+    "cover": "/images/books/hast-likhit/sakarta-advait-lakshbodh-panchikaran.jpg",
     "pdf": "https://drive.google.com/file/d/1n1jeC-DxcQcOWOtqiM_0AzlfwC3PSqfK/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -2015,21 +2015,21 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     }
   },
   {
     "id": "sakrat-param-prakash-01",
     "slug": "sakrat-param-prakash-01",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1BdF1qbzYodDUUFhaR5J12xpvlfgbX2L6/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -2045,22 +2045,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "sakrat-param-prakash-02",
     "slug": "sakrat-param-prakash-02",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1tPmEoxEDQvGkbPj4coQglq8VPhz7by53/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -2076,22 +2076,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "sakrat-param-prakash-03",
     "slug": "sakrat-param-prakash-03",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1kNRaapR2lKlZXdztI5t93Zu0t9AejHpQ/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -2107,22 +2107,22 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
   {
     "id": "sakrat-param-prakash-04",
     "slug": "sakrat-param-prakash-04",
-    "cover": "/images/books/handwritten/sample.jpg",
+    "cover": "/images/books/hast-likhit/sample.jpg",
     "pdf": "https://drive.google.com/file/d/1Dy0geb6j-huM9c-EHlpOWSGLVTIOMqov/view?usp=share_link",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "divya-param-guru",
     "literatureTypeId": "granth",
     "title": {
@@ -2138,12 +2138,12 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, ડિજિટલ સ્વરૂપે સાચવેલ.",
       "hi": "हस्तलिखित ग्रंथ, डिजिटल रूप में संरक्षित।",
-      "en": "A handwritten granth preserved in digital form."
+      "en": "A hast likhit granth preserved in digital form."
     },
     "hidden": true
   },
@@ -2240,10 +2240,10 @@
   {
     "id": "siddhant-bavni-granth-ht",
     "slug": "siddhant-bavni-granth-ht",
-    "cover": "/images/books/handwritten/siddhant-bavni-granth.jpg",
+    "cover": "/images/books/hast-likhit/siddhant-bavni-granth.jpg",
     "pdf": "https://drive.google.com/file/d/1XFNb-EninOKtLwxjYdt232v7urNBFOBE/view?usp=sharing",
     "featured": false,
-    "categoryId": "handwritten",
+    "categoryId": "hast-likhit",
     "authorId": "narvedsagar",
     "literatureTypeId": "granth",
     "title": {
@@ -2259,12 +2259,12 @@
     "tag": {
       "gu": "હસ્તલિખિત",
       "hi": "हस्तलिखित",
-      "en": "Handwritten"
+      "en": "Hast Likhit"
     },
     "excerpt": {
       "gu": "હસ્તલિખિત ગ્રંથ, પ.પુ. નરવેદ સાગર મહારાજ રચિત.",
       "hi": "हस्तलिखित ग्रंथ, प.पु. नरवेद सागर महाराज रचित।",
-      "en": "A handwritten granth composed by P.P. Narved Sagar Maharaj."
+      "en": "A hast likhit granth composed by P.P. Narved Sagar Maharaj."
     }
   },
   {
@@ -2570,7 +2570,7 @@
   {
     "id": "nityaniyam-upasna-book",
     "slug": "nityaniyam-upasna-book",
-    "cover": "/images/books/handwritten/nityaniyam-upasna-book.jpg",
+    "cover": "/images/books/hast-likhit/nityaniyam-upasna-book.jpg",
     "pdf": "https://drive.google.com/file/d/15l2nyqptoe9Qm7BRoHOiN31Vq2dKhXKh/view?usp=sharing",
     "featured": false,
     "categoryId": "other",
